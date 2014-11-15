@@ -24,3 +24,8 @@ List of awesome Computer Science courses scoured from university pages across th
 - [COS226](http://www.cs.princeton.edu/courses/archive/fall14/cos226/info.php) **Data Structures and Algorithms** *Princeton University*
   - The [popular](https://www.coursera.org/course/algs4partI) algorithms class covering most important algorithms and data structures in use on computers taught by Robert Sedgewick.
   - [Assignments](http://www.cs.princeton.edu/courses/archive/fall14/cos226/assignments.php)
+
+### Software Engineering
+- [CS 5150](http://www.cs.cornell.edu/courses/CS5150/2014fa/overview.html) **Software Engineering** *Cornell University*
+  -  Introduction to the practical problems of specifying, designing, building, testing, and delivering reliable software systems
+  - [Lectures](http://www.cs.cornell.edu/courses/CS5150/2014fa/materials.html)

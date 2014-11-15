@@ -2,10 +2,11 @@ List of awesome Computer Science courses scoured from university pages across th
 
 ### Systems
 - [CS425](https://courses.engr.illinois.edu/cs425/) **Distributed Systems** *Univ of Illinois, Urbana-Champaign*
-  - Brilliant set of lectures and reading material covering fundamental concepts in distributed systems such as Vector clocks, Consensus and Paxos. The professor is engaging and regularly cites popular systems (Chord, Zookeeper, Spark) as examples.  
+  - Brilliant set of lectures and reading material covering fundamental concepts in distributed systems such as Vector clocks, Consensus and Paxos.
   - [Lectures](http://recordings.engineering.illinois.edu/ess/portal/section/11ae0191-49e2-4c34-95fd-fc65355262d4)
   - [Assignments](https://courses.engr.illinois.edu/cs425/assignments.html)
 - [CS241](https://courses.engr.illinois.edu/cs241/) **Systems Programming** *Univ of Illinois, Urbana-Champaign*
+  - Learn how to write programs that take full advantage of operating system support in the C programming language 
   - [Assignments](https://courses.engr.illinois.edu/cs241/mp.html)
 
 ### Programming Languages / Compilers

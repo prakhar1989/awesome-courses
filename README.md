@@ -19,3 +19,8 @@ List of awesome Computer Science courses scoured from university pages across th
   - Covers functional programming concepts like closures, tail-call recursion & parallelism using the OCaml programming language
   - [Lectures](http://www.cs.princeton.edu/~dpw/courses/cos326-12/lectures.php)
   - [Assignments](http://www.cs.princeton.edu/~dpw/courses/cos326-12/assignments.php)
+
+### Algorithms
+- [COS226](http://www.cs.princeton.edu/courses/archive/fall14/cos226/info.php) **Data Structures and Algorithms** *Princeton University*
+  - The [popular](https://www.coursera.org/course/algs4partI) algorithms class covering most important algorithms and data structures in use on computers taught by Robert Sedgewick.
+  - [Assignments](http://www.cs.princeton.edu/courses/archive/fall14/cos226/assignments.php)

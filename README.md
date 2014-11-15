@@ -19,6 +19,10 @@ List of awesome Computer Science courses scoured from university pages across th
   - Covers functional programming concepts like closures, tail-call recursion & parallelism using the OCaml programming language
   - [Lectures](http://www.cs.princeton.edu/~dpw/courses/cos326-12/lectures.php)
   - [Assignments](http://www.cs.princeton.edu/~dpw/courses/cos326-12/assignments.php)
+- [CS240h](http://www.scs.stanford.edu/14sp-cs240h/) **Functional Systems in Haskell** *Stanford University*
+  - Building software systems in Haskell
+  - [Lecture Slides](http://www.scs.stanford.edu/14sp-cs240h/slides/)
+  - 3 Assignments: [Lab1](http://www.scs.stanford.edu/14sp-cs240h/labs/lab1.html), [Lab2](http://www.scs.stanford.edu/14sp-cs240h/labs/lab2.html), [Lab3](http://www.scs.stanford.edu/14sp-cs240h/labs/lab3.html)
 
 ### Algorithms
 - [COS226](http://www.cs.princeton.edu/courses/archive/fall14/cos226/info.php) **Data Structures and Algorithms** *Princeton University*

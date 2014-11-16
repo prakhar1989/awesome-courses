@@ -23,6 +23,9 @@ List of awesome Computer Science courses scoured from university pages across th
   - Building software systems in Haskell
   - [Lecture Slides](http://www.scs.stanford.edu/14sp-cs240h/slides/)
   - 3 Assignments: [Lab1](http://www.scs.stanford.edu/14sp-cs240h/labs/lab1.html), [Lab2](http://www.scs.stanford.edu/14sp-cs240h/labs/lab2.html), [Lab3](http://www.scs.stanford.edu/14sp-cs240h/labs/lab3.html)
+- [CS164](https://sites.google.com/a/bodik.org/cs164/home) **Hack your language!** *UC Berkeley*
+  - Introduction to programming languages by designing and implementing domain-specific languages.
+  - [Lecture Videos](https://www.youtube.com/playlist?list=PL421867F00A53B833)
 
 ### Algorithms
 - [COS226](http://www.cs.princeton.edu/courses/archive/fall14/cos226/info.php) **Data Structures and Algorithms** *Princeton University*

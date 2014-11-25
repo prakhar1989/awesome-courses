@@ -27,6 +27,10 @@ List of awesome Computer Science courses scoured from university pages across th
   - Introduction to programming languages by designing and implementing domain-specific languages.
   - [Lecture Videos](https://www.youtube.com/playlist?list=PL421867F00A53B833)
   - [Code for Assignments](https://bitbucket.org/cs164_overlord/)
+- [CS3110](http://www.cs.cornell.edu/Courses/cs3110/2014fa/course_info.php) **Data Structures and Functional Programming** *Cornell University*
+  - Another course that uses OCaml to teach alternative programming paradigms, especially functional and concurrent programming.
+  - [Lecture Slides](http://www.cs.cornell.edu/Courses/cs3110/2014fa/lecture_notes.php)
+  - [Assignments](http://www.cs.cornell.edu/Courses/cs3110/2014fa/)
 
 ### Algorithms
 - [COS226](http://www.cs.princeton.edu/courses/archive/fall14/cos226/info.php) **Data Structures and Algorithms** *Princeton University*

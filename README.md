@@ -13,6 +13,9 @@ List of awesome Computer Science courses scoured from university pages across th
   - [Assignments](http://www.cs.cmu.edu/~dga/15-440/F12/assignments.html)
 - [SPAC](http://homes.cs.washington.edu/~djg/teachingMaterials/spac/) **Parallelism and Concurrency** *Univ of Washington*
   - Technically not a course nevertheless an awesome collection of materials used by Prof Dan Grossman to teach parallelism and concurrency concepts to sophomores at UWash
+- [15-749](http://www.andrew.cmu.edu/course/15-749/) **Engineering Distributed Systems** *Carnegie-Mellon University*
+  - A project focused course on Distributed Systems with an awesome list of readings
+  - [Readings](http://www.andrew.cmu.edu/course/15-749/READINGS/)
 
 ### Programming Languages / Compilers
 - [COS326](http://www.cs.princeton.edu/~dpw/courses/cos326-12/info.php) **Functional Programming** *Princeton University*

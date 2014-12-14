@@ -16,6 +16,9 @@ List of awesome Computer Science courses scoured from university pages across th
 - [15-749](http://www.andrew.cmu.edu/course/15-749/) **Engineering Distributed Systems** *Carnegie-Mellon University*
   - A project focused course on Distributed Systems with an awesome list of readings
   - [Readings](http://www.andrew.cmu.edu/course/15-749/READINGS/)
+- [CS5412](http://www.cs.cornell.edu/Courses/CS5412/2014sp/) **Cloud Computing** *Cornell University*
+  - Taught by one of the stalwarts of this field, Prof Ken Birman, this course has a fantastic set of slides that one can go through. The Prof's [book](http://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance/dp/1447124154) is also a gem and recommended as a must read in Google's tutorial on [Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
+  - [Slides](http://www.cs.cornell.edu/Courses/CS5412/2014sp/Syllabus.htm)
 
 ### Programming Languages / Compilers
 - [COS326](http://www.cs.princeton.edu/~dpw/courses/cos326-12/info.php) **Functional Programming** *Princeton University*

@@ -37,6 +37,10 @@ List of awesome Computer Science courses scoured from university pages across th
   - Another course that uses OCaml to teach alternative programming paradigms, especially functional and concurrent programming.
   - [Lecture Slides](http://www.cs.cornell.edu/Courses/cs3110/2014fa/lecture_notes.php)
   - [Assignments](http://www.cs.cornell.edu/Courses/cs3110/2014fa/)
+- [CS173](http://cs.brown.edu/courses/cs173/2014/) **Programming Languages** *Brown University*
+  - Course by Prof. Krishnamurthi (author of [HtDP](http://htdp.org/2003-09-26/Book/)) and numerous other [awesome](http://cs.brown.edu/courses/cs173/2012/book/) [books](http://papl.cs.brown.edu/2014/index.html) on programming languages. Uses a custom designed [Pyret](http://www.pyret.org/) programming language to teach the concepts. There was an [online class](http://cs.brown.edu/courses/cs173/2012/OnLine/) hosted in 2012, which includes all lecture videos for you to enjoy.
+  - [Videos](http://cs.brown.edu/courses/cs173/2012/Videos/)
+  - [Assignments](http://cs.brown.edu/courses/cs173/2014/assignments.html)
 
 ### Algorithms
 - [COS226](http://www.cs.princeton.edu/courses/archive/fall14/cos226/info.php) **Data Structures and Algorithms** *Princeton University*

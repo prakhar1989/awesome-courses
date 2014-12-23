@@ -16,6 +16,10 @@ List of awesome Computer Science courses scoured from university pages across th
 - [15-749](http://www.andrew.cmu.edu/course/15-749/) **Engineering Distributed Systems** *Carnegie-Mellon University*
   - A project focused course on Distributed Systems with an awesome list of readings
   - [Readings](http://www.andrew.cmu.edu/course/15-749/READINGS/)
+- [PODC](http://dcg.ethz.ch/lectures/podc_allstars/)**Principles of Distributed Computing** *ETH-Zurich*
+  - Explore essential algorithmic ideas and lower bound techniques, basically the "pearls" of distributed computing in an easy-to-read set of lecture notes, combined with complete exercises and solutions.
+  - [Book](http://dcg.ethz.ch/lectures/podc_allstars/lecture/podc.pdf)
+  - [Assignments and Solutions](http://dcg.ethz.ch/lectures/podc_allstars/)
 - [CS5412](http://www.cs.cornell.edu/Courses/CS5412/2014sp/) **Cloud Computing** *Cornell University*
   - Taught by one of the stalwarts of this field, Prof Ken Birman, this course has a fantastic set of slides that one can go through. The Prof's [book](http://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance/dp/1447124154) is also a gem and recommended as a must read in Google's tutorial on [Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
   - [Slides](http://www.cs.cornell.edu/Courses/CS5412/2014sp/Syllabus.htm)
@@ -26,7 +30,7 @@ List of awesome Computer Science courses scoured from university pages across th
   - [Lectures](http://www.cs.princeton.edu/~dpw/courses/cos326-12/lectures.php)
   - [Assignments](http://www.cs.princeton.edu/~dpw/courses/cos326-12/assignments.php)
 - [CIS194](http://www.seas.upenn.edu/~cis194/) **Introduction to Haskell** *Penn Engineering*
-  - Introduction to Haskell
+  - Explore the joys of functional programming, using Haskell as a vehicle. The aim of the course will be to allow you to use Haskell to easily and conveniently write practical programs.
   - [Previous](http://www.seas.upenn.edu/~cis194/spring13/index.html) semester also available, with more exercices
   - [Assignments & Lectures](http://www.seas.upenn.edu/~cis194/lectures.html)
 - [CS240h](http://www.scs.stanford.edu/14sp-cs240h/) **Functional Systems in Haskell** *Stanford University*

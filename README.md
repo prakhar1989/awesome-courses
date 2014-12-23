@@ -16,7 +16,7 @@ List of awesome Computer Science courses scoured from university pages across th
 - [15-749](http://www.andrew.cmu.edu/course/15-749/) **Engineering Distributed Systems** *Carnegie-Mellon University*
   - A project focused course on Distributed Systems with an awesome list of readings
   - [Readings](http://www.andrew.cmu.edu/course/15-749/READINGS/)
-- [PODC](http://dcg.ethz.ch/lectures/podc_allstars/)**Principles of Distributed Computing** *ETH-Zurich*
+- [PODC](http://dcg.ethz.ch/lectures/podc_allstars/) **Principles of Distributed Computing** *ETH-Zurich*
   - Explore essential algorithmic ideas and lower bound techniques, basically the "pearls" of distributed computing in an easy-to-read set of lecture notes, combined with complete exercises and solutions.
   - [Book](http://dcg.ethz.ch/lectures/podc_allstars/lecture/podc.pdf)
   - [Assignments and Solutions](http://dcg.ethz.ch/lectures/podc_allstars/)

@@ -63,3 +63,7 @@ List of awesome Computer Science courses scoured from university pages across th
   - Taught by one of the leading experts on Machine Learning - **Tom Mitchell**
   - [Lectures](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
   - [Project Ideas and Datasets](http://www.cs.cmu.edu/~tom/10701_sp11/proj.shtml)
+- [ESM 296-4F](http://ucsb-bren.github.io/esm296-4f/) **GIS & Spatial Analysis** *UC Santa Barbara*
+  - Taught by [James Frew](http://www.bren.ucsb.edu/people/Faculty/james_frew.htm), [Ben Best](http://mgel.env.duke.edu/people/ben-best/), and [Lisa Wedding](http://www.centerforoceansolutions.org/team/lisa-wedding)
+  - Focuses on specific computational languages (e.g., Python, R, shell) and tools (e.g., GDAL/OGR, InVEST, MGET, ModelBuilder) applied to the spatial analysis of environmental problems
+  - [GitHub ](http://ucsb-bren.github.io/esm296-4f/) (includes lecture materials and labs)

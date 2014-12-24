@@ -11,6 +11,10 @@ List of awesome Computer Science courses scoured from university pages across th
 - [15-440](http://www.cs.cmu.edu/~dga/15-440/F12/index.html) **Distributed Systems** *Carnegie-Mellon University*
   - Introduction to distributed systems with a focus on teaching concepts via projects implemented in the Go programming language.
   - [Assignments](http://www.cs.cmu.edu/~dga/15-440/F12/assignments.html)
+- [6.824](http://css.csail.mit.edu/6.824/2014/index.html) **Distributed Systems** *MIT*
+  - MIT's graduate-level DS course with a focus on fault tolerance, replication, and consistency, all taught via awesome lab assignments in Golang! 
+  - [Assignments](http://css.csail.mit.edu/6.824/2014/labs/) - Just do `git clone git://g.csail.mit.edu/6.824-golabs-2014 6.824`
+  - [Lectures](http://css.csail.mit.edu/6.824/2014/schedule.html)
 - [SPAC](http://homes.cs.washington.edu/~djg/teachingMaterials/spac/) **Parallelism and Concurrency** *Univ of Washington*
   - Technically not a course nevertheless an awesome collection of materials used by Prof Dan Grossman to teach parallelism and concurrency concepts to sophomores at UWash
 - [15-749](http://www.andrew.cmu.edu/course/15-749/) **Engineering Distributed Systems** *Carnegie-Mellon University*

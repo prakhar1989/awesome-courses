@@ -27,6 +27,8 @@ List of awesome Computer Science courses scoured from university pages across th
 - [CS5412](http://www.cs.cornell.edu/Courses/CS5412/2014sp/) **Cloud Computing** *Cornell University*
   - Taught by one of the stalwarts of this field, Prof Ken Birman, this course has a fantastic set of slides that one can go through. The Prof's [book](http://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance/dp/1447124154) is also a gem and recommended as a must read in Google's tutorial on [Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
   - [Slides](http://www.cs.cornell.edu/Courses/CS5412/2014sp/Syllabus.htm)
+- [CSCI 360](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/csci360_f14.php) **Computer Architecture 3** *CUNY Hunter College*
+- [CSCI 493.75](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php) **Parallel Computing** *CUNY Hunter College*
 
 ### Programming Languages / Compilers
 - [COS326](http://www.cs.princeton.edu/~dpw/courses/cos326-12/info.php) **Functional Programming** *Princeton University*
@@ -62,7 +64,11 @@ List of awesome Computer Science courses scoured from university pages across th
   - In this course, you will study advanced programming techniques including data structures, encapsulation, abstract data types, interfaces, and algorithms for sorting and searching, and you will get a taste of “software engineering”—the design and implementation of large programs.
   - [Labs](http://www.cs.berkeley.edu/~jrs/61b/lab/index.html)
   - [Lecture Videos on Youtube](http://www.youtube.com/watch?v=frxF7Vs96YU&list=PLMM0a7ZGnITrgfhOxMNP7bpP4hhhKNY9s)
-
+- [CSCI 235](http://compsci.hunter.cuny.edu/~sweiss/courses/csci235.php) **Software Design and Analysis II**
+  *CUNY Hunter College* 
+- [CSCI 335](http://compsci.hunter.cuny.edu/~sweiss/courses/csci335.php) **Software Design and Analysis III**
+  *CUNY Hunter College*
+  
 ### Misc
 - [CS 5150](http://www.cs.cornell.edu/courses/CS5150/2014fa/overview.html) **Software Engineering** *Cornell University*
   -  Introduction to the practical problems of specifying, designing, building, testing, and delivering reliable software systems

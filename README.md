@@ -68,7 +68,7 @@ List of awesome Computer Science courses scoured from university pages across th
   - In this course, you will study advanced programming techniques including data structures, encapsulation, abstract data types, interfaces, and algorithms for sorting and searching, and you will get a taste of “software engineering”—the design and implementation of large programs.
   - [Labs](http://www.cs.berkeley.edu/~jrs/61b/lab/index.html)
   - [Lecture Videos on Youtube](http://www.youtube.com/watch?v=frxF7Vs96YU&list=PLMM0a7ZGnITrgfhOxMNP7bpP4hhhKNY9s)
-- [CSCI 235](http://compsci.hunter.cuny.edu/~sweiss/courses/csci235.php) **Software Design and Analysis II**
+- - [CSCI 235](http://compsci.hunter.cuny.edu/~sweiss/courses/csci235.php) **Software Design and Analysis II**
   *CUNY Hunter College* 
   - Introduces algorithms for a few common problems such as sorting. Practically speaking, it furthers the students' programming skills with topics such as recursion, pointers, and exception handling, and provides a chance to improve software engineering skills and to give the students practical experience for more productive programming.
 - [CSCI 335](http://compsci.hunter.cuny.edu/~sweiss/courses/csci335.php) **Software Design and Analysis III**

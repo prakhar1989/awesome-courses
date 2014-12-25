@@ -35,6 +35,10 @@ List of awesome Computer Science courses scoured from university pages across th
   - The course is an introduction to parallel algorithms and parallel programming in C and C++, using the Message Passing Interface (MPI) and the OpenMP application programming interface. It also includes a brief introduction to parallel architectures and interconnection networks. It is both theoretical and practical, including material on design methodology, performance analysis, and mathematical concepts, as well as details on programming using MPI and OpenMP.
 
 ### Programming Languages / Compilers
+- [CSE341](http://courses.cs.washington.edu/courses/cse341/14sp/) **Programming Languages** *University of Washington*
+  - Covers non-imperative paradigms and languages such as Ruby, Racket, and ML.
+  - [Lectures](https://courses.cs.washington.edu/courses/cse341/14sp/#lecture)
+  - [Assignments and Tests](https://courses.cs.washington.edu/courses/cse341/14sp/#homework)
 - [COS326](http://www.cs.princeton.edu/~dpw/courses/cos326-12/info.php) **Functional Programming** *Princeton University*
   - Covers functional programming concepts like closures, tail-call recursion & parallelism using the OCaml programming language
   - [Lectures](http://www.cs.princeton.edu/~dpw/courses/cos326-12/lectures.php)
@@ -59,6 +63,7 @@ List of awesome Computer Science courses scoured from university pages across th
   - Course by Prof. Krishnamurthi (author of [HtDP](http://htdp.org/2003-09-26/Book/)) and numerous other [awesome](http://cs.brown.edu/courses/cs173/2012/book/) [books](http://papl.cs.brown.edu/2014/index.html) on programming languages. Uses a custom designed [Pyret](http://www.pyret.org/) programming language to teach the concepts. There was an [online class](http://cs.brown.edu/courses/cs173/2012/OnLine/) hosted in 2012, which includes all lecture videos for you to enjoy.
   - [Videos](http://cs.brown.edu/courses/cs173/2012/Videos/)
   - [Assignments](http://cs.brown.edu/courses/cs173/2014/assignments.html)
+
 
 ### Algorithms
 - [COS226](http://www.cs.princeton.edu/courses/archive/fall14/cos226/info.php) **Data Structures and Algorithms** *Princeton University*
@@ -87,3 +92,7 @@ List of awesome Computer Science courses scoured from university pages across th
   - Taught by [James Frew](http://www.bren.ucsb.edu/people/Faculty/james_frew.htm), [Ben Best](http://mgel.env.duke.edu/people/ben-best/), and [Lisa Wedding](http://www.centerforoceansolutions.org/team/lisa-wedding)
   - Focuses on specific computational languages (e.g., Python, R, shell) and tools (e.g., GDAL/OGR, InVEST, MGET, ModelBuilder) applied to the spatial analysis of environmental problems
   - [GitHub ](http://ucsb-bren.github.io/esm296-4f/) (includes lecture materials and labs)
+- [CSE154](http://courses.cs.washington.edu/courses/cse154/14au/) **Web Programming** *University of Washington*
+  - This course is an introduction to programming for the World Wide Web. Covers use of HTML, CSS, PHP, JavaScript, AJAX, and SQL.
+  - [Lectures](http://courses.cs.washington.edu/courses/cse154/14au/lectures.shtml#today)
+  - [Assignments](http://courses.cs.washington.edu/courses/cse154/14au/homework.shtml)

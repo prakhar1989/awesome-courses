@@ -59,6 +59,10 @@ List of awesome Computer Science courses scoured from university pages across th
   - The [popular](https://www.coursera.org/course/algs4partI) algorithms class covering most important algorithms and data structures in use on computers taught by Robert Sedgewick.
   - [Assignments](http://www.cs.princeton.edu/courses/archive/fall14/cos226/assignments.php)
 
+- [CS61B](http://www.cs.berkeley.edu/~jrs/61b/) **Data Structures** *Berkeley*
+  - Uses Java [Head First Java](http://www.amazon.com/Head-First-Java-2nd-Edition/dp/0596009208)
+  - Lectures are on the homepage :)
+
 ### Misc
 - [CS 5150](http://www.cs.cornell.edu/courses/CS5150/2014fa/overview.html) **Software Engineering** *Cornell University*
   -  Introduction to the practical problems of specifying, designing, building, testing, and delivering reliable software systems

@@ -28,8 +28,11 @@ List of awesome Computer Science courses scoured from university pages across th
   - Taught by one of the stalwarts of this field, Prof Ken Birman, this course has a fantastic set of slides that one can go through. The Prof's [book](http://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance/dp/1447124154) is also a gem and recommended as a must read in Google's tutorial on [Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
   - [Slides](http://www.cs.cornell.edu/Courses/CS5412/2014sp/Syllabus.htm)
 - [CSCI 360](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/csci360_f14.php) **Computer Architecture 3** *CUNY Hunter College*
+  -  A course that covers cache design, buses, memory hierarchies, processor-peripheral interfaces, and multiprocessors, including GPUs.
 - [CSCI 493.66](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.66/csci493.66_spr12.php) **UNIX System Programming (formerly UNIX Tools)** *CUNY Hunter College*
+  - A course that is mostly about writing programs against the UNIX API, covering all of the basic parts of the kernel interface and libraries, including files, processes, terminal control, signals, and threading. 
 - [CSCI 493.75](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php) **Parallel Computing** *CUNY Hunter College*
+  - The course is an introduction to parallel algorithms and parallel programming in C and C++, using the Message Passing Interface (MPI) and the OpenMP application programming interface. It also includes a brief introduction to parallel architectures and interconnection networks. It is both theoretical and practical, including material on design methodology, performance analysis, and mathematical concepts, as well as details on programming using MPI and OpenMP.
 
 ### Programming Languages / Compilers
 - [COS326](http://www.cs.princeton.edu/~dpw/courses/cos326-12/info.php) **Functional Programming** *Princeton University*
@@ -67,8 +70,10 @@ List of awesome Computer Science courses scoured from university pages across th
   - [Lecture Videos on Youtube](http://www.youtube.com/watch?v=frxF7Vs96YU&list=PLMM0a7ZGnITrgfhOxMNP7bpP4hhhKNY9s)
 - [CSCI 235](http://compsci.hunter.cuny.edu/~sweiss/courses/csci235.php) **Software Design and Analysis II**
   *CUNY Hunter College* 
+  - Introduces algorithms for a few common problems such as sorting. Practically speaking, it furthers the students' programming skills with topics such as recursion, pointers, and exception handling, and provides a chance to improve software engineering skills and to give the students practical experience for more productive programming.
 - [CSCI 335](http://compsci.hunter.cuny.edu/~sweiss/courses/csci335.php) **Software Design and Analysis III**
   *CUNY Hunter College*
+  - This includes the introduction of hashes, heaps, various forms of trees, and graphs. It also revisits recursion and the sorting problem from a higher perspective than was presented in the prequels. On top of this, it is intended to introduce methods of algorithmic analysis.
   
 ### Misc
 - [CS 5150](http://www.cs.cornell.edu/courses/CS5150/2014fa/overview.html) **Software Engineering** *Cornell University*

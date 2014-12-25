@@ -36,7 +36,7 @@ List of awesome Computer Science courses scoured from university pages across th
 
 ### Programming Languages / Compilers
 - [CSE341](http://courses.cs.washington.edu/courses/cse341/14sp/) **Programming Languages** *University of Washington*
-  - Covers non-imperative paradigms and languages such as Ruby, Racket, and ML.
+  - Covers non-imperative paradigms and languages such as Ruby, Racket, and ML and the fundamentals of programming languages.
   - [Lectures](https://courses.cs.washington.edu/courses/cse341/14sp/#lecture)
   - [Assignments and Tests](https://courses.cs.washington.edu/courses/cse341/14sp/#homework)
 - [COS326](http://www.cs.princeton.edu/~dpw/courses/cos326-12/info.php) **Functional Programming** *Princeton University*

@@ -90,6 +90,14 @@ List of awesome Computer Science courses scoured from university pages across th
   - This includes the introduction of hashes, heaps, various forms of trees, and graphs. It also revisits recursion and the sorting problem from a higher perspective than was presented in the prequels. On top of this, it is intended to introduce methods of algorithmic analysis.
   - [Lectures and Assignments](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci335/csci335_s14.php)
   
+### Introduction to CS
+- [CS 50](https://cs50.harvard.edu/) **Introduction to Computer Science** *Harvard University*
+  - CS50x is Harvard College's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan.
+  - [Lectures](https://cs50.harvard.edu/lectures)
+- [CS 101](http://online.stanford.edu/course/computer-science-101-self-paced) **Computer Science 101** *Stanford University*
+  - CS101 teaches the essential ideas of Computer Science for a zero-prior-experience audience. Participants play and experiment with short bits of "computer code" to bring to life to the power and limitations of computers.
+  - Lectures videos will available for free after registration.
+ 
 ### Misc
 - [CS 5150](http://www.cs.cornell.edu/courses/CS5150/2014fa/overview.html) **Software Engineering** *Cornell University*
   -  Introduction to the practical problems of specifying, designing, building, testing, and delivering reliable software systems

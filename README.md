@@ -1,12 +1,12 @@
 List of awesome Computer Science courses scoured from university pages across the web
 
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+**Table of Contents** 
 
-- [Systems](#)
-- [Programming Languages / Compilers](#)
-- [Algorithms](#)
-- [Introduction to CS](#)
-- [Misc](#)
+- [Systems](#systems)
+- [Programming Languages / Compilers](#programming-languages--compilers)
+- [Algorithms](#algorithms)
+- [Introduction to CS](#introduction-to-cs)
+- [Misc](#misc)
 
 ### Systems
 

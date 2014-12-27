@@ -1,12 +1,20 @@
-List of awesome Computer Science courses scoured from university pages across the web
+Awesome Courses
+---
 
-**Table of Contents** 
+
+> List of awesome Computer Science courses scoured from university pages across the web
+
+Table of Contents
+---
 
 - [Systems](#systems)
 - [Programming Languages / Compilers](#programming-languages--compilers)
 - [Algorithms](#algorithms)
 - [Introduction to CS](#introduction-to-cs)
 - [Misc](#misc)
+
+Courses
+---
 
 ### Systems
 

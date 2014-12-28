@@ -130,3 +130,7 @@ Courses
   - This course is an introduction to programming for the World Wide Web. Covers use of HTML, CSS, PHP, JavaScript, AJAX, and SQL.
   - [Lectures](http://courses.cs.washington.edu/courses/cse154/14au/lectures.shtml#today)
   - [Assignments](http://courses.cs.washington.edu/courses/cse154/14au/homework.shtml)
+- [IGME-582](http://hfoss-fossrit.rhcloud.com) **Humanitarian Free & Open Source Software Development** *Rochester Institute of Technology*
+  - This course provides students with exposure to the design, creation and production of Open Source Software projects. Students will be introduced to the historic intersections of technology and intellectual property rights and will become familiar with Open Source development processes, tools and practices. They will become contributing members of humanitarian software development communities such as the One Laptop Per Child and Sugar communities. Students will actively document their efforts on Humanitarian Free and Open Source Software community hubs.
+- [IGME-585](http://advfoss-ritigm.rhcloud.com) **Advanced Project Based Free & Open Source Software Development** *Rochester Institute of Technology*
+  - A project based course where students develop 3 tightly scoped open source projects for the Raspberry Pi.

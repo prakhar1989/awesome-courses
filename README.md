@@ -149,3 +149,7 @@ Courses
 - [IGME-585](http://advfoss-ritigm.rhcloud.com) **Advanced Project Based Free & Open Source Software Development** *Rochester Institute of Technology*
   - A project based course where students develop 3 tightly scoped open source projects for the Raspberry Pi.
 - [CS193](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=384233322#ls=1) **Programming Massively Parallel Processors** *Stanford University*
+- [CS223A](http://see.stanford.edu/see/courseinfo.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743)
+  - The purpose of this course is to introduce you to basics of modeling, design, planning, and control of robot systems. In essence, the material treated in this course is a brief survey of relevant results from geometry, kinematics, statics, dynamics, and control.
+  - [Lectures](http://see.stanford.edu/see/lecturelist.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743)
+  - [Assignments](http://see.stanford.edu/see/materials/aiircs223a/assignments.aspx)

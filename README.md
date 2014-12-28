@@ -25,6 +25,10 @@ Courses
 - [CS241](https://courses.engr.illinois.edu/cs241/) **Systems Programming** *Univ of Illinois, Urbana-Champaign*
   - Learn how to write programs that take full advantage of operating system support in the C programming language 
   - [Assignments](https://courses.engr.illinois.edu/cs241/mp.html)
+- [CS 452](https://www.youtube.com/playlist?list=PL08D9FA018A965057&spfreload=10) **Real-Time Programming** *University of Waterloo*
+  - Write a real-time OS microkernel in C, and application code to operate a model train set in response to real-time sensor information. The communication with the train set runs at 2400 baud so it takes about 61 milliseconds to ask all of the sensors for data about the train's possible location.  This makes it particularly challenging because a train can move about 3 centimeters in that time. One of the most challenging and time-consuming courses at the University of Waterloo.
+  - [Assignments](http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/assignments/index.html)
+  - [Lecture notes](http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/notes/index.html)
 - [15-440](http://www.cs.cmu.edu/~dga/15-440/F12/index.html) **Distributed Systems** *Carnegie-Mellon University*
   - Introduction to distributed systems with a focus on teaching concepts via projects implemented in the Go programming language.
   - [Assignments](http://www.cs.cmu.edu/~dga/15-440/F12/assignments.html)
@@ -53,6 +57,9 @@ Courses
 - [CS 107](https://www.youtube.com/playlist?list=PL08D9FA018A965057&spfreload=10) **Computer Organization & Systems** *Stanford University*
   - CS107 is the third course in Stanford's introductory programming sequence. The course will work from the C programming language down to the microprocessor to de-mystify the machine. With a complete understanding of how computer systems execute programs and manipulate data, you will become a more effective programmer, especially in dealing with issues of debugging, performance, portability, and robustness. Topics covered include: the C programming language, data representation, machine-level code, computer arithmetic, elements of code compilation, optimization of memory and runtime performance, and memory organization and management.
   - [Assignments](http://web.stanford.edu/class/cs107/assignments.html)
+- [ECE 459](http://patricklam.ca/p4p/) **Programming for Performance** *University of Waterloo*
+  - Learn techniques for profiling, rearchitecting, and implementing software systems that can handle industrial-sized inputs, and to design and build critical software infrastructure. Learn performance optimization through parallelization, multithreading, async I/O, vectorization and GPU programming, and distributed computing.
+  - [Lecture slides](http://patricklam.ca/p4p/notes/)
 
 ### Programming Languages / Compilers
 - [CSE341](http://courses.cs.washington.edu/courses/cse341/14sp/) **Programming Languages** *University of Washington*

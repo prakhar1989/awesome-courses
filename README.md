@@ -113,6 +113,8 @@ Courses
 - [CS 101](http://online.stanford.edu/course/computer-science-101-self-paced) **Computer Science 101** *Stanford University*
   - CS101 teaches the essential ideas of Computer Science for a zero-prior-experience audience. Participants play and experiment with short bits of "computer code" to bring to life to the power and limitations of computers.
   - Lectures videos will available for free after registration.
+- [CS 145](https://www.student.cs.uwaterloo.ca/~cs145/) **Designing Functional Programs** *University of Waterloo*
+  - CS145 introduce functional programming, lambda calculus and various data structures (Graphs, Red-Black Trees, AVL B-Trees)
  
 ### Misc
 - [CS 5150](http://www.cs.cornell.edu/courses/CS5150/2014fa/overview.html) **Software Engineering** *Cornell University*

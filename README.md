@@ -90,7 +90,12 @@ Courses
   - Course by Prof. Krishnamurthi (author of [HtDP](http://htdp.org/2003-09-26/Book/)) and numerous other [awesome](http://cs.brown.edu/courses/cs173/2012/book/) [books](http://papl.cs.brown.edu/2014/index.html) on programming languages. Uses a custom designed [Pyret](http://www.pyret.org/) programming language to teach the concepts. There was an [online class](http://cs.brown.edu/courses/cs173/2012/OnLine/) hosted in 2012, which includes all lecture videos for you to enjoy.
   - [Videos](http://cs.brown.edu/courses/cs173/2012/Videos/)
   - [Assignments](http://cs.brown.edu/courses/cs173/2014/assignments.html)
-
+- [CS421](https://courses.engr.illinois.edu/cs421/fa2014/) **Programming Languages and Compilers** *Univ of Illinois, Urbana-Champaign*
+  - Course that uses OCaml to teach functional programming and programming language design.
+  - [Lectures](https://courses.engr.illinois.edu/cs421/fa2014/lectures/index.html)
+  - [Videos](http://recordings.engineering.illinois.edu/ess/portal/section/631edaeb-2a33-4537-b7c8-0c1cba783a4f)
+  - [Assignments](https://courses.engr.illinois.edu/cs421/fa2014/mps/index.html)
+  - [Exams](https://courses.engr.illinois.edu/cs421/fa2014/exams/index.html)
 
 ### Algorithms
 - [COS226](http://www.cs.princeton.edu/courses/archive/fall14/cos226/info.php) **Data Structures and Algorithms** *Princeton University*

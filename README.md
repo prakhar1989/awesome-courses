@@ -25,6 +25,10 @@ Courses
 - [CS241](https://courses.engr.illinois.edu/cs241/) **Systems Programming** *Univ of Illinois, Urbana-Champaign*
   - Learn how to write programs that take full advantage of operating system support in the C programming language 
   - [Assignments](https://courses.engr.illinois.edu/cs241/mp.html)
+- [CS 452](https://www.youtube.com/playlist?list=PL08D9FA018A965057&spfreload=10) **Real-Time Programming** *University of Waterloo*
+  - Write a real-time OS microkernel in C, and application code to operate a model train set in response to real-time sensor information. The communication with the train set runs at 2400 baud so it takes about 61 milliseconds to ask all of the sensors for data about the train's possible location.  This makes it particularly challenging because a train can move about 3 centimeters in that time. One of the most challenging and time-consuming courses at the University of Waterloo.
+  - [Assignments](http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/assignments/index.html)
+  - [Lecture notes](http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/notes/index.html)
 - [15-440](http://www.cs.cmu.edu/~dga/15-440/F12/index.html) **Distributed Systems** *Carnegie-Mellon University*
   - Introduction to distributed systems with a focus on teaching concepts via projects implemented in the Go programming language.
   - [Assignments](http://www.cs.cmu.edu/~dga/15-440/F12/assignments.html)
@@ -53,6 +57,9 @@ Courses
 - [CS 107](https://www.youtube.com/playlist?list=PL08D9FA018A965057&spfreload=10) **Computer Organization & Systems** *Stanford University*
   - CS107 is the third course in Stanford's introductory programming sequence. The course will work from the C programming language down to the microprocessor to de-mystify the machine. With a complete understanding of how computer systems execute programs and manipulate data, you will become a more effective programmer, especially in dealing with issues of debugging, performance, portability, and robustness. Topics covered include: the C programming language, data representation, machine-level code, computer arithmetic, elements of code compilation, optimization of memory and runtime performance, and memory organization and management.
   - [Assignments](http://web.stanford.edu/class/cs107/assignments.html)
+- [ECE 459](http://patricklam.ca/p4p/) **Programming for Performance** *University of Waterloo*
+  - Learn techniques for profiling, rearchitecting, and implementing software systems that can handle industrial-sized inputs, and to design and build critical software infrastructure. Learn performance optimization through parallelization, multithreading, async I/O, vectorization and GPU programming, and distributed computing.
+  - [Lecture slides](http://patricklam.ca/p4p/notes/)
 
 ### Programming Languages / Compilers
 - [CSE341](http://courses.cs.washington.edu/courses/cse341/14sp/) **Programming Languages** *University of Washington*
@@ -83,7 +90,12 @@ Courses
   - Course by Prof. Krishnamurthi (author of [HtDP](http://htdp.org/2003-09-26/Book/)) and numerous other [awesome](http://cs.brown.edu/courses/cs173/2012/book/) [books](http://papl.cs.brown.edu/2014/index.html) on programming languages. Uses a custom designed [Pyret](http://www.pyret.org/) programming language to teach the concepts. There was an [online class](http://cs.brown.edu/courses/cs173/2012/OnLine/) hosted in 2012, which includes all lecture videos for you to enjoy.
   - [Videos](http://cs.brown.edu/courses/cs173/2012/Videos/)
   - [Assignments](http://cs.brown.edu/courses/cs173/2014/assignments.html)
-
+- [CS421](https://courses.engr.illinois.edu/cs421/fa2014/) **Programming Languages and Compilers** *Univ of Illinois, Urbana-Champaign*
+  - Course that uses OCaml to teach functional programming and programming language design.
+  - [Lectures](https://courses.engr.illinois.edu/cs421/fa2014/lectures/index.html)
+  - [Videos](http://recordings.engineering.illinois.edu/ess/portal/section/631edaeb-2a33-4537-b7c8-0c1cba783a4f)
+  - [Assignments](https://courses.engr.illinois.edu/cs421/fa2014/mps/index.html)
+  - [Exams](https://courses.engr.illinois.edu/cs421/fa2014/exams/index.html)
 
 ### Algorithms
 - [COS226](http://www.cs.princeton.edu/courses/archive/fall14/cos226/info.php) **Data Structures and Algorithms** *Princeton University*
@@ -105,10 +117,20 @@ Courses
   *CUNY Hunter College*
   - This includes the introduction of hashes, heaps, various forms of trees, and graphs. It also revisits recursion and the sorting problem from a higher perspective than was presented in the prequels. On top of this, it is intended to introduce methods of algorithmic analysis.
   - [Lectures and Assignments](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci335/csci335_s14.php)
+
 - [CS 473/573](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/) **Fundamental Algorithms** *Univ of Illinois, Urbana-Champaign*
   - Algorithms class covering recursion, randomization, amortization, graph algorithms, network flows and hardness
 
+### CS Theory
+- [CIS 500](http://www.seas.upenn.edu/~cis500/cis500-f14/index.html) **Software Foundations** *University of Pennsylvania*
+  - An introduction to formal verification of software using the Coq proof assistant. Topics include basic concepts of logic, computer-assisted theorem proving, functional programming, operational semantics, Hoare logic, and static type systems.
+  * [Lectures and Assignments](http://www.seas.upenn.edu/~cis500/cis500-f14/index.html#schedule)
+  - [Textbook](http://www.cis.upenn.edu/~bcpierce/sf/current/index.html)
+
 ### Introduction to CS
+- [CS 10](https://inst.eecs.berkeley.edu/~cs10/fa14/) **The Beauty and Joy of Computing** *UC Berkeley*
+  - CS10 is UCB's introductory computer science class, taught using the beginners' drag-and-drop language [Snap*!*](http://snap.berkeley.edu) (based on Scratch by MIT).
+  - [Curriculum](http://bjc.berkeley.edu)
 - [CS 50](https://cs50.harvard.edu/) **Introduction to Computer Science** *Harvard University*
   - CS50x is Harvard College's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan.
   - [Lectures](https://cs50.harvard.edu/lectures)
@@ -155,3 +177,7 @@ Courses
   - The purpose of this course is to introduce you to basics of modeling, design, planning, and control of robot systems. In essence, the material treated in this course is a brief survey of relevant results from geometry, kinematics, statics, dynamics, and control.
   - [Lectures](http://see.stanford.edu/see/lecturelist.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743)
   - [Assignments](http://see.stanford.edu/see/materials/aiircs223a/assignments.aspx)
+- [CIS 581](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=CIS_581:_Computer_Vision_%26_Computational_Photography) **Computer Vision and Computational Photography** *University of Pennsylvania*
+  - An introductory course in computer vision and computational photography focusing on four topics: image features, image morphing, shape matching, and image search.
+  - [Lectures](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Schedule)
+  - [Assignments](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Projects)

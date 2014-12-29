@@ -160,6 +160,12 @@ Courses
 - [CS103](http://web.stanford.edu/class/cs103/) **Mathematical Foundations of Computing** *Stanford University*
   -  CS103 is a first course in discrete math, computability theory, and complexity theory. In this course, we'll probe the limits of computer power, explore why some problems are harder to solve than others, and see how to reason with mathematical certainty.
   -  Links to all lectures notes and assignments are directly on the course page
+- [CS 173](https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/index.html) **Discrete Structures** *Univ of Illinois Urbana-Champaign*
+  - This course is an introduction to the theoretical side of computer science. In it, you will learn how to construct proofs, read and write literate formal mathematics, get a quick introduction to key theory topics and become familiar with a range of standard mathematics concepts commonly used in computer science. 
+  - [Textbook](http://web.engr.illinois.edu/~mfleck/building-blocks/) Written by the professor. Includes Instructor's Guide.
+  - [Assignments](https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/Homework/index.html)
+  - [Exams](https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/Exams/index.html)
+
 
 ### Introduction to CS
 - [CS 10](https://inst.eecs.berkeley.edu/~cs10/fa14/) **The Beauty and Joy of Computing** *UC Berkeley*

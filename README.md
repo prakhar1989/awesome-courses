@@ -9,6 +9,7 @@ Table of Contents
 
 - [Systems](#systems)
 - [Programming Languages / Compilers](#programming-languages--compilers)
+- [Discrete Mathematics](#discrete-mathematics)
 - [Algorithms](#algorithms)
 - [Introduction to CS](#introduction-to-cs)
 - [Misc](#misc)
@@ -84,6 +85,11 @@ Courses
   - [Videos](http://cs.brown.edu/courses/cs173/2012/Videos/)
   - [Assignments](http://cs.brown.edu/courses/cs173/2014/assignments.html)
 
+### Discrete Mathematics
+- [CS 173](https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/index.html) **Discrete Structures** *Univ of Illinois Urbana-Champaign*
+  - [Textbook](http://web.engr.illinois.edu/~mfleck/building-blocks/) Written by the professor. Includes Instructor's Guide.
+  - [Assignments](https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/Homework/index.html)
+  - [Exams](https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/Exams/index.html)
 
 ### Algorithms
 - [COS226](http://www.cs.princeton.edu/courses/archive/fall14/cos226/info.php) **Data Structures and Algorithms** *Princeton University*
@@ -105,7 +111,7 @@ Courses
   *CUNY Hunter College*
   - This includes the introduction of hashes, heaps, various forms of trees, and graphs. It also revisits recursion and the sorting problem from a higher perspective than was presented in the prequels. On top of this, it is intended to introduce methods of algorithmic analysis.
   - [Lectures and Assignments](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci335/csci335_s14.php)
-  
+
 ### Introduction to CS
 - [CS 10](https://inst.eecs.berkeley.edu/~cs10/fa14/) **The Beauty and Joy of Computing** *UC Berkeley*
   - CS10 is UCB's introductory computer science class, taught using the beginners' drag-and-drop language [Snap*!*](http://snap.berkeley.edu) (based on Scratch by MIT).

@@ -140,6 +140,9 @@ Courses
   - This course discusses the complexity-theory foundations of modern cryptography, and looks at recent results in the field such as Fully Homomorphc Encryption, Indistinguishability Obfuscation, MPC and so on.
 - [CS278](http://www.cs.berkeley.edu/~luca/cs278-08/) **Complexity Theory** *UC Berkeley*
   - An graduate level course on complexity theory that introduces P vs NP, the power of randomness, average-case complexity, hardness of approximation, and so on.
+- [CS103](http://web.stanford.edu/class/cs103/) **Mathematical Foundations of Computing** *Stanford University*
+  -  CS103 is a first course in discrete math, computability theory, and complexity theory. In this course, we'll probe the limits of computer power, explore why some problems are harder to solve than others, and see how to reason with mathematical certainty.
+  -  Links to all lectures notes and assignments are directly on the course page
 
 ### Introduction to CS
 - [CS 10](https://inst.eecs.berkeley.edu/~cs10/fa14/) **The Beauty and Joy of Computing** *UC Berkeley*

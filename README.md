@@ -1,6 +1,5 @@
 Awesome Courses
----
-
+=====
 
 > List of awesome Computer Science courses scoured from university pages across the web
 
@@ -63,6 +62,8 @@ Courses
   - Learn techniques for profiling, rearchitecting, and implementing software systems that can handle industrial-sized inputs, and to design and build critical software infrastructure. Learn performance optimization through parallelization, multithreading, async I/O, vectorization and GPU programming, and distributed computing.
   - [Lecture slides](http://patricklam.ca/p4p/notes/)
 
+-------
+
 ### Programming Languages / Compilers
 - [CSE341](http://courses.cs.washington.edu/courses/cse341/14sp/) **Programming Languages** *University of Washington*
   - Covers non-imperative paradigms and languages such as Ruby, Racket, and ML and the fundamentals of programming languages.
@@ -107,6 +108,8 @@ Courses
   - [Lecture Notes](http://www.cs.virginia.edu/~weimer/4610/lectures.html)
   - [Assignments](http://www.cs.virginia.edu/~weimer/4610/pa.html)
 
+-------
+
 ### Algorithms
 - [CSE-373](http://www3.cs.stonybrook.edu/~skiena/373/) **Analysis of Algorithms** *Stony Brook University* 
   - Prof Steven Skiena's no stranger to any student when it comes to algorithms. His seminal [book](http://www.algorist.com/) has been touted by many to be best for [getting that job in Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html). In addition, he's also well-known for tutoring students in competitive [programming competitions](http://www.programming-challenges.com/pg.php?page=index). If you're looking to brush up your knowledge on Algorithms, you can't go wrong with this course.
@@ -147,7 +150,9 @@ Courses
   - This data structures course introduces C++, linked-lists, stacks, queues, trees, numerical representation, hash tables, priority queues, heaps, huffman coding, graphs, and x86 assembly.
   - [Lectures](http://aaronbloomfield.github.io/pdr/slides/)
   - [Assignments](http://aaronbloomfield.github.io/pdr/labs/)
-  
+
+-------
+
 ### CS Theory
 - [CIS 500](http://www.seas.upenn.edu/~cis500/cis500-f14/index.html) **Software Foundations** *University of Pennsylvania*
   - An introduction to formal verification of software using the Coq proof assistant. Topics include basic concepts of logic, computer-assisted theorem proving, functional programming, operational semantics, Hoare logic, and static type systems.
@@ -166,8 +171,10 @@ Courses
   - [Assignments](https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/Homework/index.html)
   - [Exams](https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/Exams/index.html)
 
+-------
 
 ### Introduction to CS
+
 - [CS 10](https://inst.eecs.berkeley.edu/~cs10/fa14/) **The Beauty and Joy of Computing** *UC Berkeley*
   - CS10 is UCB's introductory computer science class, taught using the beginners' drag-and-drop language [Snap*!*](http://snap.berkeley.edu) (based on Scratch by MIT).
   - [Curriculum](http://bjc.berkeley.edu)
@@ -191,6 +198,8 @@ Courses
   - Topics: Advanced memory management features of C and C++; the differences between imperative and object-oriented paradigms. The functional paradigm (using LISP) and concurrent programming (using C and C++)
   - [Lectures](http://see.stanford.edu/see/lecturelist.aspx?coll=2d712634-2bf1-4b55-9a3a-ca9d470755ee)
   - [Assignments](http://see.stanford.edu/see/materials/icsppcs107/assignments.aspx)
+
+-------
 
 ### Misc
 - [CS 5150](http://www.cs.cornell.edu/courses/CS5150/2014fa/overview.html) **Software Engineering** *Cornell University*
@@ -224,6 +233,3 @@ Courses
   - Taught by [J. Alex Halderman](https://jhalderm.com/) who has analyzed the security of Electronic Voting Machines in the [US](https://jhalderm.com/pub/papers/dcvoting-fc12.pdf) and [over](https://jhalderm.com/pub/papers/ivoting-ccs14.pdf) [seas](https://jhalderm.com/pub/papers/evm-ccs10.pdf).
   - This intensive research seminar covers foundational work and current topics in computer systems security.
   - [Readings](https://www.eecs.umich.edu/courses/eecs588/readings.html)
-
-
-:cinema: :computer: :books:

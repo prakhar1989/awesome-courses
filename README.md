@@ -122,6 +122,10 @@ Courses
   - Algorithms class covering recursion, randomization, amortization, graph algorithms, network flows and hardness. The lecture notes by Prof. Erikson are comprehensive enough to be a book by themselves. Highly recommended!
   - [Lecture Notes](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/notes/all-algorithms.pdf)
   - [Labs and Exams](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/hwex/all-hwex.pdf)
+- [6.854/18.415J](http://courses.csail.mit.edu/6.854/current/) **Advanced Algorithms** *MIT*
+  - Advanced course in algorithms by Dr. David Karger covering topics such as amortization, randomization, fingerprinting, word-level parallelism, bit scaling, dynamic programming, network flow, linear programming, fixed-parameter algorithms, and approximation algorithms. 
+  - **Register** on [NB](http://nb.mit.edu/subscribe?key=D3a8CYpoO2VcR1ZcfaxmR5KbyjCGXd3INNXvL3mxEakYJ7qGJw) to access the [problem set and lectures](http://nb.mit.edu/). 
+
 ### CS Theory
 - [CIS 500](http://www.seas.upenn.edu/~cis500/cis500-f14/index.html) **Software Foundations** *University of Pennsylvania*
   - An introduction to formal verification of software using the Coq proof assistant. Topics include basic concepts of logic, computer-assisted theorem proving, functional programming, operational semantics, Hoare logic, and static type systems.
@@ -131,10 +135,6 @@ Courses
   - This course discusses the complexity-theory foundations of modern cryptography, and looks at recent results in the field such as Fully Homomorphc Encryption, Indistinguishability Obfuscation, MPC and so on.
 - [CS278](http://www.cs.berkeley.edu/~luca/cs278-08/) **Complexity Theory** *UC Berkeley*
   - An graduate level course on complexity theory that introduces P vs NP, the power of randomness, average-case complexity, hardness of approximation, and so on.
-- [6.854/18.415J](http://courses.csail.mit.edu/6.854/current/) **Advanced Algorithms** *MIT*
-  - This is an advanced course by the very famous Dr. David Karger (You might have found him active on Quora some of the times).
-  - Techniques to be covered include amortization, randomization, fingerprinting, word-level parallelism, bit scaling, dynamic programming, network flow, linear programming, fixed-parameter algorithms, and approximation algorithms. Domains include string algorithms; network optimization; parallel algorithms; computational geometry; online algorithms; external memory, cache, and streaming algorithms; and data structures.
-  - Create an account on NB [here](http://nb.mit.edu/subscribe?key=D3a8CYpoO2VcR1ZcfaxmR5KbyjCGXd3INNXvL3mxEakYJ7qGJw) to access the problem set and lectures.
 
 ### Introduction to CS
 - [CS 10](https://inst.eecs.berkeley.edu/~cs10/fa14/) **The Beauty and Joy of Computing** *UC Berkeley*

@@ -25,7 +25,7 @@ Courses
 - [CS241](https://courses.engr.illinois.edu/cs241/) **Systems Programming** *Univ of Illinois, Urbana-Champaign*
   - Learn how to write programs that take full advantage of operating system support in the C programming language 
   - [Assignments](https://courses.engr.illinois.edu/cs241/mp.html)
-- [CS 452](https://www.youtube.com/playlist?list=PL08D9FA018A965057&spfreload=10) **Real-Time Programming** *University of Waterloo*
+- [CS 452](http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/) **Real-Time Programming** *University of Waterloo*
   - Write a real-time OS microkernel in C, and application code to operate a model train set in response to real-time sensor information. The communication with the train set runs at 2400 baud so it takes about 61 milliseconds to ask all of the sensors for data about the train's possible location.  This makes it particularly challenging because a train can move about 3 centimeters in that time. One of the most challenging and time-consuming courses at the University of Waterloo.
   - [Assignments](http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/assignments/index.html)
   - [Lecture notes](http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/notes/index.html)

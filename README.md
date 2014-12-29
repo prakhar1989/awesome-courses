@@ -104,6 +104,8 @@ Courses
   
 
 ### Algorithms
+- [15-451/651](http://www.cs.cmu.edu/afs/cs/academic/class/15451-f10/www/) **Algorithms** *Carnegie Mellon University*
+  - The required algorithms class that go in depth into all basic algorithms and the proofs behind them. This is one of the heavier algorithms cirriculums on this page. Taught by Avrim Blum and Manuel Blum who has a Turing Award due to his contributions to algorithms. Course link includes a very comprehensive set of reference notes by Avrim Blum. 
 - [COS226](http://www.cs.princeton.edu/courses/archive/fall14/cos226/info.php) **Data Structures and Algorithms** *Princeton University*
   - The [popular](https://www.coursera.org/course/algs4partI) algorithms class covering most important algorithms and data structures in use on computers taught by Robert Sedgewick.
   - [Assignments](http://www.cs.princeton.edu/courses/archive/fall14/cos226/assignments.php)

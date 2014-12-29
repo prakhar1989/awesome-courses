@@ -102,7 +102,10 @@ Courses
   - If you're a fan of Prof Matt's writing on his [fantastic blog](http://matt.might.net/articles/) you ought to give this a shot. The course covers the design and implementation of compilers, and it explores related topics such as interpreters, virtual machines and runtime systems. Aside from the Prof's witty take on [cheating](http://matt.might.net/teaching/compilers/spring-2015/#collaboration) the page has tons of interesting links on programming languages, parsing and compilers.
   - [Lecture Notes](https://www.dropbox.com/sh/zanwtoflw4pcfu8/5pdT6axS3y)
   - [Projects](http://matt.might.net/teaching/compilers/spring-2015/#projects)
-  
+- [CS4610](www.cs.virginia.edu/~weimer/4610/) **Programming Languages and Compilers** *University of Virginia*
+  - Course that uses OCaml to teach functional programming and programming language design. Each assignment is a part of an interpreter and compiler for an object-oriented language similar to Java, and you are required to use a different language for each assignment (i.e., choose 4 from Python, JS, OCaml, Haskell, Ruby).
+  - [Lecture Notes](http://www.cs.virginia.edu/~weimer/4610/lectures.html)
+  - [Assignments](http://www.cs.virginia.edu/~weimer/4610/pa.html)
 
 ### Algorithms
 - [CSE-373](http://www3.cs.stonybrook.edu/~skiena/373/) **Analysis of Algorithms** *Stony Brook University* 
@@ -140,7 +143,11 @@ Courses
   - This is an advanced DS course, you must be done with the [Advanced Algorithms](http://courses.csail.mit.edu/6.854/current/) course before attempting this one.
   - [Lectures](http://courses.csail.mit.edu/6.851/spring14/lectures/) Contains videos from sp2012 version, but there isn't much difference.
   - [Assignments](http://courses.csail.mit.edu/6.851/spring14/hmwk.html) contains the calendar as well.
-
+- [CS 2150](https://github.com/aaronbloomfield/pdr) **Program & Data Representation** *University of Virginia*
+  - This data structures course introduces C++, linked-lists, stacks, queues, trees, numerical representation, hash tables, priority queues, heaps, huffman coding, graphs, and x86 assembly.
+  - [Lectures](http://aaronbloomfield.github.io/pdr/slides/)
+  - [Assignments](http://aaronbloomfield.github.io/pdr/labs/)
+  
 ### CS Theory
 - [CIS 500](http://www.seas.upenn.edu/~cis500/cis500-f14/index.html) **Software Foundations** *University of Pennsylvania*
   - An introduction to formal verification of software using the Coq proof assistant. Topics include basic concepts of logic, computer-assisted theorem proving, functional programming, operational semantics, Hoare logic, and static type systems.

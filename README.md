@@ -233,3 +233,5 @@ Courses
   - Taught by [J. Alex Halderman](https://jhalderm.com/) who has analyzed the security of Electronic Voting Machines in the [US](https://jhalderm.com/pub/papers/dcvoting-fc12.pdf) and [over](https://jhalderm.com/pub/papers/ivoting-ccs14.pdf) [seas](https://jhalderm.com/pub/papers/evm-ccs10.pdf).
   - This intensive research seminar covers foundational work and current topics in computer systems security.
   - [Readings](https://www.eecs.umich.edu/courses/eecs588/readings.html)
+
+:grin: :computer: :cinema:

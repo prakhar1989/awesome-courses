@@ -105,7 +105,13 @@ Courses
   *CUNY Hunter College*
   - This includes the introduction of hashes, heaps, various forms of trees, and graphs. It also revisits recursion and the sorting problem from a higher perspective than was presented in the prequels. On top of this, it is intended to introduce methods of algorithmic analysis.
   - [Lectures and Assignments](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci335/csci335_s14.php)
-  
+
+### CS Theory
+- [CIS 500](http://www.seas.upenn.edu/~cis500/cis500-f14/index.html) **Software Foundations** *University of Pennsylvania*
+  - An introduction to formal verification of software using the Coq proof assistant. Topics include basic concepts of logic, computer-assisted theorem proving, functional programming, operational semantics, Hoare logic, and static type systems.
+  * [Lectures and Assignments](http://www.seas.upenn.edu/~cis500/cis500-f14/index.html#schedule)
+  - [Textbook](http://www.cis.upenn.edu/~bcpierce/sf/current/index.html)
+
 ### Introduction to CS
 - [CS 10](https://inst.eecs.berkeley.edu/~cs10/fa14/) **The Beauty and Joy of Computing** *UC Berkeley*
   - CS10 is UCB's introductory computer science class, taught using the beginners' drag-and-drop language [Snap*!*](http://snap.berkeley.edu) (based on Scratch by MIT).
@@ -156,3 +162,7 @@ Courses
   - The purpose of this course is to introduce you to basics of modeling, design, planning, and control of robot systems. In essence, the material treated in this course is a brief survey of relevant results from geometry, kinematics, statics, dynamics, and control.
   - [Lectures](http://see.stanford.edu/see/lecturelist.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743)
   - [Assignments](http://see.stanford.edu/see/materials/aiircs223a/assignments.aspx)
+- [CIS 581](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=CIS_581:_Computer_Vision_%26_Computational_Photography) **Computer Vision and Computational Photography** *University of Pennsylvania*
+  - An introductory course in computer vision and computational photography focusing on four topics: image features, image morphing, shape matching, and image search.
+  - [Lectures](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Schedule)
+  - [Assignments](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Projects)

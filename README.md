@@ -214,3 +214,7 @@ Courses
   - An introductory course in computer vision and computational photography focusing on four topics: image features, image morphing, shape matching, and image search.
   - [Lectures](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Schedule)
   - [Assignments](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Projects)
+- [EECS 588](https://www.eecs.umich.edu/courses/eecs588/) **Computer & Network Security** *University of Michigan*
+  - Taught by [J. Alex Halderman](https://jhalderm.com/) who has analyzed the security of Electronic Voting Machines in the [US](https://jhalderm.com/pub/papers/dcvoting-fc12.pdf) and [over](https://jhalderm.com/pub/papers/ivoting-ccs14.pdf) [seas](https://jhalderm.com/pub/papers/evm-ccs10.pdf).
+  - This intensive research seminar covers foundational work and current topics in computer systems security.
+  - [Readings](https://www.eecs.umich.edu/courses/eecs588/readings.html)

@@ -97,6 +97,11 @@ Courses
   - [Videos](http://recordings.engineering.illinois.edu/ess/portal/section/631edaeb-2a33-4537-b7c8-0c1cba783a4f)
   - [Assignments](https://courses.engr.illinois.edu/cs421/fa2014/mps/index.html)
   - [Exams](https://courses.engr.illinois.edu/cs421/fa2014/exams/index.html)
+- [CS5470](http://matt.might.net/teaching/compilers/spring-2015/) **Compilers** *University of Utah*
+  - If you're a fan of Prof Matt's writing on his fantastic blog you ought to give this a shot. The course covers the design and implementation of compilers, and it explores related topics such as interpreters, virtual machines and runtime systems. Aside from the Prof's witty take on [cheating](http://matt.might.net/teaching/compilers/spring-2015/#collaboration) the page has tons of interesting links on programming languages, parsing and compilers.
+  - [Lecture Notes](https://www.dropbox.com/sh/zanwtoflw4pcfu8/5pdT6axS3y)
+  - [Projects](http://matt.might.net/teaching/compilers/spring-2015/#projects)
+  
 
 ### Algorithms
 - [COS226](http://www.cs.princeton.edu/courses/archive/fall14/cos226/info.php) **Data Structures and Algorithms** *Princeton University*

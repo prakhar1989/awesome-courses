@@ -118,10 +118,10 @@ Courses
   *CUNY Hunter College*
   - This includes the introduction of hashes, heaps, various forms of trees, and graphs. It also revisits recursion and the sorting problem from a higher perspective than was presented in the prequels. On top of this, it is intended to introduce methods of algorithmic analysis.
   - [Lectures and Assignments](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci335/csci335_s14.php)
-
 - [CS 473/573](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/) **Fundamental Algorithms** *Univ of Illinois, Urbana-Champaign*
-  - Algorithms class covering recursion, randomization, amortization, graph algorithms, network flows and hardness
-
+  - Algorithms class covering recursion, randomization, amortization, graph algorithms, network flows and hardness. The lecture notes by Prof. Erikson are comprehensive enough to be a book by themselves. Highly recommended!
+  - [Lecture Notes](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/notes/all-algorithms.pdf)
+  - [Labs and Exams](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/hwex/all-hwex.pdf)
 ### CS Theory
 - [CIS 500](http://www.seas.upenn.edu/~cis500/cis500-f14/index.html) **Software Foundations** *University of Pennsylvania*
   - An introduction to formal verification of software using the Coq proof assistant. Topics include basic concepts of logic, computer-assisted theorem proving, functional programming, operational semantics, Hoare logic, and static type systems.
@@ -177,7 +177,6 @@ Courses
   - This course provides students with exposure to the design, creation and production of Open Source Software projects. Students will be introduced to the historic intersections of technology and intellectual property rights and will become familiar with Open Source development processes, tools and practices. 
 - [IGME-585](http://advfoss-ritigm.rhcloud.com) **Advanced Project Based Free & Open Source Software Development** *Rochester Institute of Technology*
   - A project based course where students develop 3 tightly scoped open source projects for the Raspberry Pi.
-- [CS193](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=384233322#ls=1) **Programming Massively Parallel Processors** *Stanford University*
 - [CS223A](http://see.stanford.edu/see/courseinfo.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743) **Introduction to Robotics** *Stanford University*
   - The purpose of this course is to introduce you to basics of modeling, design, planning, and control of robot systems. In essence, the material treated in this course is a brief survey of relevant results from geometry, kinematics, statics, dynamics, and control.
   - [Lectures](http://see.stanford.edu/see/lecturelist.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743)

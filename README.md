@@ -10,6 +10,7 @@ Table of Contents
 - [Systems](#systems)
 - [Programming Languages / Compilers](#programming-languages--compilers)
 - [Algorithms](#algorithms)
+- [CS Theory](#cs-theory)
 - [Introduction to CS](#introduction-to-cs)
 - [Misc](#misc)
 
@@ -123,6 +124,10 @@ Courses
   - An introduction to formal verification of software using the Coq proof assistant. Topics include basic concepts of logic, computer-assisted theorem proving, functional programming, operational semantics, Hoare logic, and static type systems.
   * [Lectures and Assignments](http://www.seas.upenn.edu/~cis500/cis500-f14/index.html#schedule)
   - [Textbook](http://www.cis.upenn.edu/~bcpierce/sf/current/index.html)
+- [CS276](http://www.cs.berkeley.edu/~sanjamg/classes/cs276-fall14/) **Foundations of Cryptography** *UC Berkeley*
+  - This course discusses the complexity-theory foundations of modern cryptography, and looks at recent results in the field such as Fully Homomorphc Encryption, Indistinguishability Obfuscation, MPC and so on.
+- [CS278](http://www.cs.berkeley.edu/~luca/cs278-08/) **Complexity Theory** *UC Berkeley*
+  - An graduate level course on complexity theory that introduces P vs NP, the power of randomness, average-case complexity, hardness of approximation, and so on.
 
 ### Introduction to CS
 - [CS 10](https://inst.eecs.berkeley.edu/~cs10/fa14/) **The Beauty and Joy of Computing** *UC Berkeley*

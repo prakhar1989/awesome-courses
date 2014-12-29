@@ -117,9 +117,10 @@ Courses
   *CUNY Hunter College*
   - This includes the introduction of hashes, heaps, various forms of trees, and graphs. It also revisits recursion and the sorting problem from a higher perspective than was presented in the prequels. On top of this, it is intended to introduce methods of algorithmic analysis.
   - [Lectures and Assignments](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci335/csci335_s14.php)
-- [6.854/18.415J](http://courses.csail.mit.edu/6.854/current/) **Advanced Algorithms**
--   - This is an advanced course by the very famous Dr. David Karger (You might have found him active on Quora some of the times).
--   - Techniques to be covered include amortization, randomization, fingerprinting, word-level parallelism, bit scaling, dynamic programming, network flow, linear programming, fixed-parameter algorithms, and approximation algorithms. Domains include string algorithms; network optimization; parallel algorithms; computational geometry; online algorithms; external memory, cache, and streaming algorithms; and data structures.
+- [6.854/18.415J](http://courses.csail.mit.edu/6.854/current/) **Advanced Algorithms** *MIT*
+  - This is an advanced course by the very famous Dr. David Karger (You might have found him active on Quora some of the times).
+  - Techniques to be covered include amortization, randomization, fingerprinting, word-level parallelism, bit scaling, dynamic programming, network flow, linear programming, fixed-parameter algorithms, and approximation algorithms. Domains include string algorithms; network optimization; parallel algorithms; computational geometry; online algorithms; external memory, cache, and streaming algorithms; and data structures.
+  - Create an account on NB [here](http://nb.mit.edu/subscribe?key=D3a8CYpoO2VcR1ZcfaxmR5KbyjCGXd3INNXvL3mxEakYJ7qGJw) to access the problem set and lectures.
 -   
 ### CS Theory
 - [CIS 500](http://www.seas.upenn.edu/~cis500/cis500-f14/index.html) **Software Foundations** *University of Pennsylvania*

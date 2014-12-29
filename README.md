@@ -214,3 +214,7 @@ Courses
   - An introductory course in computer vision and computational photography focusing on four topics: image features, image morphing, shape matching, and image search.
   - [Lectures](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Schedule)
   - [Assignments](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Projects)
+- [COMS 4705](http://www.cs.columbia.edu/~cs4705/) **Natural Language Processing** *Columbia University*
+  - An introductory course in natural language processing (NLP). 
+  - [Lectures](https://class.coursera.org/nlangp-001/lecture) (On Coursera)
+  - Assignments and Lecture Notes on the course homepage.

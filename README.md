@@ -153,3 +153,7 @@ Courses
   - The purpose of this course is to introduce you to basics of modeling, design, planning, and control of robot systems. In essence, the material treated in this course is a brief survey of relevant results from geometry, kinematics, statics, dynamics, and control.
   - [Lectures](http://see.stanford.edu/see/lecturelist.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743)
   - [Assignments](http://see.stanford.edu/see/materials/aiircs223a/assignments.aspx)
+- [CIS 581](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=CIS_581:_Computer_Vision_%26_Computational_Photography) **Computer Vision and Computational Photography** *University of Pennsylvania*
+  - An introductory course in computer vision and computational photography focusing on four topics: image features, image morphing, shape matching, and image search.
+  - [Lectures](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Schedule)
+  - [Assignments](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Projects)

@@ -10,6 +10,7 @@ Table of Contents
 - [Systems](#systems)
 - [Programming Languages / Compilers](#programming-languages--compilers)
 - [Algorithms](#algorithms)
+- [CS Theory](#cs-theory)
 - [Introduction to CS](#introduction-to-cs)
 - [Misc](#misc)
 
@@ -117,6 +118,9 @@ Courses
   *CUNY Hunter College*
   - This includes the introduction of hashes, heaps, various forms of trees, and graphs. It also revisits recursion and the sorting problem from a higher perspective than was presented in the prequels. On top of this, it is intended to introduce methods of algorithmic analysis.
   - [Lectures and Assignments](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci335/csci335_s14.php)
+- [CS 212](https://www.udacity.com/course/cs212) **Design of Computer Programs Programming Principles** *Udacity*
+  - Understanding how to approach programming problems and devise a solution is an essential skill for any Python developer. In this course, you’ll learn new concepts, patterns, and methods that will expand your coding abilities from programming expert, Peter Norvig.
+  - [Course Material](https://www.udacity.com/wiki/cs212)
 
 ### CS Theory
 - [CIS 500](http://www.seas.upenn.edu/~cis500/cis500-f14/index.html) **Software Foundations** *University of Pennsylvania*
@@ -148,6 +152,9 @@ Courses
   - Topics: Advanced memory management features of C and C++; the differences between imperative and object-oriented paradigms. The functional paradigm (using LISP) and concurrent programming (using C and C++)
   - [Lectures](http://see.stanford.edu/see/lecturelist.aspx?coll=2d712634-2bf1-4b55-9a3a-ca9d470755ee)
   - [Assignments](http://see.stanford.edu/see/materials/icsppcs107/assignments.aspx)
+- [CS 101](https://www.udacity.com/course/cs101) **Intro to Computer Science - Build a Search Engine & a Social Network** *Udacity*
+  - In this introduction to computer programming course, you’ll learn and practice key computer science concepts by building your own versions of popular web applications. You’ll learn Python, a powerful, easy-to-learn, and widely used programming language, and you’ll explore computer science basics, as you build your own search engine and social network.
+  - [Course Material](https://www.udacity.com/wiki/cs101)
 
 ### Misc
 - [CS 5150](http://www.cs.cornell.edu/courses/CS5150/2014fa/overview.html) **Software Engineering** *Cornell University*
@@ -178,3 +185,6 @@ Courses
   - An introductory course in computer vision and computational photography focusing on four topics: image features, image morphing, shape matching, and image search.
   - [Lectures](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Schedule)
   - [Assignments](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Projects)
+- [CS 253](https://www.udacity.com/course/cs253) **Web Development How to Build a Blog** *Udacity*
+  - In this intermediate course, Steve Huffman will teach you everything he wished he knew when he started building Reddit and, more recently, Hipmunk, as a lead engineer. Starting from the basics of how the web works, this course will walk you through core web development concepts such as how internet and browsers fit together, form validations, databases, APIs, integrating with other websites, scaling issues, and more; all of which form part of the knowledge it takes to build a web application of your own.
+  - [Course Material](https://www.udacity.com/wiki/cs253)

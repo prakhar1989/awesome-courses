@@ -103,7 +103,7 @@ Courses
   - If you're a fan of Prof Matt's writing on his [fantastic blog](http://matt.might.net/articles/) you ought to give this a shot. The course covers the design and implementation of compilers, and it explores related topics such as interpreters, virtual machines and runtime systems. Aside from the Prof's witty take on [cheating](http://matt.might.net/teaching/compilers/spring-2015/#collaboration) the page has tons of interesting links on programming languages, parsing and compilers.
   - [Lecture Notes](https://www.dropbox.com/sh/zanwtoflw4pcfu8/5pdT6axS3y)
   - [Projects](http://matt.might.net/teaching/compilers/spring-2015/#projects)
-- [CS4610](www.cs.virginia.edu/~weimer/4610/) **Programming Languages and Compilers** *University of Virginia*
+- [CS4610](http://www.cs.virginia.edu/~weimer/4610/) **Programming Languages and Compilers** *University of Virginia*
   - Course that uses OCaml to teach functional programming and programming language design. Each assignment is a part of an interpreter and compiler for an object-oriented language similar to Java, and you are required to use a different language for each assignment (i.e., choose 4 from Python, JS, OCaml, Haskell, Ruby).
   - [Lecture Notes](http://www.cs.virginia.edu/~weimer/4610/lectures.html)
   - [Assignments](http://www.cs.virginia.edu/~weimer/4610/pa.html)

@@ -242,6 +242,12 @@ Courses
   - [Readings](http://philipmjohnson.github.io/ics314f13/readings/)
   - [Experiences](http://philipmjohnson.github.io/ics314f13/experiences/)
   - [Assessments](http://philipmjohnson.github.io/ics314f13/assessments/)
+- [COMS 4771](http://www.cs.columbia.edu/~jebara/4771/index.html) **Machine Learning** *Columbia University*
+  - Taught by [Tony Jebara](http://www.cs.columbia.edu/~jebara/resume.html)
+  - This course introduces topics in Machine Learning for both generative and discriminative estimation. Material will include least squares methods, Gaussian distributions, linear classification, linear regression, maximum likelihood, exponential family distributions, Bayesian networks, Bayesian inference, mixture models, the EM algorithm, graphical models, hidden Markov models, support vector machines, and kernel methods.
+  - [Lectures](http://www.cs.columbia.edu/~jebara/4771/handouts.html)
+
+
 
 -----
 

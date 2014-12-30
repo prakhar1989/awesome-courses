@@ -18,7 +18,11 @@ Courses
 ---
 
 ### Systems
-
+- [18-447](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=start) **Introduction to Computer Architecture** *CMU*
+  - Very comprehensive material on Computer Architecture - definitely more than just "introduction". Online material is very user-friendly, even the recitation videos available online. This is the Spring'14 version by professor [Onur Mutlu ](http://users.ece.cmu.edu/~omutlu/).
+  - [Lectures and Recitation](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule) 
+  - [Homeworks](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=homeworks) 7 HWs with answer set as well
+  - [Readings] (http://www.ece.cmu.edu/~ece447/s14/doku.php?id=readings)
 - [CS425](https://courses.engr.illinois.edu/cs425/) **Distributed Systems** *Univ of Illinois, Urbana-Champaign* 
   - Brilliant set of lectures and reading material covering fundamental concepts in distributed systems such as Vector clocks, Consensus and Paxos.
   - [Lectures](http://recordings.engineering.illinois.edu/ess/portal/section/11ae0191-49e2-4c34-95fd-fc65355262d4)

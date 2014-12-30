@@ -80,7 +80,7 @@ Courses
   - [Assignments](http://www.cs.princeton.edu/~dpw/courses/cos326-12/assignments.php)
 - [CIS194](http://www.seas.upenn.edu/~cis194/) **Introduction to Haskell** *Penn Engineering*
   - Explore the joys of functional programming, using Haskell as a vehicle. The aim of the course will be to allow you to use Haskell to easily and conveniently write practical programs.
-  - [Previous](http://www.seas.upenn.edu/~cis194/spring13/index.html) semester also available, with more exercices
+  - [Previous](http://www.seas.upenn.edu/~cis194/spring13/index.html) semester also available, with more exercises
   - [Assignments & Lectures](http://www.seas.upenn.edu/~cis194/lectures.html)
 - [CS240h](http://www.scs.stanford.edu/14sp-cs240h/) **Functional Systems in Haskell** *Stanford University*
   - Building software systems in Haskell
@@ -120,7 +120,7 @@ Courses
   - Prof Steven Skiena's no stranger to any student when it comes to algorithms. His seminal [book](http://www.algorist.com/) has been touted by many to be best for [getting that job in Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html). In addition, he's also well-known for tutoring students in competitive [programming competitions](http://www.programming-challenges.com/pg.php?page=index). If you're looking to brush up your knowledge on Algorithms, you can't go wrong with this course.
   - [Lecture Videos](http://www.cs.sunysb.edu/~algorith/video-lectures/)
 - [15-451/651](http://www.cs.cmu.edu/afs/cs/academic/class/15451-f10/www/) **Algorithms** *Carnegie Mellon University*
-  - The required algorithms class that go in depth into all basic algorithms and the proofs behind them. This is one of the heavier algorithms cirriculums on this page. Taught by Avrim Blum and Manuel Blum who has a Turing Award due to his contributions to algorithms. Course link includes a very comprehensive set of reference notes by Avrim Blum. 
+  - The required algorithms class that go in depth into all basic algorithms and the proofs behind them. This is one of the heavier algorithms curriculums on this page. Taught by Avrim Blum and Manuel Blum who has a Turing Award due to his contributions to algorithms. Course link includes a very comprehensive set of reference notes by Avrim Blum. 
 - [COS226](http://www.cs.princeton.edu/courses/archive/fall14/cos226/info.php) **Data Structures and Algorithms** *Princeton University*
   - The [popular](https://www.coursera.org/course/algs4partI) algorithms class covering most important algorithms and data structures in use on computers taught by Robert Sedgewick.
   - [Assignments](http://www.cs.princeton.edu/courses/archive/fall14/cos226/assignments.php)
@@ -164,7 +164,7 @@ Courses
   * [Lectures and Assignments](http://www.seas.upenn.edu/~cis500/cis500-f14/index.html#schedule)
   - [Textbook](http://www.cis.upenn.edu/~bcpierce/sf/current/index.html)
 - [CS276](http://www.cs.berkeley.edu/~sanjamg/classes/cs276-fall14/) **Foundations of Cryptography** *UC Berkeley*
-  - This course discusses the complexity-theory foundations of modern cryptography, and looks at recent results in the field such as Fully Homomorphc Encryption, Indistinguishability Obfuscation, MPC and so on.
+  - This course discusses the complexity-theory foundations of modern cryptography, and looks at recent results in the field such as Fully Homomorphic Encryption, Indistinguishability Obfuscation, MPC and so on.
 - [CS278](http://www.cs.berkeley.edu/~luca/cs278-08/) **Complexity Theory** *UC Berkeley*
   - An graduate level course on complexity theory that introduces P vs NP, the power of randomness, average-case complexity, hardness of approximation, and so on.
 - [CS103](http://web.stanford.edu/class/cs103/) **Mathematical Foundations of Computing** *Stanford University*
@@ -253,6 +253,6 @@ Courses
 -----
 
 ### Contributing
-Have a few courses in mind that you think are awesome and would fit in this list? Feel free to send a [pull request](https://github.com/prakhar1989/awesome-courses/pulls). However, do note that I'm not keen on adding popular courses (such as MOOCs / MIT OCW) as there are sevices like [ClassCentral](https://www.class-central.com/) doing a great job of aggregation. This list is ideally for courses which are relatively unknown and make their material (assignments, lectures, exams etc.) available online for free.
+Have a few courses in mind that you think are awesome and would fit in this list? Feel free to send a [pull request](https://github.com/prakhar1989/awesome-courses/pulls). However, do note that I'm not keen on adding popular courses (such as MOOCs / MIT OCW) as there are services like [ClassCentral](https://www.class-central.com/) doing a great job of aggregation. This list is ideally for courses which are relatively unknown and make their material (assignments, lectures, exams etc.) available online for free.
 
 *Note* For some reason, I'm unable to get emojis to work on this readme (see [issue](https://github.com/prakhar1989/awesome-courses/issues/29) for context). If you are able to get them to work (or identify the issue), please let me know. Thanks!

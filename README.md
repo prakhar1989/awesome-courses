@@ -258,5 +258,3 @@ Courses
 
 ### Contributing
 Have a few courses in mind that you think are awesome and would fit in this list? Feel free to send a [pull request](https://github.com/prakhar1989/awesome-courses/pulls). However, do note that I'm not keen on adding popular courses (such as MOOCs / MIT OCW) as there are services like [ClassCentral](https://www.class-central.com/) doing a great job of aggregation. This list is ideally for courses which are relatively unknown and make their material (assignments, lectures, exams etc.) available online for free.
-
-*Note* For some reason, I'm unable to get emojis to work on this readme (see [issue](https://github.com/prakhar1989/awesome-courses/issues/29) for context). If you are able to get them to work (or identify the issue), please let me know. Thanks!

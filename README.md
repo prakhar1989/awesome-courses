@@ -181,6 +181,10 @@ Courses
 - [CS 50](https://cs50.harvard.edu/) **Introduction to Computer Science** *Harvard University*
   - CS50x is Harvard College's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan.
   - [Lectures](https://cs50.harvard.edu/lectures)
+- [CS 6.00.1x](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-0) **Introduction to Computer Science and Programming Using Python** *MIT*
+  - 6.00.1x is an introduction to computer science as a tool to solve real-world analytical problems, one of the most popular courses from MIT meant for a zero-prior-experience audience. It covers the notion of computation, the Python programming language, some simple algorithms, testing and debugging, and informal introduction to algorithmic complexity, and some simple algorithms and data structures.
+  - Courseware and lecture videos for the newest session are available under [edX]() from 7 January, 2015.
+  - Complete Courseware, Lectures and assignments from Fall [2010](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) and Fall [2008](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/) are available under MIT OCW.
 - [CS 101](http://online.stanford.edu/course/computer-science-101-self-paced) **Computer Science 101** *Stanford University*
   - CS101 teaches the essential ideas of Computer Science for a zero-prior-experience audience. Participants play and experiment with short bits of "computer code" to bring to life to the power and limitations of computers.
   - Lectures videos will available for free after registration.
@@ -241,6 +245,9 @@ Courses
   - [Readings](http://philipmjohnson.github.io/ics314f13/readings/)
   - [Experiences](http://philipmjohnson.github.io/ics314f13/experiences/)
   - [Assessments](http://philipmjohnson.github.io/ics314f13/assessments/)
+- [LFS101x.2](http://training.linuxfoundation.org/linux-courses/system-administration-training/introduction-to-linux) **Introduction to Linux** *Linux FoundationX*
+  - This course explores the various tools and techniques commonly used by Linux system administrators and end users to achieve their day-to-day work in a Linux environment. It is designed for experienced computer users who have limited or no previous exposure to Linux, whether they are working in an individual or Enterprise environment.
+  - Courseware available under [Linux Foundation Training](http://training.linuxfoundation.org/linux-courses/system-administration-training/introduction-to-linux) or for free under [edX](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-2)
 
 -----
 *Note* For some reason, I'm unable to get emojis to work on this readme (see [issue](https://github.com/prakhar1989/awesome-courses/issues/29) for context). If you are able to get them to work (or identify the issue), I'd appreciate help with adding emojis for courses. Thanks!

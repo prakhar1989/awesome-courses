@@ -41,6 +41,10 @@ Courses
   - MIT's graduate-level DS course with a focus on fault tolerance, replication, and consistency, all taught via awesome lab assignments in Golang! 
   - [Assignments](http://css.csail.mit.edu/6.824/2014/labs/) - Just do `git clone git://g.csail.mit.edu/6.824-golabs-2014 6.824`
   - [Lectures](http://css.csail.mit.edu/6.824/2014/schedule.html)
+- [6.828](http://pdos.csail.mit.edu/6.828/2014/) **Operating Systems** *MIT*
+  - MIT's operating systems course focusing on the fundamentals of OS design including booting, memory management, environments, file systems, multitasking, and more. In a series of lab assignments, you will build JOS, an OS exokernel written in C.
+  - [Assignments](http://pdos.csail.mit.edu/6.828/2014/labguide.html)
+  - [Lectures](http://pdos.csail.mit.edu/6.828/2014/schedule.html)
 - [SPAC](http://homes.cs.washington.edu/~djg/teachingMaterials/spac/) **Parallelism and Concurrency** *Univ of Washington*
   - Technically not a course nevertheless an awesome collection of materials used by Prof Dan Grossman to teach parallelism and concurrency concepts to sophomores at UWash
 - [15-749](http://www.andrew.cmu.edu/course/15-749/) **Engineering Distributed Systems** *Carnegie-Mellon University*

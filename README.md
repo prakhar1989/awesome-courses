@@ -233,6 +233,14 @@ Courses
   - Taught by [J. Alex Halderman](https://jhalderm.com/) who has analyzed the security of Electronic Voting Machines in the [US](https://jhalderm.com/pub/papers/dcvoting-fc12.pdf) and [over](https://jhalderm.com/pub/papers/ivoting-ccs14.pdf) [seas](https://jhalderm.com/pub/papers/evm-ccs10.pdf).
   - This intensive research seminar covers foundational work and current topics in computer systems security.
   - [Readings](https://www.eecs.umich.edu/courses/eecs588/readings.html)
+- [ICS 314](http://philipmjohnson.github.io/ics314f13/) **Software Engineering** *University of Hawaii*
+  - Taught by [Philip Johnson](http://philipmjohnson.org/)
+  - Introduction to software engineering using the ["Athletic Software Engineering" pedagogy](http://philipmjohnson.org/2013/12/16/athletic-software-engineering-education-initial-results/)
+  - [Modules](http://philipmjohnson.github.io/ics314f13/modules/)
+  - [Learning outcomes](http://philipmjohnson.github.io/ics314f13/outcomes/)
+  - [Readings](http://philipmjohnson.github.io/ics314f13/readings/)
+  - [Experiences](http://philipmjohnson.github.io/ics314f13/experiences/)
+  - [Assessments](http://philipmjohnson.github.io/ics314f13/assessments/)
 
 -----
 *Note* For some reason, I'm unable to get emoji's to work on this readme (see [issue](https://github.com/prakhar1989/awesome-courses/issues/29) for context). If you are able to get them to work (or identify the issue), I'd appreciate help with adding emojis for courses. Thanks!

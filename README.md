@@ -235,4 +235,4 @@ Courses
   - [Readings](https://www.eecs.umich.edu/courses/eecs588/readings.html)
 
 -----
-*Note* For some reason, I'm unable to get emoji's to work on this readme (see [issue](https://github.com/prakhar1989/awesome-courses/issues/29) for context). If you are able to get them to work (or identify the issue), I'd appreciate help with adding emojis for courses. Thanks!
+*Note* For some reason, I'm unable to get emojis to work on this readme (see [issue](https://github.com/prakhar1989/awesome-courses/issues/29) for context). If you are able to get them to work (or identify the issue), I'd appreciate help with adding emojis for courses. Thanks!

@@ -66,10 +66,22 @@ Courses
 - [CS 107](http://web.stanford.edu/class/cs107/index.html) **Computer Organization & Systems** *Stanford University*
   - CS107 is the third course in Stanford's introductory programming sequence. The course will work from the C programming language down to the microprocessor to de-mystify the machine. With a complete understanding of how computer systems execute programs and manipulate data, you will become a more effective programmer, especially in dealing with issues of debugging, performance, portability, and robustness. 
   - [Lecture Videos](https://www.youtube.com/playlist?list=PL08D9FA018A965057&spfreload=10)
-  - [Assignments](http://web.stanford.edu/class/cs107/assignments.html)
+  - [Assignments](http://web.stanford.http://cs.nyu.edu/courses/spring14/CSCI-GA.2250-001/ *edu/class/cs107/assignments.html)
 - [ECE 459](http://patricklam.ca/p4p/) **Programming for Performance** *University of Waterloo*
   - Learn techniques for profiling, rearchitecting, and implementing software systems that can handle industrial-sized inputs, and to design and build critical software infrastructure. Learn performance optimization through parallelization, multithreading, async I/O, vectorization and GPU programming, and distributed computing.
   - [Lecture slides](http://patricklam.ca/p4p/notes/)
+- [CSCI-GA.2250-001](http://cs.nyu.edu/courses/spring14/CSCI-GA.2250-001/) **Operating Systems** *New York University* 
+  - This course is an introductory course in operating systems (OS), focusing on the core concepts of operating  systems. The emphasis will be on understanding general concepts that are applicable to a wide range of operating systems, rather than a discussion of the features of any one specific system. Topics that will be covered include:
+OS histories, i.e. types of operating systems and what which one stuck,
+protected kernels,
+processes and threads,
+concurrency and synchronization, deadlocks and preventions,
+memory management, virtual memory and computer architecture facilitating it (pagetables, segmentation),
+file systems,
+secondary storage.
+Examples will be from Unix/Linux. Programming assignments will be based on C or C++ as Operatings Systems are implemented that way.
+
+This course does not assume that you have taken an Operating Systems course as an undergraduate, or that you have had extensive experience working with one. In fact, if you have taken such a course or have a fair amount of practical experience with OS internals, this course is probably too elementary for you. Please take a look at the course schedule to get a sense of the topics that will be covered: if you can explain most of the terms contained there, you are likely looking for a more advanced course. We will NOT be "hacking" on an operating system but will have lab assignments that deal with the fundamental elements such as different process schedulers and memory management algorithms.
 
 -------
 

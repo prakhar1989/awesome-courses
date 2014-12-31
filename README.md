@@ -159,6 +159,16 @@ Courses
   - This data structures course introduces C++, linked-lists, stacks, queues, trees, numerical representation, hash tables, priority queues, heaps, huffman coding, graphs, and x86 assembly.
   - [Lectures](http://aaronbloomfield.github.io/pdr/slides/)
   - [Assignments](http://aaronbloomfield.github.io/pdr/labs/)
+- [ECS 122A](http://web.cs.ucdavis.edu/~gusfield/cs122f10/) **Algorithm Design and Analysis** *UC Davis*
+  - Taught by [Dan Gusfield](http://web.cs.ucdavis.edu/~gusfield/) in 2010, this course is an undergraduate introduction to algorithm design and analysis. It features traditional topics, such as Big Oh notation, as well as an importance on implementing specific algorithms. Also featured are sorting (in linear time), graph algorithms, depth-first search, string matching, dynamic programming, NP-completeness, approximation, and randomization.
+  - [Syllabus](http://web.cs.ucdavis.edu/~gusfield/cs122f10/syll122.pdf)
+  - [Lecture Videos](http://web.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html)
+  - [Assignments](http://web.cs.ucdavis.edu/~gusfield/cs122f10/)
+- [ECS 222A](http://web.cs.ucdavis.edu/~gusfield/cs222w11/) **Graduate Level Algorithm Design and Analysis** *UC Davis*
+  - This is the graduate level complement to the ECS 122A undergraduate algorithms course by [Dan Gusfield](http://web.cs.ucdavis.edu/~gusfield/) in 2011. It assumes an undergrad course has already been tken in algorithms, and, while going over some undergraduate algorithms topics, focuses more on increasingly complex and advanced algorithms.
+  - [Lecture Videos](http://web.cs.ucdavis.edu/~gusfield/cs222f07/videolist.html)
+  - [Syllabus](http://web.cs.ucdavis.edu/~gusfield/cs222w11/syll11.pdf)
+  - [Assignments](http://web.cs.ucdavis.edu/~gusfield/cs222w11/)
 
 -------
 
@@ -256,6 +266,11 @@ Courses
 - [COMS 4771](http://www.cs.columbia.edu/~jebara/4771/index.html) **Machine Learning** *Columbia University*
   - Course taught by [Tony Jebara](http://www.cs.columbia.edu/~jebara/resume.html) introduces topics in Machine Learning for both generative and discriminative estimation. Material will include least squares methods, Gaussian distributions, linear classification, linear regression, maximum likelihood, exponential family distributions, Bayesian networks, Bayesian inference, mixture models, the EM algorithm, graphical models, hidden Markov models, support vector machines, and kernel methods.
   - [Lectures and Assignments](http://www.cs.columbia.edu/~jebara/4771/handouts.html)
+- [CS 75](http://ocw.tufts.edu/Course/75)  **Introduction to Game Development** *Tufts University*
+  - The course taught by [Ming Y. Chow](http://mchow01.github.io) teaches game development initially in PyGame through Python, before moving on to addressing all facets of game development. Topics addressed include game pysics, sprites, animation, game development methodology, sound, testing, MMORPGs and online games, and addressing mobile development in Android, HTML5, and iOS. Most to all of the development is focused on PyGame for learning principles
+  - [Text Lectures](http://ocw.tufts.edu/Course/75/Learningunits)
+  - [Assignments](http://ocw.tufts.edu/Course/75/Assignments)
+  - [Labs](http://ocw.tufts.edu/Course/75/Labs)
 
 -----
 

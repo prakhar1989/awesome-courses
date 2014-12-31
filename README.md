@@ -211,6 +211,9 @@ Courses
 -------
 
 ### Misc
+- [CS 378](https://github.com/ut-cs378-vision-2014fall/course-info) **3D Reconstruction with Computer Vision** *UTexas*
+  - In this lab-based class, we'll dive into practical applications of 3D reconstruction, combining hardware and software to build our own 3D environments from scratch. We'll use open-source frameworks like OpenCV to do the heavy lifting, with the focus on understanding and applying state-of-the art approaches to geometric computer vision 
+  - [Lectures](https://github.com/ut-cs378-vision-2014fall/course-info/tree/master/meeting-notes)
 - [CS 5150](http://www.cs.cornell.edu/courses/CS5150/2014fa/overview.html) **Software Engineering** *Cornell University*
   -  Introduction to the practical problems of specifying, designing, building, testing, and delivering reliable software systems
   - [Lectures](http://www.cs.cornell.edu/courses/CS5150/2014fa/materials.html)

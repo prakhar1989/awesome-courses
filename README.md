@@ -257,6 +257,11 @@ Courses
   - Course taught by [Tony Jebara](http://www.cs.columbia.edu/~jebara/resume.html) introduces topics in Machine Learning for both generative and discriminative estimation. Material will include least squares methods, Gaussian distributions, linear classification, linear regression, maximum likelihood, exponential family distributions, Bayesian networks, Bayesian inference, mixture models, the EM algorithm, graphical models, hidden Markov models, support vector machines, and kernel methods.
   - [Lectures and Assignments](http://www.cs.columbia.edu/~jebara/4771/handouts.html)
 
+- [LFS101x.2](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-2#.VKP3qM2Uc8o) **Introduction to Linux** *LinuxFoundationX*
+  -This course explores the various tools and techniques commonly used by Linux system administrators and end users to achieve their day-to-day work in a Linux environment. It is designed for experienced computer users who have limited or no previous exposure to Linux, whether they are working in an individual or Enterprise environment.
+  - [Lectures](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-2#.VKP5fc2Uc8q)
+
+
 -----
 
 ### Contributing

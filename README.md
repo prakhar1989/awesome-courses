@@ -9,7 +9,7 @@ Table of Contents
 - [Systems](#systems)
 - [Programming Languages / Compilers](#programming-languages--compilers)
 - [Algorithms](#algorithms)
-- [CS Theory](#cs-theory)   
+- [CS Theory](#cs-theory)
 - [Introduction to CS](#introduction-to-cs)
 - [Misc](#misc)
 - [Contributing](#contributing)

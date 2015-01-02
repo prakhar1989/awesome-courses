@@ -120,6 +120,10 @@ Courses
 -------
 
 ### Algorithms
+- [6.INT](http://courses.csail.mit.edu/iap/interview/index.php) **Hacking a Google Interview** *MIT*
+  - This course taught in the MIT Independent Activities Period in 2009 goes over common solution to common interterview questions for software engineer interviews at highly selective companies like Apple, Google, and Facebook. They cover time complexity, hash tables, binary search trees, and other common algorithm topics you should have already covered in a different course, but goes more in depth on things you wouldn't otherwise learn in class- like bitwise logic and problem solving tricks.
+  - [Handouts](http://courses.csail.mit.edu/iap/interview/materials.php)
+  - [Topics Covered](http://courses.csail.mit.edu/iap/interview/calendar.php)
 - [CSE-373](http://www3.cs.stonybrook.edu/~skiena/373/) **Analysis of Algorithms** *Stony Brook University* 
   - Prof Steven Skiena's no stranger to any student when it comes to algorithms. His seminal [book](http://www.algorist.com/) has been touted by many to be best for [getting that job in Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html). In addition, he's also well-known for tutoring students in competitive [programming competitions](http://www.programming-challenges.com/pg.php?page=index). If you're looking to brush up your knowledge on Algorithms, you can't go wrong with this course.
   - [Lecture Videos](http://www.cs.sunysb.edu/~algorith/video-lectures/)
@@ -276,10 +280,7 @@ Courses
   - [Text Lectures](http://ocw.tufts.edu/Course/75/Learningunits)
   - [Assignments](http://ocw.tufts.edu/Course/75/Assignments)
   - [Labs](http://ocw.tufts.edu/Course/75/Labs)
-- [6.INT](http://courses.csail.mit.edu/iap/interview/index.php) **Hacking a Google Interview** *MIT*
-  - This course taught in the MIT Independent Activities Period in 2009 goes over common solution to common interterview questions for software engineer interviews at highly selective companies like Apple, Google, and Facebook. They cover time complexity, hash tables, binary search trees, and other common algorithm topics you should have already covered in a different course, but goes more in depth on things you wouldn't otherwise learn in class- like bitwise logic and problem solving tricks.
-  - [Handouts](http://courses.csail.mit.edu/iap/interview/materials.php)
-  - [Topics Covered](http://courses.csail.mit.edu/iap/interview/calendar.php)
+
 
 -----
 

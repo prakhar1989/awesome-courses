@@ -116,6 +116,9 @@ Courses
   - Course that uses OCaml to teach functional programming and programming language design. Each assignment is a part of an interpreter and compiler for an object-oriented language similar to Java, and you are required to use a different language for each assignment (i.e., choose 4 from Python, JS, OCaml, Haskell, Ruby).
   - [Lecture Notes](http://www.cs.virginia.edu/~weimer/4610/lectures.html)
   - [Assignments](http://www.cs.virginia.edu/~weimer/4610/pa.html)
+- [clojure](http://mooc.cs.helsinki.fi/clojure) **Functional Programming with Clojure** *University of Helsinki*
+  - The course is an introduction to functional programming with a dynamically typed language Clojure. We start with an introduction to Clojure; its syntax and development environment. Clojure has a good selection of data structures and we cover most of them. We also go through the basics of recursion and higher-order functions. The course material is in English.
+  - [Github Page](http://iloveponies.github.io/120-hour-epic-sax-marathon/index.html)
 
 -------
 

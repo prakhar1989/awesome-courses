@@ -119,6 +119,12 @@ Courses
 - [clojure](http://mooc.cs.helsinki.fi/clojure) **Functional Programming with Clojure** *University of Helsinki*
   - The course is an introduction to functional programming with a dynamically typed language Clojure. We start with an introduction to Clojure; its syntax and development environment. Clojure has a good selection of data structures and we cover most of them. We also go through the basics of recursion and higher-order functions. The course material is in English.
   - [Github Page](http://iloveponies.github.io/120-hour-epic-sax-marathon/index.html)
+-[Online](http://learnpythonthehardway.org/) **Learn Python The Hard Way** *OnlineFreeBook by Zed Shaw*
+- This is an online book/course available for beginners in programming.This is really a great website to start with programming as well as to learn python2.The title says it is the hard way to learn to write code but it’s actually not. It’s the “hard” way only in that it’s the way people used to teach things. In this book you
+    will do something incredibly simple that all programmers actually do to learn a language:
+    [Exercises](http://learnpythonthehardway.org/book/)Go through each exercise.
+    Type in each sample exactly.
+    Make it run.
 
 -------
 

@@ -18,6 +18,9 @@ Courses
 ---
 
 ### Systems
+- [CS162](http://cs162.eecs.berkeley.edu/) **Operating Systems and Systems Programming** *UC Berkeley*
+  - Operating Systems course by the Chair of EECS, UC Berkeley [David Culler](http://www.cs.berkeley.edu/~culler/)
+  - [Youtube Playlist](https://www.youtube.com/playlist?list=PL-XXv-cvA_iAARFmCufZ6XeMPPgAzNSNa) Fall 2014 lectures
 - [18-447](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=start) **Introduction to Computer Architecture** *CMU*
   - Very comprehensive material on Computer Architecture - definitely more than just "introduction". Online material is very user-friendly, even the recitation videos available online. This is the Spring'14 version by professor [Onur Mutlu ](http://users.ece.cmu.edu/~omutlu/).
   - [Lectures and Recitation](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule) 

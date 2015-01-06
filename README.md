@@ -202,7 +202,8 @@ Courses
 ### Introduction to CS
 
 - [CS 10](https://inst.eecs.berkeley.edu/~cs10/fa14/) **The Beauty and Joy of Computing** *UC Berkeley*
-  - CS10 is UCB's introductory computer science class, taught using the beginners' drag-and-drop language [Snap*!*](http://snap.berkeley.edu) (based on Scratch by MIT).
+  - CS10 is UCB's introductory computer science class, taught using the beginners' drag-and-drop language. Students learn about history, social implications, great principles, and future of computing. They also learn the joy of programming a computer using a friendly, graphical language, and will complete a substantial team programming project related to their interests.
+  - [Snap*!*](http://snap.berkeley.edu) (based on Scratch by MIT).
   - [Curriculum](http://bjc.berkeley.edu)
 - [CS 50](https://cs50.harvard.edu/) **Introduction to Computer Science** *Harvard University*
   - CS50x is Harvard College's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan.

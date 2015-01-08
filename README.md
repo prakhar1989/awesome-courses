@@ -6,8 +6,6 @@ Awesome Courses
 Table of Contents
 ---
 
-![alt](https://raw.githubusercontent.com/raymondware/awesome-courses/master/video-em.png)
-
 - [Systems](#systems)
 - [Programming Languages / Compilers](#programming-languages--compilers)
 - [Algorithms](#algorithms)
@@ -15,6 +13,14 @@ Table of Contents
 - [Introduction to CS](#introduction-to-cs)
 - [Misc](#misc)
 - [Contributing](#contributing)
+
+Legend
+---
+
+- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> - Lecture Videos
+- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Videos" /> - Lecture Notes
+- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Lecture Videos" /> - Assignments / Labs
+- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Lecture Videos" /> - Readings
 
 Courses
 ---

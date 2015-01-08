@@ -294,15 +294,13 @@ Courses
 
 
 -----
-Legend
----
+
+### Legend
 
 - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> - Lecture Videos
 - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> - Lecture Notes
 - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> - Assignments / Labs
 - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" /> - Readings
-
------
 
 ### Contributing
 Have a few courses in mind that you think are awesome and would fit in this list? Feel free to send a [pull request](https://github.com/prakhar1989/awesome-courses/pulls). However, do note that I'm not keen on adding popular courses (such as MOOCs / MIT OCW) as there are services like [ClassCentral](https://www.class-central.com/) doing a great job of aggregation. This list is ideally for courses which are relatively unknown and make their material (assignments, lectures, exams etc.) available online for free.

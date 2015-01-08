@@ -13,14 +13,7 @@ Table of Contents
 - [Introduction to CS](#introduction-to-cs)
 - [Misc](#misc)
 - [Contributing](#contributing)
-
-Legend
----
-
-- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> - Lecture Videos
-- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> - Lecture Notes
-- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> - Assignments / Labs
-- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" /> - Readings
+- [Legend](#legend)
 
 Courses
 ---
@@ -49,33 +42,39 @@ Courses
   - MIT's graduate-level DS course with a focus on fault tolerance, replication, and consistency, all taught via awesome lab assignments in Golang! 
   - [Assignments](http://css.csail.mit.edu/6.824/2014/labs/) - Just do `git clone git://g.csail.mit.edu/6.824-golabs-2014 6.824`
   - [Readings](http://css.csail.mit.edu/6.824/2014/schedule.html)
-- [6.828](http://pdos.csail.mit.edu/6.828/2014/) **Operating Systems** *MIT*
+- [6.828](http://pdos.csail.mit.edu/6.828/2014/) **Operating Systems** *MIT* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
   - MIT's operating systems course focusing on the fundamentals of OS design including booting, memory management, environments, file systems, multitasking, and more. In a series of lab assignments, you will build JOS, an OS exokernel written in C.
   - [Assignments](http://pdos.csail.mit.edu/6.828/2014/labguide.html)
   - [Lectures](http://pdos.csail.mit.edu/6.828/2014/schedule.html)
-- [SPAC](http://homes.cs.washington.edu/~djg/teachingMaterials/spac/) **Parallelism and Concurrency** *Univ of Washington*
+- [SPAC](http://homes.cs.washington.edu/~djg/teachingMaterials/spac/) **Parallelism and Concurrency** *Univ of Washington* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
   - Technically not a course nevertheless an awesome collection of materials used by Prof Dan Grossman to teach parallelism and concurrency concepts to sophomores at UWash
-- [15-749](http://www.andrew.cmu.edu/course/15-749/) **Engineering Distributed Systems** *Carnegie-Mellon University*
+- [15-749](http://www.andrew.cmu.edu/course/15-749/) **Engineering Distributed Systems** *Carnegie-Mellon University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
   - A project focused course on Distributed Systems with an awesome list of readings
   - [Readings](http://www.andrew.cmu.edu/course/15-749/READINGS/)
-- [PODC](http://dcg.ethz.ch/lectures/podc_allstars/) **Principles of Distributed Computing** *ETH-Zurich*
+- [PODC](http://dcg.ethz.ch/lectures/podc_allstars/) **Principles of Distributed Computing** *ETH-Zurich* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
   - Explore essential algorithmic ideas and lower bound techniques, basically the "pearls" of distributed computing in an easy-to-read set of lecture notes, combined with complete exercises and solutions.
   - [Book](http://dcg.ethz.ch/lectures/podc_allstars/lecture/podc.pdf)
   - [Assignments and Solutions](http://dcg.ethz.ch/lectures/podc_allstars/)
-- [CS5412](http://www.cs.cornell.edu/Courses/CS5412/2014sp/) **Cloud Computing** *Cornell University*
+- [CS5412](http://www.cs.cornell.edu/Courses/CS5412/2014sp/) **Cloud Computing** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
+<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
   - Taught by one of the stalwarts of this field, Prof Ken Birman, this course has a fantastic set of slides that one can go through. The Prof's [book](http://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance/dp/1447124154) is also a gem and recommended as a must read in Google's tutorial on [Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
   - [Slides](http://www.cs.cornell.edu/Courses/CS5412/2014sp/Syllabus.htm)
-- [CSCI 360](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/csci360_f14.php) **Computer Architecture 3** *CUNY Hunter College*
+- [CSCI 360](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/csci360_f14.php) **Computer Architecture 3** *CUNY Hunter College* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" />
+<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
   -  A course that covers cache design, buses, memory hierarchies, processor-peripheral interfaces, and multiprocessors, including GPUs.
-- [CSCI 493.66](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.66/csci493.66_spr12.php) **UNIX System Programming (formerly UNIX Tools)** *CUNY Hunter College*
+- [CSCI 493.66](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.66/csci493.66_spr12.php) **UNIX System Programming (formerly UNIX Tools)** *CUNY Hunter College* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" />
+<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
   - A course that is mostly about writing programs against the UNIX API, covering all of the basic parts of the kernel interface and libraries, including files, processes, terminal control, signals, and threading. 
-- [CSCI 493.75](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php) **Parallel Computing** *CUNY Hunter College*
+- [CSCI 493.75](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php) **Parallel Computing** *CUNY Hunter College* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" />
+<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
   - The course is an introduction to parallel algorithms and parallel programming in C and C++, using the Message Passing Interface (MPI) and the OpenMP application programming interface. It also includes a brief introduction to parallel architectures and interconnection networks. It is both theoretical and practical, including material on design methodology, performance analysis, and mathematical concepts, as well as details on programming using MPI and OpenMP.
-- [CS 107](http://web.stanford.edu/class/cs107/index.html) **Computer Organization & Systems** *Stanford University*
+- [CS 107](http://web.stanford.edu/class/cs107/index.html) **Computer Organization & Systems** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" />
+<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" />
   - CS107 is the third course in Stanford's introductory programming sequence. The course will work from the C programming language down to the microprocessor to de-mystify the machine. With a complete understanding of how computer systems execute programs and manipulate data, you will become a more effective programmer, especially in dealing with issues of debugging, performance, portability, and robustness. 
   - [Lecture Videos](https://www.youtube.com/playlist?list=PL08D9FA018A965057&spfreload=10)
   - [Assignments](http://web.stanford.edu/class/cs107/assignments.html)
-- [ECE 459](http://patricklam.ca/p4p/) **Programming for Performance** *University of Waterloo*
+- [ECE 459](http://patricklam.ca/p4p/) **Programming for Performance** *University of Waterloo* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
+<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" />
   - Learn techniques for profiling, rearchitecting, and implementing software systems that can handle industrial-sized inputs, and to design and build critical software infrastructure. Learn performance optimization through parallelization, multithreading, async I/O, vectorization and GPU programming, and distributed computing.
   - [Lecture slides](http://patricklam.ca/p4p/notes/)
 
@@ -293,6 +292,15 @@ Courses
   - [Assignments](http://ocw.tufts.edu/Course/75/Assignments)
   - [Labs](http://ocw.tufts.edu/Course/75/Labs)
 
+
+-----
+Legend
+---
+
+- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> - Lecture Videos
+- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> - Lecture Notes
+- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> - Assignments / Labs
+- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" /> - Readings
 
 -----
 

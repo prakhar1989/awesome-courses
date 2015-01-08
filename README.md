@@ -18,21 +18,21 @@ Legend
 ---
 
 - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> - Lecture Videos
-- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Videos" /> - Lecture Notes
-- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Lecture Videos" /> - Assignments / Labs
-- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Lecture Videos" /> - Readings
+- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> - Lecture Notes
+- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> - Assignments / Labs
+- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" /> - Readings
 
 Courses
 ---
 
 ### Systems
-- [18-447](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=start) **Introduction to Computer Architecture** *CMU*
+- [18-447](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=start) **Introduction to Computer Architecture** *CMU* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
   - Very comprehensive material on Computer Architecture - definitely more than just "introduction". Online material is very user-friendly, even the recitation videos available online. This is the Spring'14 version by professor [Onur Mutlu ](http://users.ece.cmu.edu/~omutlu/).
   - [Lectures and Recitation](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule) 
   - [Homeworks](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=homeworks) 7 HWs with answer set as well
   - [Readings] (http://www.ece.cmu.edu/~ece447/s14/doku.php?id=readings)
-- [CS425](https://courses.engr.illinois.edu/cs425/) **Distributed Systems** *Univ of Illinois, Urbana-Champaign* 
-  - Brilliant set of lectures and reading material covering fundamental concepts in distributed systems such as Vector clocks, Consensus and Paxos.
+- [CS425](https://courses.engr.illinois.edu/cs425/fa2014/index.html) **Distributed Systems** *Univ of Illinois, Urbana-Champaign* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
+  - Brilliant set of lectures and reading material covering fundamental concepts in distributed systems such as Vector clocks, Consensus and Paxos. This is the 2014 version by Prof Indranil Gupta.
   - [Lectures](http://recordings.engineering.illinois.edu/ess/portal/section/11ae0191-49e2-4c34-95fd-fc65355262d4)
   - [Assignments](https://courses.engr.illinois.edu/cs425/assignments.html)
 - [CS241](https://courses.engr.illinois.edu/cs241/) **Systems Programming** *Univ of Illinois, Urbana-Champaign*

@@ -6,6 +6,8 @@ Awesome Courses
 Table of Contents
 ---
 
+![alt](https://raw.githubusercontent.com/raymondware/awesome-courses/master/video-em.png)
+
 - [Systems](#systems)
 - [Programming Languages / Compilers](#programming-languages--compilers)
 - [Algorithms](#algorithms)

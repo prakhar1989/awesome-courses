@@ -284,7 +284,7 @@ Courses
   - [Text Lectures](http://ocw.tufts.edu/Course/75/Learningunits)
   - [Assignments](http://ocw.tufts.edu/Course/75/Assignments)
   - [Labs](http://ocw.tufts.edu/Course/75/Labs)
-- [CIS4930 / CIS5930](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/) **Ofensive Computer Security** *Florida State University*
+- [CIS4930 / CIS5930](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/) **Offensive Computer Security** *Florida State University*
   - Course taught by [W. Owen Redwood](http://ww2.cs.fsu.edu/~redwood/) and [Xiuwen Liu](http://www.cs.fsu.edu/~liux/). It covers a wide range of computer security topics, starting from Secure C Coding and Reverse Engineering to Penetration Testing, Exploitation and Web Application Hacking, both from the defensive and the offensive point of view.
   - [Lectures and Videos](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
   - [Assignments](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/assignments.html)

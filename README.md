@@ -70,7 +70,10 @@ Courses
 - [ECE 459](http://patricklam.ca/p4p/) **Programming for Performance** *University of Waterloo*
   - Learn techniques for profiling, rearchitecting, and implementing software systems that can handle industrial-sized inputs, and to design and build critical software infrastructure. Learn performance optimization through parallelization, multithreading, async I/O, vectorization and GPU programming, and distributed computing.
   - [Lecture slides](http://patricklam.ca/p4p/notes/)
-
+- [CS186](https://sites.google.com/site/cs186fall2013/home) **Introduction to Database Systems** *UC Berkeley*
+  - In the project assignments in CS186, you will write a basic database management system called SimpleDB. For this project, you will focus on implementing the core modules required to access stored data on disk; in future projects, you will add support for various query processing operators, as well as transactions, locking, and concurrent queries.
+  - [Lecture Notes](https://sites.google.com/site/cs186fall2013/section-notes)
+  - [Projects](https://sites.google.com/site/cs186fall2013/homeworks)
 -------
 
 ### Programming Languages / Compilers

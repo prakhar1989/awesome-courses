@@ -312,6 +312,10 @@ Courses
   - Course taught by [Luis Rocha](http://www.informatics.indiana.edu/rocha/lr_form.html) about the multi-disciplinary field algorithms insired by naturally occurring phenomenon. This course provides introduces the following areas: L-systems, Cellular Automata, Emergence, Genetic Algorithms, Swarm Intelligence and Artificial Immune Systems. It's aim is to cover the fundamentals and enable readers to build up a proficiency in applying various algorithms to real-world problems.
   - [Lectures](http://www.informatics.indiana.edu/rocha/i-bic/#materials)
   - [Assignments](http://www.informatics.indiana.edu/rocha/i-bic/#labs)
+- [CS100](https://github.com/mikeizbicki/ucr-cs100) **Open Source Software Construction** *UC Riverside*
+  - This is a course on how to be a hacker. Your first four homework assignments walk you through the process of building your own unix shell. You'll be developing it as an open source project, and you will collaborate with each other at various points.
+  - [Github Page](https://github.com/mikeizbicki/ucr-cs100)
+  - [Assignments](https://github.com/mikeizbicki/ucr-cs100/tree/2015winter/assignments)
 
 -----
 

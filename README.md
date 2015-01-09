@@ -312,6 +312,9 @@ Courses
   - Course taught by [Luis Rocha](http://www.informatics.indiana.edu/rocha/lr_form.html) about the multi-disciplinary field algorithms insired by naturally occurring phenomenon. This course provides introduces the following areas: L-systems, Cellular Automata, Emergence, Genetic Algorithms, Swarm Intelligence and Artificial Immune Systems. It's aim is to cover the fundamentals and enable readers to build up a proficiency in applying various algorithms to real-world problems.
   - [Lectures](http://www.informatics.indiana.edu/rocha/i-bic/#materials)
   - [Assignments](http://www.informatics.indiana.edu/rocha/i-bic/#labs)
+- [CS 156](https://work.caltech.edu/telecourse.html) **Learning From Data** *Caltech*
+  - Course taught by [Yaser Abu-Mostafa](https://work.caltech.edu/)
+  - This is an introductory course in machine learning (ML) that covers the basic theory, algorithms, and applications. ML is a key technology in Big Data, and in many financial, medical, commercial, and scientific applications. It enables computational systems to adaptively improve their performance with experience accumulated from the observed data. ML has become one of the hottest fields of study today, taken up by undergraduate and graduate students from 15 different majors at Caltech.
 
 -----
 

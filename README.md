@@ -124,7 +124,7 @@ Courses
 
 ### Algorithms
 - [6.INT](http://courses.csail.mit.edu/iap/interview/index.php) **Hacking a Google Interview** *MIT*
-  - This course taught in the MIT Independent Activities Period in 2009 goes over common solution to common interterview questions for software engineer interviews at highly selective companies like Apple, Google, and Facebook. They cover time complexity, hash tables, binary search trees, and other common algorithm topics you should have already covered in a different course, but goes more in depth on things you wouldn't otherwise learn in class- like bitwise logic and problem solving tricks.
+  - This course taught in the MIT Independent Activities Period in 2009 goes over common solution to common interview questions for software engineer interviews at highly selective companies like Apple, Google, and Facebook. They cover time complexity, hash tables, binary search trees, and other common algorithm topics you should have already covered in a different course, but goes more in depth on things you wouldn't otherwise learn in class- like bitwise logic and problem solving tricks.
   - [Handouts](http://courses.csail.mit.edu/iap/interview/materials.php)
   - [Topics Covered](http://courses.csail.mit.edu/iap/interview/calendar.php)
 - [CSE-373](http://www3.cs.stonybrook.edu/~skiena/373/) **Analysis of Algorithms** *Stony Brook University* 
@@ -172,7 +172,7 @@ Courses
   - [Lecture Videos](http://web.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html)
   - [Assignments](http://web.cs.ucdavis.edu/~gusfield/cs122f10/)
 - [ECS 222A](http://web.cs.ucdavis.edu/~gusfield/cs222w11/) **Graduate Level Algorithm Design and Analysis** *UC Davis*
-  - This is the graduate level complement to the ECS 122A undergraduate algorithms course by [Dan Gusfield](http://web.cs.ucdavis.edu/~gusfield/) in 2011. It assumes an undergrad course has already been tken in algorithms, and, while going over some undergraduate algorithms topics, focuses more on increasingly complex and advanced algorithms.
+  - This is the graduate level complement to the ECS 122A undergraduate algorithms course by [Dan Gusfield](http://web.cs.ucdavis.edu/~gusfield/) in 2011. It assumes an undergrad course has already been taken in algorithms, and, while going over some undergraduate algorithms topics, focuses more on increasingly complex and advanced algorithms.
   - [Lecture Videos](http://web.cs.ucdavis.edu/~gusfield/cs222f07/videolist.html)
   - [Syllabus](http://web.cs.ucdavis.edu/~gusfield/cs222w11/syll11.pdf)
   - [Assignments](http://web.cs.ucdavis.edu/~gusfield/cs222w11/)

@@ -137,6 +137,7 @@ Courses
   - The course is an introduction to functional programming with a dynamically typed language Clojure. We start with an introduction to Clojure; its syntax and development environment. Clojure has a good selection of data structures and we cover most of them. We also go through the basics of recursion and higher-order functions. The course material is in English.
   - [Github Page](http://iloveponies.github.io/120-hour-epic-sax-marathon/index.html)
 
+
 -------
 
 ### Algorithms
@@ -193,6 +194,9 @@ Courses
   - [Lecture Videos](http://web.cs.ucdavis.edu/~gusfield/cs222f07/videolist.html)
   - [Syllabus](http://web.cs.ucdavis.edu/~gusfield/cs222w11/syll11.pdf)
   - [Assignments](http://web.cs.ucdavis.edu/~gusfield/cs222w11/)
+- [CS 161](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms) **Design & Analysis of Algorithms** **Stanford University**
+  -Taught by Prof. Tim Roughgarden This course is an introduction to fundamental techniques for designing and analyzing algorithms, including asymptotic analysis, divide-and-conquer algorithms and recurrences, greedy algorithms, data structures, dynamic programming, graph algorithms, and randomized algorithms.
+  - [Lectures](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
 
 -------
 

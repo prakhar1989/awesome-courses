@@ -106,7 +106,7 @@ management, storage management, files, distributed systems, and case studies.
 	- [Homeworks](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=homeworks) 7 HWs with answer set as well
 	- [Readings] (http://www.ece.cmu.edu/~ece447/s14/doku.php?id=readings)
 - [cs4414](http://rust-class.org/index.html) **Operating Systems** *University of Virginia* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" />
-	- A course covers topics include: Analyzes process communication and synchronization; resource management; virtual memory management algorithms; file systems; and networking and distributed systems. The primary goal of this course is to improve your ability to build scalable, robust and secure computing systems. It focuses on doing that by understanding what underlies the core abstractions of modern computer systems.
+	- A course (that) covers topics including: Analysis process communication and synchronization; resource management; virtual memory management algorithms; file systems; and networking and distributed systems. The primary goal of this course is to improve your ability to build scalable, robust and secure computing systems. It focuses on doing that by understanding what underlies the core abstractions of modern computer systems.
 	- [Syllabus](http://rust-class.org/pages/syllabus.html)
 	- [Lectures](http://rust-class.org/pages/classes.html)
 

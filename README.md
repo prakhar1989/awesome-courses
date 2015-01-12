@@ -258,6 +258,30 @@ Courses
 	- Topics: Advanced memory management features of C and C++; the differences between imperative and object-oriented paradigms. The functional paradigm (using LISP) and concurrent programming (using C and C++)
 	- [Lectures](http://see.stanford.edu/see/lecturelist.aspx?coll=2d712634-2bf1-4b55-9a3a-ca9d470755ee)
 	- [Assignments](http://see.stanford.edu/see/materials/icsppcs107/assignments.aspx)
+- [CSCE 2004](http://www.csce.uark.edu/~sgauch/2004/S14/index.html) **Programming Foundations I** *University of Arkansas (Fayetteville)* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
+	- Introductory course for students majoring in computer science or computer engineering. Software development process: problem specification, program design, implementation, testing and documentation. Programming topics: data representation, conditional and iterative statements, functions, arrays, strings, file I/O, and classes. Using C++ in a UNIX environment.
+	- [Syllabus](http://www.csce.uark.edu/~sgauch/2004/S14/syllabus.html)
+	- [Notes](http://www.csce.uark.edu/~sgauch/2004/S14/notes/index.html)
+	- [Assignments](http://www.csce.uark.edu/~sgauch/2004/S14/hw/index.html)
+	- [Practice Exams](http://www.csce.uark.edu/~sgauch/2004/S14/index.html)
+- [CSCE 2014](http://www.csce.uark.edu/~jgauch/2014/S14/index.html) **Programming Foundations 2** *University of Arkansas (Fayetteville)* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
+	- This course continues developing problem solving techniques by focusing on fundamental data structures and associated algorithms. Topics include: abstract data types, introduction to object-oriented programming, linked lists, stacks, queues, hash tables, binary trees, graphs, recursion, and searching and sorting algorithms. Using C++ in a UNIX environment.
+	- [Syllabus](http://www.csce.uark.edu/~jgauch/2014/S14/handouts/syllabus.html)
+	- [Assignments](http://www.csce.uark.edu/~jgauch/2014/S14/index.html)
+	- [Practice Exams](http://www.csce.uark.edu/~jgauch/2014/S14/index.html)
+- [CSCE 3193](http://www.csce.uark.edu/~sgauch/3193/S11/index.html) **Programming Paradigms** *University of Arkansas (Fayetteville)*	<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
+	- Programming in different paradigms with emphasis on object oriented programming, network programming and functional programming. Survey of programming languages, event driven programming, concurrency, software validation.
+	- [Syllabus](http://www.csce.uark.edu/~sgauch/3193/S11/syllabus.html)
+	- [Notes](http://www.csce.uark.edu/~sgauch/3193/S11/notes/index.html)
+	- [Assignments](http://www.csce.uark.edu/~sgauch/3193/S11/hw/index.html)
+	- [Practice Exams](http://www.csce.uark.edu/~sgauch/3193/S11/exams/index.html)
+- [CSCE 3613](http://comp.uark.edu/~wingning/csce3613/csce3613.html) **Operating Systems** *University of Arkansas (Fayetteville)* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
+	- An introduction to operating systems including topics in system structures, process
+management, storage management, files, distributed systems, and case studies. 
+	- [Syllabus](http://comp.uark.edu/~wingning/csce3613/CSCE3613.pdf)
+	- [Assignments](http://comp.uark.edu/~wingning/csce3613/Homework3613.html)
+	- [Lecture Notes](http://comp.uark.edu/~wingning/csce3613/CourseNote3613.html)
+	- [Readings](http://comp.uark.edu/~wingning/csce3613/Link3613.html)
 - [6.001](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm) **Structure and Interpretation of Computer Programs** *MIT* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
 	- Teaches big-picture computing concepts using the Scheme programming language. Students will implement programs in a variety of different programming paradigms (functional, object-oriented, logical). Heavy emphasis on function composition, code-as-data, control abstraction with continuations, and syntactic abstraction through macros. An excellent course if you are looking to build a mental framework on which to hang your programming knowledge.
 	- [Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures)

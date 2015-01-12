@@ -60,6 +60,13 @@ Courses
 <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
 	- Taught by one of the stalwarts of this field, Prof Ken Birman, this course has a fantastic set of slides that one can go through. The Prof's [book](http://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance/dp/1447124154) is also a gem and recommended as a must read in Google's tutorial on [Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 	- [Slides](http://www.cs.cornell.edu/Courses/CS5412/2014sp/Syllabus.htm)
+- [CSCE 3613](http://comp.uark.edu/~wingning/csce3613/csce3613.html) **Operating Systems** *University of Arkansas (Fayetteville)* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
+	- An introduction to operating systems including topics in system structures, process
+management, storage management, files, distributed systems, and case studies. 
+	- [Syllabus](http://comp.uark.edu/~wingning/csce3613/CSCE3613.pdf)
+	- [Assignments](http://comp.uark.edu/~wingning/csce3613/Homework3613.html)
+	- [Lecture Notes](http://comp.uark.edu/~wingning/csce3613/CourseNote3613.html)
+	- [Readings](http://comp.uark.edu/~wingning/csce3613/Link3613.html)
 - [CSCI 360](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/csci360_f14.php) **Computer Architecture 3** *CUNY Hunter College* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" />
 <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
 	-  A course that covers cache design, buses, memory hierarchies, processor-peripheral interfaces, and multiprocessors, including GPUs.
@@ -229,6 +236,12 @@ Courses
 	- [Assignments/Exams](https://courses.engr.illinois.edu/cs498374/fa2014/work.html)
 	- [Lecture Notes/Labs](https://courses.engr.illinois.edu/cs498374/fa2014/lectures.html)
 	- [Lecture videos](http://recordings.engineering.illinois.edu/ess/portal/section/115f3def-7371-4e98-b72f-6efe53771b2a)
+- [CSCE 3193](http://www.csce.uark.edu/~sgauch/3193/S11/index.html) **Programming Paradigms** *University of Arkansas (Fayetteville)*	<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
+	- Programming in different paradigms with emphasis on object oriented programming, network programming and functional programming. Survey of programming languages, event driven programming, concurrency, software validation.
+	- [Syllabus](http://www.csce.uark.edu/~sgauch/3193/S11/syllabus.html)
+	- [Notes](http://www.csce.uark.edu/~sgauch/3193/S11/notes/index.html)
+	- [Assignments](http://www.csce.uark.edu/~sgauch/3193/S11/hw/index.html)
+	- [Practice Exams](http://www.csce.uark.edu/~sgauch/3193/S11/exams/index.html)
 
 -------
 
@@ -269,19 +282,6 @@ Courses
 	- [Syllabus](http://www.csce.uark.edu/~jgauch/2014/S14/handouts/syllabus.html)
 	- [Assignments](http://www.csce.uark.edu/~jgauch/2014/S14/index.html)
 	- [Practice Exams](http://www.csce.uark.edu/~jgauch/2014/S14/index.html)
-- [CSCE 3193](http://www.csce.uark.edu/~sgauch/3193/S11/index.html) **Programming Paradigms** *University of Arkansas (Fayetteville)*	<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
-	- Programming in different paradigms with emphasis on object oriented programming, network programming and functional programming. Survey of programming languages, event driven programming, concurrency, software validation.
-	- [Syllabus](http://www.csce.uark.edu/~sgauch/3193/S11/syllabus.html)
-	- [Notes](http://www.csce.uark.edu/~sgauch/3193/S11/notes/index.html)
-	- [Assignments](http://www.csce.uark.edu/~sgauch/3193/S11/hw/index.html)
-	- [Practice Exams](http://www.csce.uark.edu/~sgauch/3193/S11/exams/index.html)
-- [CSCE 3613](http://comp.uark.edu/~wingning/csce3613/csce3613.html) **Operating Systems** *University of Arkansas (Fayetteville)* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
-	- An introduction to operating systems including topics in system structures, process
-management, storage management, files, distributed systems, and case studies. 
-	- [Syllabus](http://comp.uark.edu/~wingning/csce3613/CSCE3613.pdf)
-	- [Assignments](http://comp.uark.edu/~wingning/csce3613/Homework3613.html)
-	- [Lecture Notes](http://comp.uark.edu/~wingning/csce3613/CourseNote3613.html)
-	- [Readings](http://comp.uark.edu/~wingning/csce3613/Link3613.html)
 - [6.001](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm) **Structure and Interpretation of Computer Programs** *MIT* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
 	- Teaches big-picture computing concepts using the Scheme programming language. Students will implement programs in a variety of different programming paradigms (functional, object-oriented, logical). Heavy emphasis on function composition, code-as-data, control abstraction with continuations, and syntactic abstraction through macros. An excellent course if you are looking to build a mental framework on which to hang your programming knowledge.
 	- [Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures)

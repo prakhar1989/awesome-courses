@@ -353,6 +353,12 @@ management, storage management, files, distributed systems, and case studies.
 	- [Lectures](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
 	- [Project Ideas and Datasets](http://www.cs.cmu.edu/~tom/10701_sp11/proj.shtml)
 
+- [CS229](http://cs229.stanford.edu/) **Machine Learning** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
+	- Taught by none other than Andrew Ng, founder of the Google Brain project.
+	- [Lectures](http://cs229.stanford.edu/materials.html)
+	- [2013 Projects](http://cs229.stanford.edu/projects2013.html)
+	- [Problem Sets and Datasets](http://cs229.stanford.edu/)
+
 -----
 
 ### Contributing

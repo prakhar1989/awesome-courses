@@ -352,6 +352,11 @@ management, storage management, files, distributed systems, and case studies.
 	- Taught by one of the leading experts on Machine Learning - **Tom Mitchell**
 	- [Lectures](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
 	- [Project Ideas and Datasets](http://www.cs.cmu.edu/~tom/10701_sp11/proj.shtml)
+- [Open Sourced Elective: Database and Rails](http://www.schneems.com/ut-rails/) **Intro to Ruby on Rails** *University of Texas* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
+	- An introductory course in Ruby on Rails open sourced by University of Texas' CS Adjunct Professor, Richard Schneeman.
+	- [Lectures](http://www.schneems.com/ut-rails/)
+	- [Assignments](http://www.schneems.com/ut-rails/)
+	- [Videos](https://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F)
 
 -----
 

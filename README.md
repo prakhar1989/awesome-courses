@@ -39,9 +39,9 @@ Courses
 	- This class introduces the basic facilities provided in modern operating systems. The course divides into three major sections. The first part of the course discusses concurrency. The second part of the course addresses the problem of memory management. The third major part of the course concerns file systems.
 	- [Lecture Notes](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lectures.php)
 	- [Assignments](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/projects.php)
-- [CS162](http://cs162.eecs.berkeley.edu/) **Operating Systems and Systems Programming** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
-  - Operating Systems course by the Chair of EECS, UC Berkeley [David Culler](http://www.cs.berkeley.edu/~culler/)
-  - [Youtube Playlist](https://www.youtube.com/playlist?list=PL-XXv-cvA_iAARFmCufZ6XeMPPgAzNSNa) Fall 2014 lectures
+- [CS 162](http://cs162.eecs.berkeley.edu/) **Operating Systems and Systems Programming** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
+    - Operating Systems course by the Chair of EECS, UC Berkeley [David Culler](http://www.cs.berkeley.edu/~culler/)
+    - [Youtube Playlist](https://www.youtube.com/playlist?list=PL-XXv-cvA_iAARFmCufZ6XeMPPgAzNSNa) Fall 2014 lectures
 - [CS 186](https://sites.google.com/site/cs186fall2013/home) **Introduction to Database Systems** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
 	- In the project assignments in CS186, you will write a basic database management system called SimpleDB. For this project, you will focus on implementing the core modules required to access stored data on disk; in future projects, you will add support for various query processing operators, as well as transactions, locking, and concurrent queries.
 	- [Lecture Notes](https://sites.google.com/site/cs186fall2013/section-notes)
@@ -59,13 +59,16 @@ Courses
 	- Write a real-time OS microkernel in C, and application code to operate a model train set in response to real-time sensor information. The communication with the train set runs at 2400 baud so it takes about 61 milliseconds to ask all of the sensors for data about the train's possible location.  This makes it particularly challenging because a train can move about 3 centimeters in that time. One of the most challenging and time-consuming courses at the University of Waterloo.
 	- [Assignments](http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/assignments/index.html)
 	- [Lecture notes](http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/notes/index.html)
+- [CS 4414](http://rust-class.org/index.html) **Operating Systems** *University of Virginia* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" />
+	- A course (that) covers topics including: Analysis process communication and synchronization; resource management; virtual memory management algorithms; file systems; and networking and distributed systems. The primary goal of this course is to improve your ability to build scalable, robust and secure computing systems. It focuses on doing that by understanding what underlies the core abstractions of modern computer systems.
+	- [Syllabus](http://rust-class.org/pages/syllabus.html)
+	- [Lectures](http://rust-class.org/pages/classes.html)
 - [CS 5412](http://www.cs.cornell.edu/Courses/CS5412/2014sp/) **Cloud Computing** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
 <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
 	- Taught by one of the stalwarts of this field, Prof Ken Birman, this course has a fantastic set of slides that one can go through. The Prof's [book](http://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance/dp/1447124154) is also a gem and recommended as a must read in Google's tutorial on [Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 	- [Slides](http://www.cs.cornell.edu/Courses/CS5412/2014sp/Syllabus.htm)
 - [CSCE 3613](http://comp.uark.edu/~wingning/csce3613/csce3613.html) **Operating Systems** *University of Arkansas (Fayetteville)* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
-	- An introduction to operating systems including topics in system structures, process
-management, storage management, files, distributed systems, and case studies. 
+	- An introduction to operating systems including topics in system structures, process management, storage management, files, distributed systems, and case studies. 
 	- [Syllabus](http://comp.uark.edu/~wingning/csce3613/CSCE3613.pdf)
 	- [Assignments](http://comp.uark.edu/~wingning/csce3613/Homework3613.html)
 	- [Lecture Notes](http://comp.uark.edu/~wingning/csce3613/CourseNote3613.html)
@@ -108,10 +111,6 @@ management, storage management, files, distributed systems, and case studies.
 	- [Lectures and Recitation](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule) 
 	- [Homeworks](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=homeworks) 7 HWs with answer set as well
 	- [Readings] (http://www.ece.cmu.edu/~ece447/s14/doku.php?id=readings)
-- [cs4414](http://rust-class.org/index.html) **Operating Systems** *University of Virginia* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" />
-	- A course (that) covers topics including: Analysis process communication and synchronization; resource management; virtual memory management algorithms; file systems; and networking and distributed systems. The primary goal of this course is to improve your ability to build scalable, robust and secure computing systems. It focuses on doing that by understanding what underlies the core abstractions of modern computer systems.
-	- [Syllabus](http://rust-class.org/pages/syllabus.html)
-	- [Lectures](http://rust-class.org/pages/classes.html)
 
 -------
 
@@ -369,4 +368,4 @@ management, storage management, files, distributed systems, and case studies.
 
 ### Contributing
 
-Have a few courses in mind that you think are awesome and would fit in this list? Feel free to send a [pull request](https://github.com/prakhar1989/awesome-courses/pulls). However, do note that I'm not keen on adding popular courses (such as MOOCs / MIT OCW) as there are services like [ClassCentral](https://www.class-central.com/) doing a great job of aggregation. This list is ideally for courses which are relatively unknown and make their material (assignments, lectures, exams etc.) available online for free.
+Have a few courses in mind that you think are awesome and would fit in this list? Feel free to send a [pull request](https://github.com/prakhar1989/awesome-courses/pulls). However, do note that I'm not keen on adding popular courses (such as MOOCs / MIT OCW) as there are services like [ClassCentral](https://www.class-central.com/) doing a great job of aggregation. This list is ideally for courses which are relatively unknown and make their material (assignments, lectures, exams etc.) available online for free. **When adding new courses to the various categories, please ensure that alphabetization (ex. CSCE 48 should be listed after CS 240) is maintained. This makes it easier for viewers to find what they are looking for.**

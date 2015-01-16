@@ -366,8 +366,6 @@ Courses
 	- [Assignments](http://www.schneems.com/ut-rails/)
 	- [Videos](https://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F)
 
-
-
 -----
 
 ### Contributing

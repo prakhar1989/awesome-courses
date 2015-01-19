@@ -314,10 +314,9 @@ Courses
 - [CVX 101](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/info) **Convex Optimization** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
 <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
 The course concentrates on recognizing and solving convex optimization problems that arise in applications.  Topics addressed include the following.  Convex sets, functions, and optimization problems.  Basics of convex analysis.  Least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems.  Optimality conditions, duality theory, theorems of alternative, and applications.  Interior-point methods.  Applications to signal processing, statistics and machine learning, control and mechanical engineering, digital and analog circuit design, and finance.
-        
-- [Lectures and Assignments](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/courseware/7206c57866504e83821d00b5d3f80793/)
-
         - [Textbook](http://web.stanford.edu/~boyd/cvxbook/)
+        - [Lectures and Assignments](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/courseware/7206c57866504e83821d00b5d3f80793/)
+
 
 -------
 

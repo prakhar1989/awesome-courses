@@ -310,6 +310,12 @@ Courses
 - [COMS 4771](http://www.cs.columbia.edu/~jebara/4771/index.html) **Machine Learning** *Columbia University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
 	- Course taught by [Tony Jebara](http://www.cs.columbia.edu/~jebara/resume.html) introduces topics in Machine Learning for both generative and discriminative estimation. Material will include least squares methods, Gaussian distributions, linear classification, linear regression, maximum likelihood, exponential family distributions, Bayesian networks, Bayesian inference, mixture models, the EM algorithm, graphical models, hidden Markov models, support vector machines, and kernel methods.
 	- [Lectures and Assignments](http://www.cs.columbia.edu/~jebara/4771/handouts.html)
+- [CVX 101](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/info) **Convex Optimization** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
+ <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
+ - The course concentrates on recognizing and solving convex optimization problems that arise in applications.  Topics addressed include the following.  Convex sets, functions, and optimization problems.  Basics of convex analysis.  Least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems.  Optimality conditions, duality theory, theorems of alternative, and applications.  Interior-point methods.  Applications to signal processing, statistics and machine learning, control and mechanical engineering, digital and analog circuit design, and finance.
+  - [Textbook](http://web.stanford.edu/~boyd/cvxbook/)
+  - [Lectures and Assignments](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/courseware/7206c57866504e83821d00b5d3f80793/)
+ 
 
 -------
 

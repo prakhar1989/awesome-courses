@@ -379,6 +379,10 @@ Courses
 	- [Lectures](http://www.schneems.com/ut-rails/)
 	- [Assignments](http://www.schneems.com/ut-rails/)
 	- [Videos](https://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F)
+- [CS193p](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550) **Developing Applications for iOS** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
+    - Updated for iOS 7. Tools and APIs required to build applications for the iPhone and iPad platform using the iOS SDK. User interface designs for mobile devices and unique user interactions using multi-touch technologies. Object-oriented design using model-view-controller paradigm, memory management, Objective-C programming language. Other topics include: object-oriented database API, animation, multi-threading and performance considerations.
+    - Prerequisites: C language and object-oriented programming experience
+    - Recommended: [Programming Abstractions](https://itunes.apple.com/us/course/programming-abstractions/id495054099)
 
 -----
 

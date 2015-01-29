@@ -63,6 +63,14 @@ Courses
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS2043/2014sp/)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS2043/2014sp/)
 	- [Assignments](http://www.cs.cornell.edu/courses/CS2043/2014sp/)
+- [CS 3410](http://www.cs.cornell.edu/courses/CS3410/2014sp/) **Computer System Organization and Programming** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
+	- CS3410 provides an introduction to computer organization, systems programming and the hardware/software interface. Topics include instruction sets, computer arithmetic, datapath design, data formats, addressing modes, memory hierarchies including caches and virtual memory, I/O devices, bus-based I/O systems, and multicore architectures. Students learn assembly language programming and design a pipelined RISC processor.
+	- [Lectures](http://www.cs.cornell.edu/courses/CS3410/2014sp/schedule.html)
+	- [Assignments](http://www.cs.cornell.edu/courses/CS3410/2014sp/schedule.html)
+- [CS 4410](http://www.cs.cornell.edu/courses/CS4410/2014fa/) **Operating Systems** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
+	- CS 4410 covers systems programming and introductory operating system design and implementation. We will cover the basics of operating systems, namely structure, concurrency, scheduling, synchronization, memory management, filesystems, security and networking. The course is open to any undergraduate who has mastered the material in CS3410/ECE3140.
+	- [Syllabus](http://www.cs.cornell.edu/courses/CS4410/2014fa/slides/01-intro.pptx)
+	- [Lectures](http://www.cs.cornell.edu/courses/CS4410/2014fa/lectures.php)
 - [CS 4414](http://rust-class.org/index.html) **Operating Systems** *University of Virginia* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
 	- A course (that) covers topics including: Analysis process communication and synchronization; resource management; virtual memory management algorithms; file systems; and networking and distributed systems. The primary goal of this course is to improve your ability to build scalable, robust and secure computing systems. It focuses on doing that by understanding what underlies the core abstractions of modern computer systems.
 	- [Syllabus](http://rust-class.org/pages/syllabus.html)
@@ -145,16 +153,21 @@ Courses
 	- Building software systems in Haskell
 	- [Lecture Slides](http://www.scs.stanford.edu/14sp-cs240h/slides/)
 	- 3 Assignments: [Lab1](http://www.scs.stanford.edu/14sp-cs240h/labs/lab1.html), [Lab2](http://www.scs.stanford.edu/14sp-cs240h/labs/lab2.html), [Lab3](http://www.scs.stanford.edu/14sp-cs240h/labs/lab3.html)
-- [CS 3110](http://www.cs.cornell.edu/Courses/cs3110/2014fa/course_info.php) **Data Structures and Functional Programming** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
-	- Another course that uses OCaml to teach alternative programming paradigms, especially functional and concurrent programming.
-	- [Lecture Slides](http://www.cs.cornell.edu/Courses/cs3110/2014fa/lecture_notes.php)
-	- [Assignments](http://www.cs.cornell.edu/Courses/cs3110/2014fa/)
 - [CS 421](https://courses.engr.illinois.edu/cs421/fa2014/) **Programming Languages and Compilers** *Univ of Illinois, Urbana-Champaign* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
-	- Course that uses OCaml to teach functional programming and programming language design.
+ Course that uses OCaml to teach functional programming and programming language design.
 	- [Lectures](https://courses.engr.illinois.edu/cs421/fa2014/lectures/index.html)
 	- [Videos](http://recordings.engineering.illinois.edu/ess/portal/section/631edaeb-2a33-4537-b7c8-0c1cba783a4f)
 	- [Assignments](https://courses.engr.illinois.edu/cs421/fa2014/mps/index.html)
 	- [Exams](https://courses.engr.illinois.edu/cs421/fa2014/exams/index.html)
+- [CS 3110](http://www.cs.cornell.edu/Courses/cs3110/2014fa/course_info.php) **Data Structures and Functional Programming** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	- Another course that uses OCaml to teach alternative programming paradigms, especially functional and concurrent programming.
+	- [Lecture Slides](http://www.cs.cornell.edu/Courses/cs3110/2014fa/lecture_notes.php)
+	- [Assignments](http://www.cs.cornell.edu/Courses/cs3110/2014fa/)
+- [CS 4120](http://www.cs.cornell.edu/courses/CS4120/2013fa/) **Introduction to Compilers** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
+	- An introduction to the specification and implementation of modern compilers. Topics covered include lexical scanning, parsing, type checking, code generation and translation, an introduction to optimization, and compile-time and run-time support for modern programming languages.  As part of the course, students build a working compiler for an object-oriented language.
+	- [Syllabus](http://www.cs.cornell.edu/courses/CS4120/2013fa/overview.html)
+	- [Lectures](http://www.cs.cornell.edu/courses/CS4120/2013fa/schedule.html)
+	- [Assignments](http://www.cs.cornell.edu/courses/CS4120/2013fa/homework.html)
 - [CS 4610](http://www.cs.virginia.edu/~weimer/4610/) **Programming Languages and Compilers** *University of Virginia* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- Course that uses OCaml to teach functional programming and programming language design. Each assignment is a part of an interpreter and compiler for an object-oriented language similar to Java, and you are required to use a different language for each assignment (i.e., choose 4 from Python, JS, OCaml, Haskell, Ruby).
 	- [Lecture Notes](http://www.cs.virginia.edu/~weimer/4610/lectures.html)
@@ -256,13 +269,27 @@ Courses
 	- [Assignments/Exams](https://courses.engr.illinois.edu/cs498374/fa2014/work.html)
 	- [Lecture Notes/Labs](https://courses.engr.illinois.edu/cs498374/fa2014/lectures.html)
 	- [Lecture videos](http://recordings.engineering.illinois.edu/ess/portal/section/115f3def-7371-4e98-b72f-6efe53771b2a)
+- [CS 3110](http://www.cs.cornell.edu/courses/CS3110/2014fa/) **Data Structures and Functional Programming** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
+	- CS 3110 (formerly CS 312) is the third programming course in the Computer Science curriculum, following CS 1110/1112 and CS 2110. The goal of the course is to help students become excellent programmers and software designers who can design and implement software that is elegant, efficient, and correct, and whose code can be maintained and reused.
+	- [Syllabus](http://www.cs.cornell.edu/courses/CS3110/2014fa/course_info.php)
+	- [Lectures](http://www.cs.cornell.edu/courses/CS3110/2014fa/lecture_notes.php)
+	- [Assignments](http://www.cs.cornell.edu/courses/CS3110/2014fa/index.php)
 - [CSCE 3193](http://www.csce.uark.edu/~sgauch/3193/S11/index.html) **Programming Paradigms** *University of Arkansas (Fayetteville)*	<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- Programming in different paradigms with emphasis on object oriented programming, network programming and functional programming. Survey of programming languages, event driven programming, concurrency, software validation.
 	- [Syllabus](http://www.csce.uark.edu/~sgauch/3193/S11/syllabus.html)
 	- [Notes](http://www.csce.uark.edu/~sgauch/3193/S11/notes/index.html)
 	- [Assignments](http://www.csce.uark.edu/~sgauch/3193/S11/hw/index.html)
 	- [Practice Exams](http://www.csce.uark.edu/~sgauch/3193/S11/exams/index.html)
-
+- [CS 3220](http://www.cs.cornell.edu/~bindel/class/cs3220-s12/) **Introduction to Scientific Computing** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
+	- In this one-semester survey course, we introduce numerical methods for solving linear and nonlinear equations, interpolating data, computing integrals, and solving differential equations, and we describe how to use these tools wisely (we hope!) when solving scientific problems.
+	- [Syllabus](http://www.cs.cornell.edu/~bindel/class/cs3220-s12/syllabus.html)
+	- [Lectures](http://www.cs.cornell.edu/~bindel/class/cs3220-s12/lectures.html)
+	- [Assignments](http://www.cs.cornell.edu/~bindel/class/cs3220-s12/assignments.html)
+- [CS 4300](http://www.cs.cornell.edu/courses/CS4300/2013fa/) **Information Retrieval** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
+	- Studies the methods used to search for and discover information in large-scale systems. The emphasis is on information retrieval applied to textual materials, but there is some discussion of other formats.The course includes techniques for searching, browsing, and filtering information and the use of classification systems and thesauruses. The techniques are illustrated with examples from web searching and digital libraries.
+	- [Syllabus](http://www.cs.cornell.edu/courses/CS4300/2013fa/lectures/introduction.pdf)
+	- [Lectures](http://www.cs.cornell.edu/courses/CS4300/2013fa/lectures.htm)
+	- [Assignments](http://www.cs.cornell.edu/courses/CS4300/2013fa/lectures.htm)
 -------
 
 ### Introduction to CS
@@ -375,7 +402,6 @@ Courses
   - [Textbook](http://web.stanford.edu/~boyd/cvxbook/)
   - [Lectures and Assignments](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/courseware/7206c57866504e83821d00b5d3f80793/)
 
-
 -------
 
 ### Misc
@@ -412,7 +438,7 @@ Courses
 - [CS 411](http://video.bilkent.edu.tr/course_videos.php?courseid=10) **Software Architecture Design** *Bilkent University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />
 	- This course teaches the basic concepts, methods and techniques for designing software architectures. The topics include: rationale for software architecture design, modeling software architecture design, architectural styles/patterns, architectural requirements analysis, comparison and evaluation of architecture design methods, synthesis-based software architecture design, software product-line architectures, domain modeling, domain engineering and application engineering, software architecture implementation, evaluating software architecture designs.
 - [CS 5150](http://www.cs.cornell.edu/courses/CS5150/2014fa/overview.html) **Software Engineering** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-	-  Introduction to the practical problems of specifying, designing, building, testing, and delivering reliable software systems
+	- Introduction to the practical problems of specifying, designing, building, testing, and delivering reliable software systems
 	- [Lectures](http://www.cs.cornell.edu/courses/CS5150/2014fa/materials.html)
 - [CSE 154](http://courses.cs.washington.edu/courses/cse154/14au/) **Web Programming** *University of Washington* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- This course is an introduction to programming for the World Wide Web. Covers use of HTML, CSS, PHP, JavaScript, AJAX, and SQL.

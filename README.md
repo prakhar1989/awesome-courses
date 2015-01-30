@@ -161,6 +161,8 @@ Courses
 	- Covers non-imperative paradigms and languages such as Ruby, Racket, and ML and the fundamentals of programming languages.
 	- [Lectures](https://courses.cs.washington.edu/courses/cse341/14sp/#lecture)
 	- [Assignments and Tests](https://courses.cs.washington.edu/courses/cse341/14sp/#homework)
+- [CS1410-2](http://www.eng.utah.edu/~cs1410-20/) and [CS2420-20](http://www.eng.utah.edu/~cs2420-20/) **Computer Science I and II for Hackers** *University of Utah* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- An intro course in the spirit of SICP designed Professor Matthew Flatt (one of the lead designers of Racket and author of HtDP). Mostly Racket and C, and a bit of Java, with explainations on how high level functional programming concepts relate to the design of OOP programs.
 
 -------
 

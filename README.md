@@ -394,4 +394,4 @@ Courses
 	- Students will gain knowledge on analyzing Big Data. It serves as an introductory course for graduate students who are expecting to face Big Data storage, processing, analysis, visualization, and application issues on both workplaces and research environments.
 	- Taught by [Dr. Ching-Yung Lin](http://researcher.watson.ibm.com/researcher/view.php?person=us-chingyung)
 	- [Course Site](http://www.ee.columbia.edu/~cylin/course/bigdata/)
-	- [Assignments](Assignments are present in the Course Slides)	
+	- Assignments - Assignments are present in the Course Slides	

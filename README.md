@@ -172,6 +172,15 @@ Courses
 	- Course that uses OCaml to teach functional programming and programming language design. Each assignment is a part of an interpreter and compiler for an object-oriented language similar to Java, and you are required to use a different language for each assignment (i.e., choose 4 from Python, JS, OCaml, Haskell, Ruby).
 	- [Lecture Notes](http://www.cs.virginia.edu/~weimer/4610/lectures.html)
 	- [Assignments](http://www.cs.virginia.edu/~weimer/4610/pa.html)
+- [CS 5114](http://www.cs.cornell.edu/courses/CS5114/2013sp/index.php) **Network Programming Languages** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- An introduction to the specification and implementation of modern compilers. Topics covered include lexical scanning, parsing, type checking, code generation and translation, an introduction to optimization, and compile-time and run-time support for modern programming languages.  As part of the course, students build a working compiler for an object-oriented language.
+	- [Syllabus](http://www.cs.cornell.edu/courses/CS5114/2013sp/syllabus.php)
+	- [Lectures](http://www.cs.cornell.edu/courses/CS5114/2013sp/syllabus.php)
+- [CS 5142](http://www.cs.cornell.edu/courses/CS5142/2013fa/) **Scripting Languages** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+	- Perl, PHP, JavaScript, VisualBasic -- they are often-requested skills for employment, but most of us do not have the time to find out what they are all about. In this course, you learn how to use scripting languages for rapid prototyping, web programming, data processing, and application extension. Besides covering traditional programming languages concepts as they apply to scripting (e.g., dynamic typing and scoping), this course looks at new concepts rarely found in traditional languages (e.g., string interpolation, hashes, and polylingual code). Through a series of small projects, you use different languages to achieve programming tasks that highlight the strengths and weaknesses of scripting. As a side effect, you practice teaching yourself new languages.
+	- [Syllabus](http://www.cs.cornell.edu/courses/CS5142/2013fa/)
+	- [Lectures](http://www.cs.cornell.edu/courses/CS5142/2013fa/#schedule)
+	- [Assignments](http://www.cs.cornell.edu/courses/CS5142/2013fa/#schedule)
 - [CS 5470](http://matt.might.net/teaching/compilers/spring-2015/) **Compilers** *University of Utah* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- If you're a fan of Prof Matt's writing on his [fantastic blog](http://matt.might.net/articles/) you ought to give this a shot. The course covers the design and implementation of compilers, and it explores related topics such as interpreters, virtual machines and runtime systems. Aside from the Prof's witty take on [cheating](http://matt.might.net/teaching/compilers/spring-2015/#collaboration) the page has tons of interesting links on programming languages, parsing and compilers.
 	- [Lecture Notes](https://www.dropbox.com/sh/zanwtoflw4pcfu8/5pdT6axS3y)
@@ -290,6 +299,7 @@ Courses
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS4300/2013fa/lectures/introduction.pdf)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS4300/2013fa/lectures.htm)
 	- [Assignments](http://www.cs.cornell.edu/courses/CS4300/2013fa/lectures.htm)
+
 -------
 
 ### Introduction to CS
@@ -437,12 +447,35 @@ Courses
 	- [Lectures](https://github.com/ut-cs378-vision-2014fall/course-info/tree/master/meeting-notes)
 - [CS 411](http://video.bilkent.edu.tr/course_videos.php?courseid=10) **Software Architecture Design** *Bilkent University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />
 	- This course teaches the basic concepts, methods and techniques for designing software architectures. The topics include: rationale for software architecture design, modeling software architecture design, architectural styles/patterns, architectural requirements analysis, comparison and evaluation of architecture design methods, synthesis-based software architecture design, software product-line architectures, domain modeling, domain engineering and application engineering, software architecture implementation, evaluating software architecture designs.
+- [CS 4860](http://www.cs.cornell.edu/courses/CS4860/2012fa/) **Applied Logic** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	- In addition to basic first-order logic, when taught by Computer Science this course involves elements of Formal Methods and Automated Reasoning. Formal Methods is concerned with proving properties of algorithms, specifying programming tasks and synthesizing programs from proofs. We will use formal methods tools such as interactive proof assistants (see [www.nuprl.org](http://www.nuprl.org)). We will also spend two weeks on constructive type theory, the language used by the Coq and Nuprl proof assistants.
+	- [Syllabus](http://www.cs.cornell.edu/courses/CS4860/2012fa/schedule.php)
+	- [Lectures](http://www.cs.cornell.edu/courses/CS4860/2012fa/schedule.php)
+	- [Assignments](http://www.cs.cornell.edu/courses/CS4860/2012fa/schedule.php)
 - [CS 5150](http://www.cs.cornell.edu/courses/CS5150/2014fa/overview.html) **Software Engineering** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- Introduction to the practical problems of specifying, designing, building, testing, and delivering reliable software systems
 	- [Lectures](http://www.cs.cornell.edu/courses/CS5150/2014fa/materials.html)
+	- [Assignments](http://www.cs.cornell.edu/courses/CS5150/2014fa/assignments.html)
+- [CS 5220](http://www.cs.cornell.edu/~bindel/class/cs5220-f11/) **Applications of Parallel Computers** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- How do we solve the large-scale problems of science quickly on modern computers? How do we measure the performance of new or existing simulation codes, and what things can we do to make them run faster? How can we best take advantage of features like multicore processors, vector units, and graphics co-processors? These are the types of questions we will address in CS 5220, Applications of Parallel Computers. Topics include:
+		- Single-processor architecture, caches, and serial performance tuning
+		- Basics of parallel machine organization
+		- Distributed memory programming with MPI
+		- Shared memory programming with OpenMP
+		- Parallel patterns: data partitioning, synchronization, and load balancing
+		- Examples of parallel numerical algorithms
+		- Applications from science and engineering
+	- [Lectures](http://www.cs.cornell.edu/~bindel/class/cs5220-f11/lectures.html)
+	- [Assignments](http://www.cs.cornell.edu/~bindel/class/cs5220-f11/assignments.html)
+- [CS 5430](http://www.cs.cornell.edu/courses/CS5430/2013sp/) **System Security** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- This course discusses security for computers and networked information systems. We focus on abstractions, principles, and defenses for implementing military as well as commercial-grade secure systems.
+	- [Syllabus](http://www.cs.cornell.edu/courses/CS5430/2013sp/01.intro.html)
+	- [Lectures](http://www.cs.cornell.edu/courses/CS5430/2013sp/02.outline.html)
+	- [Assignments](http://www.cs.cornell.edu/courses/CS5430/2013sp/)
 - [CSE 154](http://courses.cs.washington.edu/courses/cse154/14au/) **Web Programming** *University of Washington* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- This course is an introduction to programming for the World Wide Web. Covers use of HTML, CSS, PHP, JavaScript, AJAX, and SQL.
-	- [Lectures](http://courses.cs.washington.edu/courses/cse154/14au/lectures.shtml#today)
+	- [Lectures](http://courses.cs.washington.edu/courses/cse154/14au/lectures.shtml
+	- #today)
 	- [Assignments](http://courses.cs.washington.edu/courses/cse154/14au/homework.shtml)
 - [EECS 588](https://www.eecs.umich.edu/courses/eecs588/) **Computer & Network Security** *University of Michigan* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- Taught by [J. Alex Halderman](https://jhalderm.com/) who has analyzed the security of Electronic Voting Machines in the [US](https://jhalderm.com/pub/papers/dcvoting-fc12.pdf) and [over](https://jhalderm.com/pub/papers/ivoting-ccs14.pdf) [seas](https://jhalderm.com/pub/papers/evm-ccs10.pdf).

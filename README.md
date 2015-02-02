@@ -297,7 +297,7 @@ Courses
 	- [Textbook](http://mitpress.mit.edu/sicp/full-text/book/book.html) ([epub](https://github.com/sarabander/sicp), [pdf](https://github.com/sarabander/sicp-pdf))
 	- [IDE](http://www.neilvandyke.org/racket-sicp/)
 - [CS1410-2](http://www.eng.utah.edu/~cs1410-20/) and [CS2420-20](http://www.eng.utah.edu/~cs2420-20/) **Computer Science I and II for Hackers** *University of Utah* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-	- An intro course in the spirit of SICP designed Professor Matthew Flatt (one of the lead designers of Racket and author of HtDP). Mostly Racket and C, and a bit of Java, with explainations on how high level functional programming concepts relate to the design of OOP programs. Do this one before SICP if SICP is a bit too much...
+	- An intro course in the spirit of SICP designed by [Professor Matthew Flatt](http://www.cs.utah.edu/~mflatt/) (one of the lead designers of Racket and author of HtDP). Mostly Racket and C, and a bit of Java, with explainations on how high level functional programming concepts relate to the design of OOP programs. Do this one before SICP if SICP is a bit too much...
 	- [Lectures and Assignments 1](http://www.eng.utah.edu/~cs1410-20/schedule.html)
 	- [Lectures and Assignments 2](http://www.eng.utah.edu/~cs2420-20/schedule.html)
 	- [Textbook](http://htdp.org/2003-09-26/Book/curriculum.html)

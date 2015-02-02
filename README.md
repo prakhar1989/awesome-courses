@@ -300,7 +300,8 @@ Courses
 	- An intro course in the spirit of SICP designed Professor Matthew Flatt (one of the lead designers of Racket and author of HtDP). Mostly Racket and C, and a bit of Java, with explainations on how high level functional programming concepts relate to the design of OOP programs. Do this one before SICP if SICP is a bit too much...
 	- [Lectures and Assignments 1](http://www.eng.utah.edu/~cs1410-20/schedule.html)
 	- [Lectures and Assignments 2](http://www.eng.utah.edu/~cs2420-20/schedule.html)
-
+	- [Textbook](http://htdp.org/2003-09-26/Book/curriculum.html)
+	- [Racket Language](http://racket-lang.org/)
 -------
 
 ### Machine Learning

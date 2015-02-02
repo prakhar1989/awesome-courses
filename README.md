@@ -112,6 +112,12 @@ Courses
 	- [Homeworks](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=homeworks) 7 HWs with answer set as well
 	- [Readings] (http://www.ece.cmu.edu/~ece447/s14/doku.php?id=readings)
 
+- [VU:Distributed Systems](http://www.distributed-systems.net/index.php?id=distributed-systems-principles-and-paradigms) **Distributed Systems: Principles and Paradigms (Fall 2012)** *Vrije Universiteit, Amsterdam* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	- Distributed systems often appear to be highly complex and intertwined networked systems. Touching one component often affects many others in surprising ways. In this course, we aim at explaining the basics of distributed systems by systematically taking different perspectives, and subsequently bringing these perspectives together by looking at often-applied organizations of distributed systems. This course closely follows the timeless classic <b>Distributed Systems: Principles and Paradigms</b> by some of the pioneers in the field of Distributes systems-Andrew S. Tanenbaum and Maarten van Steen
+	- [Slides](http://www.distributed-systems.net/courses/ds/ds-slides/)
+	- [Video lectures](http://www.distributed-systems.net/courses/ds/ds-screencasts/)
+	- [Exams](http://www.distributed-systems.net/courses/ds/ds-exams/)
+
 -------
 
 ### Programming Languages / Compilers

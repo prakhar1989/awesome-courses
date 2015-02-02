@@ -178,6 +178,11 @@ Courses
 	- This data structures course introduces C++, linked-lists, stacks, queues, trees, numerical representation, hash tables, priority queues, heaps, huffman coding, graphs, and x86 assembly.
 	- [Lectures](http://aaronbloomfield.github.io/pdr/slides/)
 	- [Assignments](http://aaronbloomfield.github.io/pdr/labs/)
+- [CSCI 104](http://www-scf.usc.edu/~csci104/20142/lectures/) **Data Structures and Object Oriented Design** <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> *University of Southern California (USC)*
+	- [Lectures](http://www-scf.usc.edu/~csci104/20142/lectures)
+	- [Labs](http://www-scf.usc.edu/~csci104/20142/labs)
+	- [Assignments](http://www-scf.usc.edu/~csci104/20142/assignments/)
+	- [Additional Resources](http://www-scf.usc.edu/~csci104/20142/resources.html)
 - [CSCI 135](http://compsci.hunter.cuny.edu/~sweiss/courses/csci135.php) **Software Design and Analysis I** <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 *CUNY Hunter College*
 	- It is currently an intensive introduction to program development and problem solving. Its emphasis is on the process of designing, implementing, and evaluating small-scale programs. It is not supposed to be a C++ programming course, although much of the course is spent on the details of C++. C++ is an extremely large and complex programming language with many features that interact in unexpected ways. One does not need to know even half of the language to use it well.

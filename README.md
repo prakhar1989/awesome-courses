@@ -25,7 +25,7 @@ Table of Contents
 - <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> - Readings
 
 
-Coursesf
+Courses
 -------
 
 ### Systems
@@ -189,6 +189,10 @@ Coursesf
 	- If you're a fan of Prof Matt's writing on his [fantastic blog](http://matt.might.net/articles/) you ought to give this a shot. The course covers the design and implementation of compilers, and it explores related topics such as interpreters, virtual machines and runtime systems. Aside from the Prof's witty take on [cheating](http://matt.might.net/teaching/compilers/spring-2015/#collaboration) the page has tons of interesting links on programming languages, parsing and compilers.
 	- [Lecture Notes](https://www.dropbox.com/sh/zanwtoflw4pcfu8/5pdT6axS3y)
 	- [Projects](http://matt.might.net/teaching/compilers/spring-2015/#projects)
+- [CS 6118](http://www.cs.cornell.edu/courses/CS6118/2012fa/) **Types and Semantics** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- Types and Semantics is about designing and understand programming languages, whether they be domain specific or general purpose. The goal of this class is to provide a variety of tools for designing custom (programming) languages for whatever task is at hand. Part of that will be a variety of insights on how languages work along with experiences from working with academics and industry on creating new languages such as Ceylon and Kotlin. The class focuses on types and semantics and the interplay between them. This means category theory and constructive type theory (e.g. Coq and richer variations) are ancillary topics of the class. The class also covers unconventional semantic domains such as classical linear type theory in order to both break students from convential thinking and to provide powerful targets capable of formalizing thinks like networking protocols, resource-sensitive computation, and concurrency constructs. The class project is to design and formalize a (programming) language for a purpose of the student's choosing, and assignments are designed to ensure students have had a chance to practice applying the techniques learned in class before culminating these skills in the class project.
+	- [Syllabus](http://www.cs.cornell.edu/courses/CS6118/2012fa/)
+	- [Lectures](http://www.cs.cornell.edu/courses/CS6118/2012fa/)
 - [CSE 341](http://courses.cs.washington.edu/courses/cse341/14sp/) **Programming Languages** *University of Washington* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- Covers non-imperative paradigms and languages such as Ruby, Racket, and ML and the fundamentals of programming languages.
 	- [Lectures](https://courses.cs.washington.edu/courses/cse341/14sp/#lecture)
@@ -549,6 +553,20 @@ Coursesf
 	- [Syllabus](http://courses2.cit.cornell.edu/cs5724/)
 	- [Lectures](http://courses2.cit.cornell.edu/cs5724/schedule.htm)
 	- [Assignments](http://courses2.cit.cornell.edu/cs5724/)
+- [CS 6452](http://www.cs.cornell.edu/courses/CS6452/2012sp/index.php) **Evolutionary Computation** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	- CS6452 focuses on datacenter networks and services. The emerging demand for web services and cloud computing have created need for large scale data centers. The hardware and software infrastructure for datacenters critically determines the functionality, performance, cost and failure tolerance of applications running on that datacenter. This course will examine design alternatives for both the hardware (networking) infrastructure, and the software infrastructure for datacenters. 
+	- [Syllabus](http://www.cs.cornell.edu/courses/CS6452/2012sp/lectures.php)
+	- [Lectures](http://www.cs.cornell.edu/courses/CS6452/2012sp/lectures.php)
+- [CS 6630](http://courses2.cit.cornell.edu/cs5724/) **Realistic Image Synthesis** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- This course will cover advanced topics in evolutionary algorithms and their application to open-ended computational design. The field of evolutionary computation tries to address large-scale optimization and planning problems through stochastic population-based methods. It draws inspiration from evolutionary processes in nature and in engineering, and also serves as abstract models for these phenomena. Evolutionary processes are generally weak methods that require little information about the problem domain and hence can be applied across a wide variety of applications. They are especially useful for open-ended problem domains for which little formal knowledge exists and the number of parameters is undefined, such as for the general engineering design process. This course will provide insight to a variety of evolutionary computation paradigms, such as genetic algorithms, genetic programming, and evolutionary strategies, as well as governing dynamics of co-evolution, arms races and mediocre stable states. New methods involving symbiosis models and pattern recognition will also be presented. The material will be intertwined with discussions of representations and results for design problems in a variety of problem domains including software, electronics, and mechanics.
+	- [Syllabus](http://www.cs.cornell.edu/courses/CS6630/2012sp/about.stm)
+	- [Lectures](http://www.cs.cornell.edu/courses/CS6630/2012sp/schedule.stm)
+	- [Assignments](http://www.cs.cornell.edu/courses/CS6630/2012sp/schedule.stm)
+	- [Readings](http://www.cs.cornell.edu/courses/CS6630/2012sp/schedule.stm)
+- [CS 6640](http://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#) **Realistic Image Synthesis** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	- A course on the emerging applications of computation in photography. Likely topics include digital photography, unconventional cameras and optics, light field cameras, image processing for photography, techniques for combining multiple images, advanced image editing algorithms, and projector-camera systems.cornell.edu/courses/CS6630/2012sp/about.stm)
+	- [Lectures](http://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#schedule)
+	- [Assignments](http://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#hw)
 - [CSE 154](http://courses.cs.washington.edu/courses/cse154/14au/) **Web Programming** *University of Washington* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- This course is an introduction to programming for the World Wide Web. Covers use of HTML, CSS, PHP, JavaScript, AJAX, and SQL.
 	- [Lectures](http://courses.cs.washington.edu/courses/cse154/14au/lectures.shtml

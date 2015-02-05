@@ -567,6 +567,18 @@ Courses
 	- A course on the emerging applications of computation in photography. Likely topics include digital photography, unconventional cameras and optics, light field cameras, image processing for photography, techniques for combining multiple images, advanced image editing algorithms, and projector-camera systems.cornell.edu/courses/CS6630/2012sp/about.stm)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#schedule)
 	- [Assignments](http://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#hw)
+- [CS 6650](http://www.cs.cornell.edu/courses/CS6650/2013fa/) **Computational Motion** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- Covers computational aspects of motion, broadly construed. Topics include the computer representation, modeling, analysis, and simulation of motion, and its relationship to various areas, including computational geometry, mesh generation, physical simulation, computer animation, robotics, biology, computer vision, acoustics, and spatio-temporal databases. Students implement several of the algorithms covered in the course and complete a final project.  This offering will also explore the special role of motion processing in physically based sound rendering.
+- [CS 6670](https://canvas.instructure.com/courses/904706) **Computer Vision** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	- Introduction to computer vision. Topics include edge detection, image segmentation, stereopsis, motion and optical flow, image mosaics, 3D shape reconstruction, and object recognition. Students are required to implement several of the algorithms covered in the course and complete a final project.
+	- [Syllabus](https://canvas.instructure.com/courses/904706/assignments/syllabus)
+	- [Lectures](https://canvas.instructure.com/courses/904706)
+	- [Assignments](https://canvas.instructure.com/courses/904706/assignments)
+- [CS 6700](http://www.cs.cornell.edu/courses/CS6700/2013sp/) **Advanced Artificial Intelligence** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- The design of systems that are among top 10 performers in the world (human, computer, or hybrid human-computer).
+	- [Syllabus](http://www.cs.cornell.edu/courses/CS6700/2013sp/lectures/CS6700-Overview_v2.pptx)
+	- [Lectures](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
+	- [Readings](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
 - [CSE 154](http://courses.cs.washington.edu/courses/cse154/14au/) **Web Programming** *University of Washington* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- This course is an introduction to programming for the World Wide Web. Covers use of HTML, CSS, PHP, JavaScript, AJAX, and SQL.
 	- [Lectures](http://courses.cs.washington.edu/courses/cse154/14au/lectures.shtml

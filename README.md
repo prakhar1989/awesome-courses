@@ -305,6 +305,17 @@ Courses
 	- [Syllabus](http://www.cs.cornell.edu/~dsteurer/toc13/syllabus/)
 	- [Lectures](http://www.cs.cornell.edu/~dsteurer/toc13/lectures/)
 	- [Assignments](http://www.cs.cornell.edu/~dsteurer/toc13/homework/)
+- [CS 6810](http://www.cs.cornell.edu/~dsteurer/complexity12/) **Theory of Computing** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	-  This graduate course gives a broad introduction to complexity theory, including classical results and recent developments. Complexity theory aims to understand the power of efficient computation (when computational resources like time and space are limited). Many compelling conceptual questions arise in this context. Most of these questions are (surprisingly?) difficult and far from being resolved. Nevertheless, a lot of progress has been made toward understanding them (and also why they are difficult). We will learn about these advances in this course. A theme will be combinatorial constructions with random-like properties, e.g., expander graphs and error-correcting codes. Some examples:
+		-  Is finding a solution inherently more difficult than verifying it?
+		-  Do more computational resources mean more computing power?
+		-  Is it easier to find approximate solutions than exact ones?
+		-  Are randomized algorithms more powerful than deterministic ones?
+		-  Is it easier to solve problems in the average case than in the worst case?
+		-  Are quantum computers more powerful than classical ones?
+	- [Syllabus](http://www.cs.cornell.edu/~dsteurer/complexity12/)
+	- [Lectures](http://www.cs.cornell.edu/~dsteurer/complexity12/#lectures)
+	- [Assignments](http://www.cs.cornell.edu/~dsteurer/complexity12/#homework)
 - [CSCE 3193](http://www.csce.uark.edu/~sgauch/3193/S11/index.html) **Programming Paradigms** *University of Arkansas (Fayetteville)*	<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- Programming in different paradigms with emphasis on object oriented programming, network programming and functional programming. Survey of programming languages, event driven programming, concurrency, software validation.
 	- [Syllabus](http://www.csce.uark.edu/~sgauch/3193/S11/syllabus.html)
@@ -579,6 +590,12 @@ Courses
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS6700/2013sp/lectures/CS6700-Overview_v2.pptx)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
 	- [Readings](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
+- [CS 6840](http://www.cs.cornell.edu/courses/CS6840/2014sp/) **Algorithmic Game Theory** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- Algorithmic Game Theory combines algorithmic thinking with game-theoretic, or, more generally, economic concepts. The course will study a range of topics at this interface
+	- [Syllabus](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
+	- [Lectures](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
+	- [Assignments](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
+	- [Readings](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
 - [CSE 154](http://courses.cs.washington.edu/courses/cse154/14au/) **Web Programming** *University of Washington* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- This course is an introduction to programming for the World Wide Web. Covers use of HTML, CSS, PHP, JavaScript, AJAX, and SQL.
 	- [Lectures](http://courses.cs.washington.edu/courses/cse154/14au/lectures.shtml

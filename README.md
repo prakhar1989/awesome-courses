@@ -565,7 +565,7 @@ Courses
 	- [Lectures](http://courses2.cit.cornell.edu/cs5724/schedule.htm)
 	- [Assignments](http://courses2.cit.cornell.edu/cs5724/)
 - [CS 6452](http://www.cs.cornell.edu/courses/CS6452/2012sp/index.php) **Evolutionary Computation** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
-	- CS6452 focuses on datacenter networks and services. The emerging demand for web services and cloud computing have created need for large scale data centers. The hardware and software infrastructure for datacenters critically determines the functionality, performance, cost and failure tolerance of applications running on that datacenter. This course will examine design alternatives for both the hardware (networking) infrastructure, and the software infrastructure for datacenters. 
+	- CS6452 focuses on datacenter networks and services. The emerging demand for web services and cloud computing have created need for large scale data centers. The hardware and software infrastructure for datacenters critically determines the functionality, performance, cost and failure tolerance of applications running on that datacenter. This course will examine design alternatives for both the hardware (networking) infrastructure, and the software infrastructure for datacenters.
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS6452/2012sp/lectures.php)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS6452/2012sp/lectures.php)
 - [CS 6630](http://courses2.cit.cornell.edu/cs5724/) **Realistic Image Synthesis** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
@@ -598,8 +598,7 @@ Courses
 	- [Readings](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
 - [CSE 154](http://courses.cs.washington.edu/courses/cse154/14au/) **Web Programming** *University of Washington* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- This course is an introduction to programming for the World Wide Web. Covers use of HTML, CSS, PHP, JavaScript, AJAX, and SQL.
-	- [Lectures](http://courses.cs.washington.edu/courses/cse154/14au/lectures.shtml
-	- #today)
+	- [Lectures](http://courses.cs.washington.edu/courses/cse154/14au/lectures.shtml#today)
 	- [Assignments](http://courses.cs.washington.edu/courses/cse154/14au/homework.shtml)
 - [EECS 588](https://www.eecs.umich.edu/courses/eecs588/) **Computer & Network Security** *University of Michigan* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- Taught by [J. Alex Halderman](https://jhalderm.com/) who has analyzed the security of Electronic Voting Machines in the [US](https://jhalderm.com/pub/papers/dcvoting-fc12.pdf) and [over](https://jhalderm.com/pub/papers/ivoting-ccs14.pdf) [seas](https://jhalderm.com/pub/papers/evm-ccs10.pdf).

@@ -197,6 +197,10 @@ Courses
 	- Covers non-imperative paradigms and languages such as Ruby, Racket, and ML and the fundamentals of programming languages.
 	- [Lectures](https://courses.cs.washington.edu/courses/cse341/14sp/#lecture)
 	- [Assignments and Tests](https://courses.cs.washington.edu/courses/cse341/14sp/#homework)
+- [CSE P 501](http://courses.cs.washington.edu/courses/csep501/09au/lectures/video.html) **Compiler Construction** *University of Washington* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+	- Teaches understanding of how a modern compiler is structured and the major algorithms that are used to translate code from high-level to machine language. The best way to do this is to actually build a working compiler, so there will be a significant project to implement one that translates programs written in a core subset of Java into executable x86 assembly language. The compilers themselves will use scanner and parser generator tools and the default implementation language is Java.
+	- [Lectures](http://courses.cs.washington.edu/courses/csep501/09au/lectures/video.html)
+	- [Assignments, Tests, and Solutions](http://courses.cs.washington.edu/courses/csep501/09au/homework/index.html)
 
 -------
 

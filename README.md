@@ -645,8 +645,8 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 	- Students will gain knowledge on analyzing Big Data. It serves as an introductory course for graduate students who are expecting to face Big Data storage, processing, analysis, visualization, and application issues on both workplaces and research environments.
 	- Taught by [Dr. Ching-Yung Lin](http://researcher.watson.ibm.com/researcher/view.php?person=us-chingyung)
 	- [Course Site](http://www.ee.columbia.edu/~cylin/course/bigdata/)
-    - Assignments - Assignments are present in the Course Slides
+	- Assignments - Assignments are present in the Course Slides
 - [14-740](http://www.ini740.com/F14/index.html) **Fundamentals of Computer Networks** *CMU* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
-    - This is an introductory course on Networking for graduate students. It follows a top-down approach to teaching Computer Networks, so it starts with the Application layer which most of the students are familiar with and as the course unravels we learn more about transport, network and link layers of the protocol stack.
-    - As far as prerequisites are concerned - basic computer, programming and probability theory background is required.
-    - The course site contains links to the lecture videos, reading material and assignments.
+	- This is an introductory course on Networking for graduate students. It follows a top-down approach to teaching Computer Networks, so it starts with the Application layer which most of the students are familiar with and as the course unravels we learn more about transport, network and link layers of the protocol stack.
+	- As far as prerequisites are concerned - basic computer, programming and probability theory background is required.
+	- The course site contains links to the lecture videos, reading material and assignments.

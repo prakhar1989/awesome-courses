@@ -206,7 +206,7 @@ Courses
 
 ### Algorithms
 
-- [CS 61B](http://www.cs.berkeley.edu/~jrs/61b/) **Data Structures** *Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+- [CS 61B](http://www.cs.berkeley.edu/~jrs/61b/) **Data Structures** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
 	- In this course, you will study advanced programming techniques including data structures, encapsulation, abstract data types, interfaces, and algorithms for sorting and searching, and you will get a taste of “software engineering”—the design and implementation of large programs.
 	- [Labs](http://www.cs.berkeley.edu/~jrs/61b/lab/index.html)
 	- [Lecture Videos on Youtube](http://www.youtube.com/watch?v=frxF7Vs96YU&list=PLMM0a7ZGnITrgfhOxMNP7bpP4hhhKNY9s)
@@ -343,6 +343,13 @@ Courses
 - [CS 50](https://cs50.harvard.edu/) **Introduction to Computer Science** *Harvard University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- CS50x is Harvard College's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan.
 	- [Lectures](https://cs50.harvard.edu/lectures)
+- [CS 61A](http://cs61a.org/) **Structure and Interpretation of Computer Programs** *UC Berkeley*  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> 
+	- In CS 61A, we are interested in teaching you about programming, not about how to use one particular 	programming language. We consider a series of techniques for controlling program complexity, such as functional programming, data abstraction, and object-oriented programming. Mastery of a particular programming language is a very useful side effect of studying these general techniques. However, our hope is that once you have learned the essence of programming, you will find that picking up a new programming language is but a few days' work.
+	- [Lecture Resources by Type](http://cs61a.org/by_type.html)
+	- [Lecture Resources by Topic](http://cs61a.org/by_topic.html)
+	- [Additional Resources](http://cs61a.org/resources.html)
+	- [Practice Problems](http://cs61a.org/problems/)
+	- [Extra Lectures](http://cs61a.org/extra.html)
 - [CS 101](http://online.stanford.edu/course/computer-science-101-self-paced) **Computer Science 101** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- CS101 teaches the essential ideas of Computer Science for a zero-prior-experience audience. Participants play and experiment with short bits of "computer code" to bring to life to the power and limitations of computers.
 	- Lectures videos will available for free after registration.

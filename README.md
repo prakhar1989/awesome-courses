@@ -182,6 +182,12 @@ Courses
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS4120/2013fa/overview.html)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS4120/2013fa/schedule.html)
 	- [Assignments](http://www.cs.cornell.edu/courses/CS4120/2013fa/homework.html)
+- [CS 4400](https://pl.barzilay.org/) **Programming Languages** *Northeastern University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- This is a course on the study, design, and implementation of programming languages.
+	- The course works at two simultaneous levels: first, we will use a programming language that can 	demonstrate a wide variety of programming paradigms. Second, using this language, we will learn about the mechanics behind programming languages by implementing our own language(s). The two level approach usually means that we will often see how to use a certain feature, and continue by implementing it.
+	- [Syllabus](https://pl.barzilay.org/syllabus.html)
+	- [Lecture Notes/Resources](https://pl.barzilay.org/resources.html)
+	- [Homework](https://pl.barzilay.org/homeworks.html)
 - [CS 4610](http://www.cs.virginia.edu/~weimer/4610/) **Programming Languages and Compilers** *University of Virginia* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- Course that uses OCaml to teach functional programming and programming language design. Each assignment is a part of an interpreter and compiler for an object-oriented language similar to Java, and you are required to use a different language for each assignment (i.e., choose 4 from Python, JS, OCaml, Haskell, Ruby).
 	- [Lecture Notes](http://www.cs.virginia.edu/~weimer/4610/lectures.html)

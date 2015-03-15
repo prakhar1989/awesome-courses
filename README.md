@@ -207,8 +207,9 @@ Courses
 	- [Lectures](http://courses.cs.washington.edu/courses/csep501/09au/lectures/video.html)
 	- [Assignments, Tests, and Solutions](http://courses.cs.washington.edu/courses/csep501/09au/homework/index.html)
 - [L28](http://www.cl.cam.ac.uk/teaching/1415/L28/) **Functional Programming**
-*University of Cambridge*
-    - This is a graduate level course for pepole who are interested in what's  new ideas in functional programming, especially in OCaml.
+*University of Cambridge*<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	- This is a course for more advanced functional programming techniques, like GADT, monads and staging.
+
 -------
 
 ### Algorithms

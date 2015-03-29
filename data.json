@@ -70,5 +70,77 @@
     "readings": "https://github.com/angrave/SystemProgramming/wiki",
     "videos": "http://angrave.github.io/sys/#",
     "notes": null
+  },
+  {
+    "id": 7,
+    "title": "Distributed Systems",
+    "code": "CS 425",
+    "link": "https://courses.engr.illinois.edu/cs425/fa2014/index.html",
+    "university": "Univ of Illinois, Urbana-Champaign",
+    "category": "systems",
+    "assignments": "https://courses.engr.illinois.edu/cs425/assignments.html",
+    "readings": "https://courses.engr.illinois.edu/cs425/fa2014/resources.html",
+    "videos": null,
+    "notes": "https://courses.engr.illinois.edu/cs425/fa2014/lectures.html"
+  },
+  {
+    "id": 8,
+    "title": "Real-Time Programming",
+    "code": "CS 452",
+    "link": "http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/",
+    "university": "University of Waterloo",
+    "category": "systems",
+    "assignments": "http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/assignments/index.html",
+    "readings": null,
+    "videos": null,
+    "notes": "http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/notes/index.html"
+  },
+  {
+    "id": 9,
+    "title": "Unix Tools & Scripting",
+    "code": "CS 2043",
+    "link": "http://www.cs.cornell.edu/courses/CS2043/2014sp/",
+    "university": "Cornell University",
+    "category": "systems",
+    "assignments": "http://www.cs.cornell.edu/courses/CS2043/2014sp/",
+    "readings": null,
+    "videos": null,
+    "notes": "http://www.cs.cornell.edu/courses/CS2043/2014sp/"
+  },
+  {
+    "id": 10,
+    "title": "Computer System Organization and Programming",
+    "code": "CS 3410",
+    "link": "http://www.cs.cornell.edu/courses/CS3410/2014sp/",
+    "university": "Cornell University",
+    "category": "systems",
+    "assignments": "http://www.cs.cornell.edu/courses/CS3410/2014sp/schedule.html",
+    "readings": null,
+    "videos": null,
+    "notes": "http://www.cs.cornell.edu/courses/CS3410/2014sp/schedule.html"
+  },
+  {
+    "id": 11,
+    "title": "Operating Systems",
+    "code": "CS 4410",
+    "link": "http://www.cs.cornell.edu/courses/CS4410/2014fa/",
+    "university": "Cornell University",
+    "category": "systems",
+    "assignments": "http://www.cs.cornell.edu/courses/CS4410/2014fa/",
+    "readings": "http://www.cs.cornell.edu/courses/CS4410/2014fa/lectures.php",
+    "videos": null,
+    "notes": "http://www.cs.cornell.edu/courses/CS4410/2014fa/lectures.php"
+  },
+  {
+    "id": 12,
+    "title": "Cloud Computing",
+    "code": "CS 5412",
+    "link": "http://www.cs.cornell.edu/Courses/CS5412/2014sp/",
+    "university": "Cornell University",
+    "category": "systems",
+    "assignments": null,
+    "readings": "http://www.cs.cornell.edu/Courses/CS5412/2014sp/Syllabus.htm",
+    "videos": null,
+    "notes": "http://www.cs.cornell.edu/Courses/CS5412/2014sp/Syllabus.htm"
   }
 ]

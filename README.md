@@ -491,7 +491,11 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 -------
 
 ### Misc
-
+- [AM 207](http://am207.org/) **Monte Carlo Methods and Stochastic Optimization** *Harvard University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+  - This course introduces important principles of Monte Carlo techniques and demonstrates the power of these techniques with simple (but very useful) applications. All of this in Python!
+  - [Lecture Videos](http://cm.dce.harvard.edu/2015/02/24104/publicationListing.shtml)
+  - [Assignments](http://am207.github.io/2015/homework.html)
+  - [Lecture Notes](http://am207.github.io/2015/lectures.html)
 - [CAP 5415](http://crcv.ucf.edu/courses/CAP5415/) **Computer Vision** *University of Central Florida* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
 	- An introductory level course covering the basic topics of computer vision, and introducing some fundamental approaches for computer vision research.
 	- [Lectures and Videos](http://crcv.ucf.edu/videos/Lecture_Videos/)

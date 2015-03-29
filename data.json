@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Great Ideas in Computer Architecture (Machine Structures)",
+    "code": "CS 61C",
+    "link": "http://www-inst.eecs.berkeley.edu/~cs61c/sp15/",
+    "university": "UC Berkeley",
+    "category": "",
+    "assignments": null,
+    "readings": "http://www-inst.eecs.berkeley.edu/~cs61c/sp15/#Resources",
+    "videos": "https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_",
+    "notes": "http://www-inst.eecs.berkeley.edu/~cs61c/sp15/#Calendar"
+  },
+  {
+    "id": 2,
+    "title": "Computer Organization & Systems",
+    "code": "CS 107",
+    "link": "http://web.stanford.edu/class/cs107/index.html",
+    "university": "Stanford University",
+    "category": "systems",
+    "assignments": "http://web.stanford.edu/class/cs107/assignments.html",
+    "readings": null,
+    "videos": "https://www.youtube.com/playlist?list=PL08D9FA018A965057&spfreload=10",
+    "notes": null
+  },
+  {
+    "id": 3,
+    "title": "Operating Systems",
+    "code": "CS 140",
+    "link": "http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lectures.php",
+    "university": "Stanford University",
+    "category": "systems",
+    "assignments": "http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/projects.php",
+    "readings": null,
+    "videos": null,
+    "notes": "http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lectures.php"
+  },
+  {
+    "id": 4,
+    "title": "Operating Systems and Systems Programming",
+    "code": "CS 162",
+    "link": "http://cs162.eecs.berkeley.edu/",
+    "university": "UC Berkeley",
+    "category": "systems",
+    "assignments": "http://cs162.eecs.berkeley.edu/",
+    "readings": "http://cs162.eecs.berkeley.edu/",
+    "videos": "https://www.youtube.com/playlist?list=PL-XXv-cvA_iAARFmCufZ6XeMPPgAzNSNa",
+    "notes": "http://cs162.eecs.berkeley.edu/"
+  },
+  {
+    "id": 5,
+    "title": "Introduction to Database Systems",
+    "code": "CS 186",
+    "link": "https://sites.google.com/site/cs186fall2013/home",
+    "university": "UC Berkeley",
+    "category": "systems",
+    "assignments": "https://sites.google.com/site/cs186fall2013/homeworks",
+    "readings": null,
+    "videos": null,
+    "notes": "https://sites.google.com/site/cs186fall2013/section-notes"
+  },
+  {
+    "id": 6,
+    "title": "Systems Programming (Fall 2014)",
+    "code": "CS 241",
+    "link": "https://courses.engr.illinois.edu/cs241/fa2014/index.html",
+    "university": "Univ of Illinois, Urbana-Champaign",
+    "category": "systems",
+    "assignments": "https://courses.engr.illinois.edu/cs241/fa2014/mp.html",
+    "readings": "https://github.com/angrave/SystemProgramming/wiki",
+    "videos": "http://angrave.github.io/sys/#",
+    "notes": null
+  }
+]

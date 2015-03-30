@@ -54,6 +54,9 @@ var Form = React.createClass({
     });
 
     localStorage.setItem('courses', JSON.stringify(courses));
+
+    // <hack> page reload </hack>
+    setTimeout(function() { location.reload() }, 500);
   },
   handleChange: function(key, event) {
     var state = this.state.course;

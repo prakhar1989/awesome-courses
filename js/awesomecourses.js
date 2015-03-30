@@ -38,6 +38,7 @@ var Form = React.createClass({
       title: course.title,
       code: course.code,
       link: course.link,
+      description: course.description,
       university: course.university,
       category: course.category,
       assignments: course.assignments || null,

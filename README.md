@@ -345,6 +345,11 @@ Courses
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS4300/2013fa/lectures/introduction.pdf)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS4300/2013fa/lectures.htm)
 	- [Assignments](http://www.cs.cornell.edu/courses/CS4300/2013fa/lectures.htm)
+- [6.045](https://stellar.mit.edu/S/course/6/sp15/6.045/index.html) **Great Ideas in Theoretical Computer Science** *MIT* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- This course provides a challenging introduction to some of the central ideas of theoretical computer science. Beginning in antiquity, the course will progress through finite automata, circuits and decision trees, Turing machines and computability, efficient algorithms and reducibility, the P versus NP problem, NP-completeness, the power of randomness, cryptography and one-way functions, computational learning theory, and quantum computing. It examines the classes of problems that can and cannot be solved by various kinds of machines. It tries to explain the key differences between computational models that affect their power.
+	- [Syllabus](https://stellar.mit.edu/S/course/6/sp15/6.045/courseMaterial/topics/topic1/syllabus/syllabus2015/syllabus2015.pdf)
+	- [Lecture Notes](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html)
+	- [Lecture Videos](http://stellar.mit.edu/S/course/6/sp15/6.045/special/videos/index.html)
 
 -------
 

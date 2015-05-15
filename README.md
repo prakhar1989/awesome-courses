@@ -502,6 +502,10 @@ Topics covered include probability theory and Bayesian inference; univariate dis
  - The course concentrates on recognizing and solving convex optimization problems that arise in applications.  Topics addressed include the following.  Convex sets, functions, and optimization problems.  Basics of convex analysis.  Least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems.  Optimality conditions, duality theory, theorems of alternative, and applications.  Interior-point methods.  Applications to signal processing, statistics and machine learning, control and mechanical engineering, digital and analog circuit design, and finance.
   - [Textbook](http://web.stanford.edu/~boyd/cvxbook/)
   - [Lectures and Assignments](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/courseware/7206c57866504e83821d00b5d3f80793/)
+- [**Machine Learning: 2014-2015**](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) *University of Oxford* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+    - The course focusses on neural networks and uses the [Torch](https://github.com/torch/torch7/wiki/Cheatsheet) deep learning library (implemented in Lua) for exercises and assignments. Topics include: logistic regression, back-propagation, convolutional neural networks, max-margin learning, siamese networks, recurrent neural networks, LSTMs, hand-writing with recurrent neural networks, variational autoencoders and image generation and reinforcement learning
+    - [Lecutures and Assignments](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+    - [Source code](https://github.com/oxford-cs-ml-2015/)
 
 -------
 

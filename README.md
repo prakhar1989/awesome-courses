@@ -225,6 +225,8 @@ Courses
   - A course that teaches discrete maths concepts with functional programming
   - [Lecture Videos](http://cs.wheaton.edu/~tvandrun/dmfp/)
   - [Assignments](http://cs.wheaton.edu/~tvandrun/dmfp/source.html)
+- [CSC 253](http://pgbovine.net/cpython-internals.htm) **CPython internals: A ten-hour codewalk through the Python interpreter source code** *University of Rochester* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+  - Nine lectures walking through the internals of CPython, the canonical Python interpreter implemented in C. They were from the *Dynamic Languages and Software Development* course taught in Fall 2014 at the University of Rochester. 
 
 -------
 

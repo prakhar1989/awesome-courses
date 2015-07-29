@@ -535,6 +535,11 @@ Topics covered include probability theory and Bayesian inference; univariate dis
     - The course focusses on neural networks and uses the [Torch](https://github.com/torch/torch7/wiki/Cheatsheet) deep learning library (implemented in Lua) for exercises and assignments. Topics include: logistic regression, back-propagation, convolutional neural networks, max-margin learning, siamese networks, recurrent neural networks, LSTMs, hand-writing with recurrent neural networks, variational autoencoders and image generation and reinforcement learning
     - [Lecutures and Assignments](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
     - [Source code](https://github.com/oxford-cs-ml-2015/)
+- [EECS E6894](http://llcao.net/cu-deeplearning15/index.html) **Deep Learning for Computer Vision and Natural Language Processing** *Columbia University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+  - This graduate level research class focuses on deep learning techniques for vision and natural language processing problems. It gives an overview of the various deep learning models and techniques, and surveys recent advances in the related fields. This course uses Theano as the main programminging tool. GPU programming experiences are preferred although not required. Frequent paper presentations and a heavy programming workload are expected.
+  - [Readings](http://llcao.net/cu-deeplearning15/reading.html)
+  - [Assignments](http://llcao.net/cu-deeplearning15/programming_problem.html)
+  - [Lecture Notes](http://llcao.net/cu-deeplearning15/index.html)
 
 -------
 

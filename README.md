@@ -470,6 +470,9 @@ Courses
 	- [Lectures and Assignments 2](http://www.eng.utah.edu/~cs2420-20/schedule.html)
 	- [Textbook](http://htdp.org/2003-09-26/Book/curriculum.html)
 	- [Racket Language](http://racket-lang.org/)
+- [CS-for-all](http://www.cs.hmc.edu/csforall/) **CS for All**  *Harvey Mudd College* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- This book (and course) takes a unique approach to “Intro CS.” In a nutshell, our objective is to provide an introduction to computer science as an intellectually rich and vibrant field rather than focusing exclusively on computer programming. While programming is certainly an important and pervasive element of our approach, we emphasize concepts and problem-solving over syntax and programming language features.
+	- [Lectures and Other resources](https://www.cs.hmc.edu/twiki/bin/view/ModularCS1)
 
 -------
 

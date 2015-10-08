@@ -20,10 +20,10 @@ Table of Contents
 
 ### Legend
 
-- <img src="" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> - Lecture Videos
-- <img src="" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> - Lecture Notes
-- <img src="" width="20" height="20" alt="Assignments" title="Assignments" /> - Assignments / Labs
-- <img src="" width="20" height="20" alt="Readings" title="Readings" /> - Readings
+- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> - Lecture Videos
+- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> - Lecture Notes
+- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> - Assignments / Labs
+- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> - Readings
 
 
 Courses

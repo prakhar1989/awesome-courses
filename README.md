@@ -15,6 +15,7 @@ Table of Contents
 - [CS Theory](#cs-theory)
 - [Introduction to CS](#introduction-to-cs)
 - [Machine Learning](#machine-learning)
+- [Security](#security)
 - [Misc](#misc)
 
 ### Legend
@@ -47,10 +48,6 @@ Courses
 - [CS 162](http://cs162.eecs.berkeley.edu/) **Operating Systems and Systems Programming** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
     - Operating Systems course by the Chair of EECS, UC Berkeley [David Culler](http://www.cs.berkeley.edu/~culler/)
     - [Youtube Playlist](https://www.youtube.com/playlist?list=PL-XXv-cvA_iAARFmCufZ6XeMPPgAzNSNa) Fall 2014 lectures
-- [CS 168](https://inst.eecs.berkeley.edu/~cs168/fa14/) **Introduction to the Internet: Architecture and Protocols** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
-    - This course is an introduction to the Internet architecture. We will focus on the concepts and fundamental design principles that have contributed to the Internet's scalability and robustness and survey the various protocols and algorithms used within this architecture. Topics include layering, addressing, intradomain routing, interdomain routing, reliable delivery, congestion control, and the core protocols (e.g., TCP, UDP, IP, DNS, and HTTP) and network technologies (e.g., Ethernet, wireless).   
-    - [Lecture Notes & Assignments](https://inst.eecs.berkeley.edu/~cs168/fa14/class.html)
-    - [Discussion Notes](https://inst.eecs.berkeley.edu/~cs168/fa14/)
 - [CS 186](https://sites.google.com/site/cs186fall2013/home) **Introduction to Database Systems** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- In the project assignments in CS186, you will write a basic database management system called SimpleDB. For this project, you will focus on implementing the core modules required to access stored data on disk; in future projects, you will add support for various query processing operators, as well as transactions, locking, and concurrent queries.
 	- [Lecture Notes](https://sites.google.com/site/cs186fall2013/section-notes)
@@ -232,12 +229,6 @@ Courses
   - [Assignments](http://cs.wheaton.edu/~tvandrun/dmfp/source.html)
 - [CSC 253](http://pgbovine.net/cpython-internals.htm) **CPython internals: A ten-hour codewalk through the Python interpreter source code** *University of Rochester* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
   - Nine lectures walking through the internals of CPython, the canonical Python interpreter implemented in C. They were from the *Dynamic Languages and Software Development* course taught in Fall 2014 at the University of Rochester. 
-- [PCPP](http://www.itu.dk/people/sestoft/itu/PCPP/E2015/) **Practical Concurrent and Parallel Programming** *IT University of Copenhagen* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-  - In this MSc course you learn how to write correct and efficient concurrent and parallel software, primarily using Java, on standard shared-memory multicore hardware. 
-  - The course covers basic mechanisms such as threads, locks and shared memory as well as more advanced mechanisms such as parallel streams for bulk data, transactional memory, message passing, and lock-free data structures with compare-and-swap.
-  - It covers concepts such as atomicity, safety, liveness and deadlock. 
-  - It covers how to measure and understand performance and scalability of parallel programs. 
-  - It covers tools and methods to find bugs in concurrent programs.
 
 -------
 
@@ -480,9 +471,6 @@ Courses
 	- [Lectures and Assignments 2](http://www.eng.utah.edu/~cs2420-20/schedule.html)
 	- [Textbook](http://htdp.org/2003-09-26/Book/curriculum.html)
 	- [Racket Language](http://racket-lang.org/)
-- [CS-for-all](http://www.cs.hmc.edu/csforall/) **CS for All**  *Harvey Mudd College* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-	- This book (and course) takes a unique approach to “Intro CS.” In a nutshell, our objective is to provide an introduction to computer science as an intellectually rich and vibrant field rather than focusing exclusively on computer programming. While programming is certainly an important and pervasive element of our approach, we emphasize concepts and problem-solving over syntax and programming language features.
-	- [Lectures and Other resources](https://www.cs.hmc.edu/twiki/bin/view/ModularCS1)
 
 -------
 
@@ -553,6 +541,30 @@ Topics covered include probability theory and Bayesian inference; univariate dis
   - [Readings](http://llcao.net/cu-deeplearning15/reading.html)
   - [Assignments](http://llcao.net/cu-deeplearning15/programming_problem.html)
   - [Lecture Notes](http://llcao.net/cu-deeplearning15/index.html)
+  
+-------
+
+###Security
+- [6.857](http://courses.csail.mit.edu/6.857/2015/) **Computer and Network Security** *MIT* <img src="" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	- Emphasis on applied cryptography and may include: basic notion of systems security, crypotographic hash functions, symmetric crypotography (one-time pad, stream ciphers, block ciphers), cryptanalysis, secret-sharing, authentication codes, public-key cryptography (encryption, digital signatures), public-key attacks, web browser security, biometrics, electronic cash, viruses, electronic voting, Assignments include a group final project. Topics may vary year to year.
+	[Lecture Notes](http://courses.csail.mit.edu/6.857/2015/handouts)
+	[References](http://courses.csail.mit.edu/6.857/2015/references)
+- [6.858](http://css.csail.mit.edu/6.858/2014/) **Computer Systems Security** *MIT* <img src="" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="" width="20" height="20" alt="Readings" title="Readings" />
+	- Design and implementation of secure computer systems. Lectures cover threat models, attacks that compromise security, and techniques for achieving security, based on recent research papers. Topics include operating system (OS) security, capabilities, information flow control, language security, network protocols, hardware security, and security in web applications.
+	- Taught by [James Mickens](http://research.microsoft.com/en-us/people/mickens/) and [Nickolai Zeldovich](http://people.csail.mit.edu/nickolai/)
+	- [Video Lectures and Labs](http://css.csail.mit.edu/6.858/2014/schedule.html)
+	- [Quizzes](http://css.csail.mit.edu/6.858/2014/quiz.html)
+	- [Readings](http://css.csail.mit.edu/6.858/2014/reference.html)
+	- [Final Projects](http://css.csail.mit.edu/6.858/2014/projects.html)
+- [CIS 4930 / CIS 5930](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/) **Offensive Computer Security** *Florida State University* <img src="" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	- Course taught by [W. Owen Redwood](http://ww2.cs.fsu.edu/~redwood/) and [Xiuwen Liu](http://www.cs.fsu.edu/~liux/). It covers a wide range of computer security topics, starting from Secure C Coding and Reverse Engineering to Penetration Testing, Exploitation and Web Application Hacking, both from the defensive and the offensive point of view.
+	- [Lectures and Videos](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
+	- [Assignments](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/assignments.html)
+- [CS 5430](http://www.cs.cornell.edu/courses/CS5430/2013sp/) **System Security** *Cornell University* <img src="" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="" width="20" height="20" alt="Readings" title="Readings" />
+	- This course discusses security for computers and networked information systems. We focus on abstractions, principles, and defenses for implementing military as well as commercial-grade secure systems.
+	- [Syllabus](http://www.cs.cornell.edu/courses/CS5430/2013sp/01.intro.html)
+	- [Lectures](http://www.cs.cornell.edu/courses/CS5430/2013sp/02.outline.html)
+	- [Assignments](http://www.cs.cornell.edu/courses/CS5430/2013sp/)
 
 -------
 
@@ -570,10 +582,6 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 	- An introductory course in computer vision and computational photography focusing on four topics: image features, image morphing, shape matching, and image search.
 	- [Lectures](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Schedule)
 	- [Assignments](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Projects)
-- [CIS 4930 / CIS 5930](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/) **Offensive Computer Security** *Florida State University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
-	- Course taught by [W. Owen Redwood](http://ww2.cs.fsu.edu/~redwood/) and [Xiuwen Liu](http://www.cs.fsu.edu/~liux/). It covers a wide range of computer security topics, starting from Secure C Coding and Reverse Engineering to Penetration Testing, Exploitation and Web Application Hacking, both from the defensive and the offensive point of view.
-	- [Lectures and Videos](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
-	- [Assignments](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/assignments.html)
 - [CS 75](http://ocw.tufts.edu/Course/75)  **Introduction to Game Development** *Tufts University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- The course taught by [Ming Y. Chow](http://mchow01.github.io) teaches game development initially in PyGame through Python, before moving on to addressing all facets of game development. Topics addressed include game physics, sprites, animation, game development methodology, sound, testing, MMORPGs and online games, and addressing mobile development in Android, HTML5, and iOS. Most to all of the development is focused on PyGame for learning principles
 	- [Text Lectures](http://ocw.tufts.edu/Course/75/Learningunits)
@@ -656,11 +664,6 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 		- Applications from science and engineering
 	- [Lectures](http://www.cs.cornell.edu/~bindel/class/cs5220-f11/lectures.html)
 	- [Assignments](http://www.cs.cornell.edu/~bindel/class/cs5220-f11/assignments.html)
-- [CS 5430](http://www.cs.cornell.edu/courses/CS5430/2013sp/) **System Security** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-	- This course discusses security for computers and networked information systems. We focus on abstractions, principles, and defenses for implementing military as well as commercial-grade secure systems.
-	- [Syllabus](http://www.cs.cornell.edu/courses/CS5430/2013sp/01.intro.html)
-	- [Lectures](http://www.cs.cornell.edu/courses/CS5430/2013sp/02.outline.html)
-	- [Assignments](http://www.cs.cornell.edu/courses/CS5430/2013sp/)
 - [CS 5540](https://sites.google.com/site/cs5540sp2013/) **Computational Techniques for Analyzing Clinical Data** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- CS5540 is a masters-level course that covers a wide range of clinical problems and their associated computational challenges. The practice of medicine is filled with digitally accessible information about patients, ranging from EKG readings to MRI images to electronic health records. This poses a huge opportunity for computer tools that make sense out of this data. Computation tools can be used to answer seemingly straightforward questions about a single patient's test results (“Does this patient have a normal heart rhythm?”), or to address vital questions about large populations (“Is there any clinical condition that affects the risks of Alzheimer”). In CS5540 we will look at many of the most important sources of clinical data and discuss the basic computational techniques used for their analysis, ranging in sophistication from current clinical practice to state-of-the-art research projects.
 	- [Syllabus](https://sites.google.com/site/cs5540sp2013/home/course-description)
@@ -747,14 +750,6 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 	- This is a graduate course in scientific computing created and taught by [Oliver Serang](http://colorfulengineering.org/) in 2014, which covers topics in computer science and statistics with applications from biology. The course is designed top-down, starting with a problem and then deriving a variety of solutions from scratch.
 	- Topics include memoization, recurrence closed forms, string matching (sorting, hash tables, radix tries, and suffix tries), dynamic programming (e.g. Smith-Waterman and Needleman-Wunsch), Bayesian statistics (e.g. the envelope paradox), graphical models (HMMs, Viterbi, junction tree, belief propagation), FFT, and the probabilistic convolution tree.
 	- [Lecture videos on Youtube](https://www.youtube.com/user/fillwithlight/videos) and for direct [download](http://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=233)
-
-- [6.858](http://css.csail.mit.edu/6.858/2014/) **Computer Systems Security** *MIT* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-	- Design and implementation of secure computer systems. Lectures cover threat models, attacks that compromise security, and techniques for achieving security, based on recent research papers. Topics include operating system (OS) security, capabilities, information flow control, language security, network protocols, hardware security, and security in web applications.
-	- Taught by [James Mickens](http://research.microsoft.com/en-us/people/mickens/) and [Nickolai Zeldovich](http://people.csail.mit.edu/nickolai/)
-	- [Video Lectures and Labs](http://css.csail.mit.edu/6.858/2014/schedule.html)
-	- [Quizzes](http://css.csail.mit.edu/6.858/2014/quiz.html)
-	- [Readings](http://css.csail.mit.edu/6.858/2014/reference.html)
-	- [Final Projects](http://css.csail.mit.edu/6.858/2014/projects.html)
 - [14-740](http://www.ini740.com/F15/index.html) **Fundamentals of Computer Networks** *CMU* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- This is an introductory course on Networking for graduate students. It follows a top-down approach to teaching Computer Networks, so it starts with the Application layer which most of the students are familiar with and as the course unravels we learn more about transport, network and link layers of the protocol stack.
 	- As far as prerequisites are concerned - basic computer, programming and probability theory background is required.

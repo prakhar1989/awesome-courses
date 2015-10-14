@@ -767,3 +767,5 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 	- This is an introductory course on Networking for graduate students. It follows a top-down approach to teaching Computer Networks, so it starts with the Application layer which most of the students are familiar with and as the course unravels we learn more about transport, network and link layers of the protocol stack.
 	- As far as prerequisites are concerned - basic computer, programming and probability theory background is required.
 	- The course site contains links to the lecture videos, reading material and assignments.
+
+- [CSc 5802](http://web.mst.edu/~ercal/387/387.html) **Introduction to Parallel programming and  Algorithms**

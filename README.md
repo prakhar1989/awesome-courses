@@ -239,6 +239,9 @@ Courses
   - It covers concepts such as atomicity, safety, liveness and deadlock.
   - It covers how to measure and understand performance and scalability of parallel programs.
   - It covers tools and methods to find bugs in concurrent programs.
+- [CS143](http://www.stanford.edu/class/cs143/) **Compilers** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+  - In this course you will learn what are compilers and why are they worth studying.
+  - It covers compiler oganization, discusses the front-end of a compiler (which includes lexical analysis, syntactic analysis (parsing), and semantic analysis), the back-end of a compiler (optimization and code generation), interpreters, and the engineering of a compiler.
 
 -------
 

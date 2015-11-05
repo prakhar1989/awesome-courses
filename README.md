@@ -161,6 +161,9 @@ Courses
 	- Covers functional programming concepts like closures, tail-call recursion & parallelism using the OCaml programming language
 	- [Lectures](http://www.cs.princeton.edu/~dpw/courses/cos326-12/lectures.php)
 	- [Assignments](http://www.cs.princeton.edu/~dpw/courses/cos326-12/assignments.php)
+- [CS143](http://www.stanford.edu/class/cs143/) **Compilers** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+  - In this course you will learn what are compilers and why they are worth studying.
+  - It covers compiler oganization, discusses the front-end of a compiler (which includes lexical analysis, syntactic analysis (parsing), and semantic analysis), the back-end of a compiler (optimization and code generation), interpreters, and the engineering of a compiler.
 - [CS 164](https://sites.google.com/a/bodik.org/cs164/home) **Hack your language!** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- Introduction to programming languages by designing and implementing domain-specific languages.
 	- [Lecture Videos](https://www.youtube.com/playlist?list=PL421867F00A53B833)
@@ -239,9 +242,6 @@ Courses
   - It covers concepts such as atomicity, safety, liveness and deadlock.
   - It covers how to measure and understand performance and scalability of parallel programs.
   - It covers tools and methods to find bugs in concurrent programs.
-- [CS143](http://www.stanford.edu/class/cs143/) **Compilers** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-  - In this course you will learn what are compilers and why they are worth studying.
-  - It covers compiler oganization, discusses the front-end of a compiler (which includes lexical analysis, syntactic analysis (parsing), and semantic analysis), the back-end of a compiler (optimization and code generation), interpreters, and the engineering of a compiler.
 
 -------
 

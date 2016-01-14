@@ -601,9 +601,9 @@ Fall 2015. This was a university course developed and run soley by students, pri
 [Practical Malware Analysis](http://www.amazon.com/Practical-Malware-Analysis-Dissecting-Malicious/dp/1593272901)
 book by Michael Sikorski and Andrew Honig, to teach skills in reverse engineering, malicious behaviour, malware,
 and anti-analysis techniques.
-	[Lectures Notes](https://github.com/RPISEC/Malware/tree/master/Lectures)
-	[Labs](https://github.com/RPISEC/Malware/tree/master/Labs)
-	[Projects](https://github.com/RPISEC/Malware/tree/master/Projects)
+	- [Lectures Notes](https://github.com/RPISEC/Malware/tree/master/Lectures)
+	- [Labs](https://github.com/RPISEC/Malware/tree/master/Labs)
+	- [Projects](https://github.com/RPISEC/Malware/tree/master/Projects)
 
 -------
 

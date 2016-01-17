@@ -61,6 +61,12 @@ Courses
 	- [Assignments](https://courses.engr.illinois.edu/cs241/fa2014/mp.html)
 	- [Github Page](http://angrave.github.io/sys/#)
 	- [Crowd Sourced Book](https://github.com/angrave/SystemProgramming/wiki)
+
+- [CS 246](https://www.student.cs.uwaterloo.ca/~cs246/) **Object-Oriented Software Development** *Univ of Waterloo*
+<img src="https://camo.githubusercontent.com/d14cad692e3b868f3ad0a656b13aad9cd1bbecc2/68747470733a2f2f6173736574732d63646e2e6769746875622e636f6d2f696d616765732f69636f6e732f656d6f6a692f756e69636f64652f31663462622e706e67" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	-Introduction to object-oriented programming and to tools and techniques for software development. Designing, coding, debugging, testing, and documenting medium-sized programs: reading specifications and designing software to implement them; selecting appropriate data structures and control structures; writing reusable code; reusing existing code; basic performance issues; debuggers; test suites. This is a great course as it really goes through the main concepts of Object Oriented Principles in depth, and also teaches bash commands.
+	- [Notes](https://www.student.cs.uwaterloo.ca/~cs246/current/notes.pdf)
+	- [Assignments](https://www.student.cs.uwaterloo.ca/~cs246/current/assignments.shtml)
 - [CS 425](https://courses.engr.illinois.edu/cs425/fa2014/index.html) **Distributed Systems** *Univ of Illinois, Urbana-Champaign* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />	- Brilliant set of lectures and reading material covering fundamental concepts in distributed systems such as Vector clocks, Consensus and Paxos. This is the 2014 version by Prof Indranil Gupta.
 	- [Lectures](https://courses.engr.illinois.edu/cs425/fa2014/lectures.html)
 	- [Assignments](https://courses.engr.illinois.edu/cs425/assignments.html)

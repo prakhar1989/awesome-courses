@@ -31,6 +31,9 @@ Courses
 
 ### Systems
 
+- [CIS 198](http://cis198-2016s.github.io/) **Rust Programming** *UPenn* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> 
+	- This course covers what makes Rust so unique and applies it to practical systems programming problems. Topics covered include traits and generics; memory safety (move semantics, borrowing, and lifetimes); Rust’s rich macro system; closures; and concurrency.
+	- [Assignments](https://github.com/cis198-2016s/homework)
 - [CS 61C](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/) **Great Ideas in Computer Architecture (Machine Structures)** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- [Lecture Videos](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
  	- [Lecture Notes](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/#Calendar)

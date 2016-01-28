@@ -621,6 +621,10 @@ and anti-analysis techniques.
 	- [Lectures Notes](https://github.com/RPISEC/Malware/tree/master/Lectures)
 	- [Labs](https://github.com/RPISEC/Malware/tree/master/Labs)
 	- [Projects](https://github.com/RPISEC/Malware/tree/master/Projects)
+- [EECS 588](https://www.eecs.umich.edu/courses/eecs588/) **Computer & Network Security** *University of Michigan* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- Taught by [J. Alex Halderman](https://jhalderm.com/) who has analyzed the security of Electronic Voting Machines in the [US](https://jhalderm.com/pub/papers/dcvoting-fc12.pdf) and [over](https://jhalderm.com/pub/papers/ivoting-ccs14.pdf) [seas](https://jhalderm.com/pub/papers/evm-ccs10.pdf).
+	- This intensive research seminar covers foundational work and current topics in computer systems security.
+	- [Readings](https://www.eecs.umich.edu/courses/eecs588/readings.html)
 
 -------
 
@@ -766,10 +770,6 @@ and anti-analysis techniques.
 	- This course is an introduction to programming for the World Wide Web. Covers use of HTML, CSS, PHP, JavaScript, AJAX, and SQL.
 	- [Lectures](http://courses.cs.washington.edu/courses/cse154/14au/lectures.shtml#today)
 	- [Assignments](http://courses.cs.washington.edu/courses/cse154/14au/homework.shtml)
-- [EECS 588](https://www.eecs.umich.edu/courses/eecs588/) **Computer & Network Security** *University of Michigan* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-	- Taught by [J. Alex Halderman](https://jhalderm.com/) who has analyzed the security of Electronic Voting Machines in the [US](https://jhalderm.com/pub/papers/dcvoting-fc12.pdf) and [over](https://jhalderm.com/pub/papers/ivoting-ccs14.pdf) [seas](https://jhalderm.com/pub/papers/evm-ccs10.pdf).
-	- This intensive research seminar covers foundational work and current topics in computer systems security.
-	- [Readings](https://www.eecs.umich.edu/courses/eecs588/readings.html)
 - [ESM 296-4F](http://ucsb-bren.github.io/esm296-4f/) **GIS & Spatial Analysis** *UC Santa Barbara* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- Taught by [James Frew](http://www.bren.ucsb.edu/people/Faculty/james_frew.htm), [Ben Best](http://mgel.env.duke.edu/people/ben-best/), and [Lisa Wedding](http://www.centerforoceansolutions.org/team/lisa-wedding)
 	- Focuses on specific computational languages (e.g., Python, R, shell) and tools (e.g., GDAL/OGR, InVEST, MGET, ModelBuilder) applied to the spatial analysis of environmental problems

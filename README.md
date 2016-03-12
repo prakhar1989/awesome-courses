@@ -17,6 +17,7 @@ Table of Contents
 - [Machine Learning](#machine-learning)
 - [Security](#security)
 - [Artificial Intelligence](#artificial-intelligence)
+- [Computer Graphics & Vision](#computer-graphics-&-vision)
 - [Misc](#misc)
 
 ### Legend
@@ -551,6 +552,14 @@ Courses
     - The course introduces the math and algorithms underneath state-of-the-art robotic systems. The majority of these techniques are heavily based on probabilistic reasoning and optimization---two areas with wide applicability in modern Artificial Intelligence. An intended side-effect of the course is to generally strengthen your expertise in these two areas.
     - [Lectures Notes](http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/#syllabus)
     - [Assignments](http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/#assignments)
+- [CS 4786](http://www.cs.cornell.edu/courses/CS4786/2015sp/index.htm) **Machine Learning for Data Science** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- An introductory course in machine learning, with a focus on data modeling and related methods and learning algorithms for data sciences. Tentative topic list:
+		- Dimensionality reduction, such as principal component analysis (PCA) and the singular value decomposition (SVD), canonical correlation analysis (CCA), independent component analysis (ICA), compressed sensing, random projection, the information bottleneck. (We expect to cover some, but probably not all, of these topics).
+		- Clustering, such as k-means, Gaussian mixture models, the expectation-maximization (EM) algorithm, link-based clustering. (We do not expect to cover hierarchical or spectral clustering.).
+		- Probabilistic-modeling topics such as graphical models, latent-variable models, inference (e.g., belief propagation), parameter learning.
+		- Regression will be covered if time permits.
+	- [Assignments](http://www.cs.cornell.edu/courses/CS4786/2015sp/assignments.htm)
+	- [Lectures](http://www.cs.cornell.edu/courses/CS4786/2015sp/lectures.htm)
 - [CS 4780](http://www.cs.cornell.edu/courses/CS4780/2014fa/) **Machine Learning** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- This course will introduce you to technologies for building data-centric information systems on the World Wide Web, show the practical applications of such systems, and discuss their design and their social and policy context by examining cross-cutting issues such as citizen science, data journalism and open government. Course work involves lectures and readings as well as weekly homework assignments, and a semester-long project in which the students demonstrate their expertise in building data-centric Web information systems.
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS4780/2014fa/)
@@ -579,8 +588,16 @@ Topics covered include probability theory and Bayesian inference; univariate dis
   - This graduate level research class focuses on deep learning techniques for vision and natural language processing problems. It gives an overview of the various deep learning models and techniques, and surveys recent advances in the related fields. This course uses Theano as the main programminging tool. GPU programming experiences are preferred although not required. Frequent paper presentations and a heavy programming workload are expected.
   - [Readings](http://llcao.net/cu-deeplearning15/reading.html)
   - [Assignments](http://llcao.net/cu-deeplearning15/programming_problem.html)
-  - [Lecture Notes](http://llcao.net/cu-deeplearning15/index.html)  
-
+  - [Lecture Notes](http://llcao.net/cu-deeplearning15/index.html) 
+- [EECS E6893 & EECS E6895](http://www.ee.columbia.edu/~cylin/course/bigdata/) **Big Data Analytics & Advanced Big Data Analytics** *Columbia University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	- Students will gain knowledge on analyzing Big Data. It serves as an introductory course for graduate students who are expecting to face Big Data storage, processing, analysis, visualization, and application issues on both workplaces and research environments.
+	- Taught by [Dr. Ching-Yung Lin](http://researcher.watson.ibm.com/researcher/view.php?person=us-chingyung)
+	- [Course Site](http://www.ee.columbia.edu/~cylin/course/bigdata/)
+	- Assignments - Assignments are present in the Course Slides
+- [Info 290](http://www.ischool.berkeley.edu/courses/i290-abdt) **Analyzing Big Data with Twitter** *UC Berkeley school of information* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />
+	- In this course, UC Berkeley professors and Twitter engineers provide lectures on the most cutting-edge algorithms and software tools for data analytics as applied to Twitter's data. Topics include applied natural language processing algorithms such as sentiment analysis, large scale anomaly detection, real-time search, information diffusion and outbreak detection, trend detection in social streams, recommendation algorithms, and advanced frameworks for distributed computing.
+	-  [Lecture Videos](http://www.ischool.berkeley.edu/newsandevents/audiovideo/webcast/21963)
+	-  [Previous Years coursepage](http://blogs.ischool.berkeley.edu/i290-abdt-s12/)
 -------
 
 ###Security
@@ -658,14 +675,8 @@ and anti-analysis techniques.
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS6700/2013sp/lectures/CS6700-Overview_v2.pptx)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
 	- [Readings](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
-
 -------
-### Misc
-- [AM 207](http://am207.org/) **Monte Carlo Methods and Stochastic Optimization** *Harvard University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
-  - This course introduces important principles of Monte Carlo techniques and demonstrates the power of these techniques with simple (but very useful) applications. All of this in Python!
-  - [Lecture Videos](http://cm.dce.harvard.edu/2015/02/24104/publicationListing.shtml)
-  - [Assignments](http://am207.github.io/2015/homework.html)
-  - [Lecture Notes](http://am207.github.io/2015/lectures.html)
+### Computer Graphics & Vision
 - [CAP 5415](http://crcv.ucf.edu/courses/CAP5415/) **Computer Vision** *University of Central Florida* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
 	- An introductory level course covering the basic topics of computer vision, and introducing some fundamental approaches for computer vision research.
 	- [Lectures and Videos](http://crcv.ucf.edu/videos/Lecture_Videos/)
@@ -674,6 +685,32 @@ and anti-analysis techniques.
 	- An introductory course in computer vision and computational photography focusing on four topics: image features, image morphing, shape matching, and image search.
 	- [Lectures](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Schedule)
 	- [Assignments](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Projects)
+- [CS 378](https://github.com/ut-cs378-vision-2014fall/course-info) **3D Reconstruction with Computer Vision** *UTexas* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	- In this lab-based class, we'll dive into practical applications of 3D reconstruction, combining hardware and software to build our own 3D environments from scratch. We'll use open-source frameworks like OpenCV to do the heavy lifting, with the focus on understanding and applying state-of-the art approaches to geometric computer vision
+	- [Lectures](https://github.com/ut-cs378-vision-2014fall/course-info/tree/master/meeting-notes)
+- [CS 4620](http://www.cs.cornell.edu/Courses/CS4620/2014fa/index.shtml#) **Introduction to Computer Graphics** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
+	- The study of creating, manipulating, and using visual images in the computer.
+	- [Assignments](http://www.cs.cornell.edu/Courses/CS4620/2014fa/index.shtml#asgn)
+	- [Exams](http://www.cs.cornell.edu/Courses/CS4620/2014fa/index.shtml#exams)
+- [CSCI-GA.2270-001](https://mrl.nyu.edu/~perlin/courses/fall2015/) **Graduate Computer Graphics** *New York University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
+	- Step-by-step study computer graphics, with reading and homework at each lecture (Fall2015)
+	- [Lectures](https://mrl.nyu.edu/~perlin/courses/fall2015/)
+- [CS 4670](http://www.cs.cornell.edu/courses/CS4670/2015sp/) **Introduction to Computer Vision** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- This course will provide an introduction to computer vision, with topics including image formation, feature detection, motion estimation, image mosaics, 3D shape reconstruction, and object and face detection and recognition. Applications of these techniques include building 3D maps, creating virtual characters, organizing photo and video databases, human computer interaction, video surveillance, automatic vehicle navigation, and mobile computer vision. This is a project-based course, in which you will implement several computer vision algorithms throughout the semester.
+	- [Assignments](http://www.cs.cornell.edu/courses/CS4670/2015sp/projects/projects.html)
+	- [Lectures](http://www.cs.cornell.edu/courses/CS4670/2015sp/lectures/lectures.html)
+- [CS 6670](https://canvas.instructure.com/courses/904706) **Computer Vision** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	- Introduction to computer vision. Topics include edge detection, image segmentation, stereopsis, motion and optical flow, image mosaics, 3D shape reconstruction, and object recognition. Students are required to implement several of the algorithms covered in the course and complete a final project.
+	- [Syllabus](https://canvas.instructure.com/courses/904706/assignments/syllabus)
+	- [Lectures](https://canvas.instructure.com/courses/904706)
+	- [Assignments](https://canvas.instructure.com/courses/904706/assignments)
+-------
+### Misc
+- [AM 207](http://am207.org/) **Monte Carlo Methods and Stochastic Optimization** *Harvard University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+  - This course introduces important principles of Monte Carlo techniques and demonstrates the power of these techniques with simple (but very useful) applications. All of this in Python!
+  - [Lecture Videos](http://cm.dce.harvard.edu/2015/02/24104/publicationListing.shtml)
+  - [Assignments](http://am207.github.io/2015/homework.html)
+  - [Lecture Notes](http://am207.github.io/2015/lectures.html)
 - [CS 75](http://ocw.tufts.edu/Course/75)  **Introduction to Game Development** *Tufts University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- The course taught by [Ming Y. Chow](http://mchow01.github.io) teaches game development initially in PyGame through Python, before moving on to addressing all facets of game development. Topics addressed include game physics, sprites, animation, game development methodology, sound, testing, MMORPGs and online games, and addressing mobile development in Android, HTML5, and iOS. Most to all of the development is focused on PyGame for learning principles
 	- [Text Lectures](http://ocw.tufts.edu/Course/75/Learningunits)
@@ -694,9 +731,6 @@ and anti-analysis techniques.
 	- The purpose of this course is to introduce you to basics of modeling, design, planning, and control of robot systems. In essence, the material treated in this course is a brief survey of relevant results from geometry, kinematics, statics, dynamics, and control.
 	- [Lectures](http://see.stanford.edu/see/lecturelist.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743)
 	- [Assignments](http://see.stanford.edu/see/materials/aiircs223a/assignments.aspx)
-- [CS 378](https://github.com/ut-cs378-vision-2014fall/course-info) **3D Reconstruction with Computer Vision** *UTexas* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
-	- In this lab-based class, we'll dive into practical applications of 3D reconstruction, combining hardware and software to build our own 3D environments from scratch. We'll use open-source frameworks like OpenCV to do the heavy lifting, with the focus on understanding and applying state-of-the art approaches to geometric computer vision
-	- [Lectures](https://github.com/ut-cs378-vision-2014fall/course-info/tree/master/meeting-notes)
 - [CS 411](http://video.bilkent.edu.tr/course_videos.php?courseid=10) **Software Architecture Design** *Bilkent University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />
 	- This course teaches the basic concepts, methods and techniques for designing software architectures. The topics include: rationale for software architecture design, modeling software architecture design, architectural styles/patterns, architectural requirements analysis, comparison and evaluation of architecture design methods, synthesis-based software architecture design, software product-line architectures, domain modeling, domain engineering and application engineering, software architecture implementation, evaluating software architecture designs.
 - [CS 3152](http://www.cs.cornell.edu/courses/CS3152/2014sp/) **Introduction to Computer Game Development** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
@@ -714,25 +748,6 @@ and anti-analysis techniques.
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS4154/2014fa/about/faq.php)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS4154/2014fa/lectures/index.php)
 	- [Assignments](http://www.cs.cornell.edu/courses/CS4154/2014fa/assignments/index.php)
-- [CS 4620](http://www.cs.cornell.edu/Courses/CS4620/2014fa/index.shtml#) **Introduction to Computer Graphics** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
-	- The study of creating, manipulating, and using visual images in the computer.
-	- [Assignments](http://www.cs.cornell.edu/Courses/CS4620/2014fa/index.shtml#asgn)
-	- [Exams](http://www.cs.cornell.edu/Courses/CS4620/2014fa/index.shtml#exams)
-- [CSCI-GA.2270-001](https://mrl.nyu.edu/~perlin/courses/fall2015/) **Graduate Computer Graphics** *New York University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
-	- Step-by-step study computer graphics, with reading and homework at each lecture (Fall2015)
-	- [Lectures](https://mrl.nyu.edu/~perlin/courses/fall2015/)
-- [CS 4670](http://www.cs.cornell.edu/courses/CS4670/2015sp/) **Introduction to Computer Vision** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-	- This course will provide an introduction to computer vision, with topics including image formation, feature detection, motion estimation, image mosaics, 3D shape reconstruction, and object and face detection and recognition. Applications of these techniques include building 3D maps, creating virtual characters, organizing photo and video databases, human computer interaction, video surveillance, automatic vehicle navigation, and mobile computer vision. This is a project-based course, in which you will implement several computer vision algorithms throughout the semester.
-	- [Assignments](http://www.cs.cornell.edu/courses/CS4670/2015sp/projects/projects.html)
-	- [Lectures](http://www.cs.cornell.edu/courses/CS4670/2015sp/lectures/lectures.html)
-- [CS 4786](http://www.cs.cornell.edu/courses/CS4786/2015sp/index.htm) **Machine Learning for Data Science** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-	- An introductory course in machine learning, with a focus on data modeling and related methods and learning algorithms for data sciences. Tentative topic list:
-		- Dimensionality reduction, such as principal component analysis (PCA) and the singular value decomposition (SVD), canonical correlation analysis (CCA), independent component analysis (ICA), compressed sensing, random projection, the information bottleneck. (We expect to cover some, but probably not all, of these topics).
-		- Clustering, such as k-means, Gaussian mixture models, the expectation-maximization (EM) algorithm, link-based clustering. (We do not expect to cover hierarchical or spectral clustering.).
-		- Probabilistic-modeling topics such as graphical models, latent-variable models, inference (e.g., belief propagation), parameter learning.
-		- Regression will be covered if time permits.
-	- [Assignments](http://www.cs.cornell.edu/courses/CS4786/2015sp/assignments.htm)
-	- [Lectures](http://www.cs.cornell.edu/courses/CS4786/2015sp/lectures.htm)
 - [CS 4812](https://courses.cit.cornell.edu/physics4481-7681_2014sp/) **Quantum Information Processing** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	-  Hardware that exploits quantum phenomena can dramatically alter the nature of computation. Though constructing a working quantum computer is a formidable technological challenge, there has been much recent experimental progress. In addition, the theory of quantum computation is of interest in itself, offering strikingly different perspectives on the nature of computation and information, as well as providing novel insights into the conceptual puzzles posed by the quantum theory. The course is intended both for physicists, unfamiliar with computational complexity theory or cryptography, and also for computer scientists and mathematicians, unfamiliar with quantum mechanics. The prerequisites are familiarity (and comfort) with finite dimensional vector spaces over the complex numbers, some standard group theory, and ability to count in binary.
 	- [Syllabus](http://www.cs.cornell.edu/~ginsparg/physics/P4481-P7681-CS4812/Fa12.html)
@@ -783,11 +798,6 @@ and anti-analysis techniques.
 	- [Assignments](http://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#hw)
 - [CS 6650](http://www.cs.cornell.edu/courses/CS6650/2013fa/) **Computational Motion** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- Covers computational aspects of motion, broadly construed. Topics include the computer representation, modeling, analysis, and simulation of motion, and its relationship to various areas, including computational geometry, mesh generation, physical simulation, computer animation, robotics, biology, computer vision, acoustics, and spatio-temporal databases. Students implement several of the algorithms covered in the course and complete a final project.  This offering will also explore the special role of motion processing in physically based sound rendering.
-- [CS 6670](https://canvas.instructure.com/courses/904706) **Computer Vision** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
-	- Introduction to computer vision. Topics include edge detection, image segmentation, stereopsis, motion and optical flow, image mosaics, 3D shape reconstruction, and object recognition. Students are required to implement several of the algorithms covered in the course and complete a final project.
-	- [Syllabus](https://canvas.instructure.com/courses/904706/assignments/syllabus)
-	- [Lectures](https://canvas.instructure.com/courses/904706)
-	- [Assignments](https://canvas.instructure.com/courses/904706/assignments)
 - [CS 6840](http://www.cs.cornell.edu/courses/CS6840/2014sp/) **Algorithmic Game Theory** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- Algorithmic Game Theory combines algorithmic thinking with game-theoretic, or, more generally, economic concepts. The course will study a range of topics at this interface
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
@@ -819,17 +829,8 @@ and anti-analysis techniques.
 	- [Lectures](http://www.schneems.com/ut-rails/)
 	- [Assignments](http://www.schneems.com/ut-rails/)
 	- [Videos](https://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F)
-- [Info 290](http://www.ischool.berkeley.edu/courses/i290-abdt) **Analyzing Big Data with Twitter** *UC Berkeley school of information* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />
-	- In this course, UC Berkeley professors and Twitter engineers provide lectures on the most cutting-edge algorithms and software tools for data analytics as applied to Twitter's data. Topics include applied natural language processing algorithms such as sentiment analysis, large scale anomaly detection, real-time search, information diffusion and outbreak detection, trend detection in social streams, recommendation algorithms, and advanced frameworks for distributed computing.
-	-  [Lecture Videos](http://www.ischool.berkeley.edu/newsandevents/audiovideo/webcast/21963)
-	-  [Previous Years coursepage](http://blogs.ischool.berkeley.edu/i290-abdt-s12/)
 - [CS294](http://inst.eecs.berkeley.edu/~cs294-101/sp15/) **Cutting-edge Web Technologies** *Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- Want to learn what makes future web technologies tick? Join us for the class where we will dive into the internals of many of the newest web technologies, analyze and dissect them. We will conduct survey lectures to provide the background and overview of the area as well as invite guest lecturers from various leading projects to present their technologies.
-- [EECS E6893 & EECS E6895](http://www.ee.columbia.edu/~cylin/course/bigdata/) **Big Data Analytics & Advanced Big Data Analytics** *Columbia University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
-	- Students will gain knowledge on analyzing Big Data. It serves as an introductory course for graduate students who are expecting to face Big Data storage, processing, analysis, visualization, and application issues on both workplaces and research environments.
-	- Taught by [Dr. Ching-Yung Lin](http://researcher.watson.ibm.com/researcher/view.php?person=us-chingyung)
-	- [Course Site](http://www.ee.columbia.edu/~cylin/course/bigdata/)
-	- Assignments - Assignments are present in the Course Slides
 - [SCICOMP](http://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=233) **An Introduction to Efficient Scientific Computation** *Universität Bremen* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />
 	- This is a graduate course in scientific computing created and taught by [Oliver Serang](http://colorfulengineering.org/) in 2014, which covers topics in computer science and statistics with applications from biology. The course is designed top-down, starting with a problem and then deriving a variety of solutions from scratch.
 	- Topics include memoization, recurrence closed forms, string matching (sorting, hash tables, radix tries, and suffix tries), dynamic programming (e.g. Smith-Waterman and Needleman-Wunsch), Bayesian statistics (e.g. the envelope paradox), graphical models (HMMs, Viterbi, junction tree, belief propagation), FFT, and the probabilistic convolution tree.

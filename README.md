@@ -17,7 +17,7 @@ Table of Contents
 - [Machine Learning](#machine-learning)
 - [Security](#security)
 - [Artificial Intelligence](#artificial-intelligence)
-- [Computer Graphics & Vision](#computer-graphics-vision)
+- [Computer Graphics](#computer-graphics)
 - [Misc](#misc)
 
 ### Legend
@@ -600,7 +600,7 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 	-  [Previous Years coursepage](http://blogs.ischool.berkeley.edu/i290-abdt-s12/)
 -------
 
-###Security
+### Security
 - [6.857](http://courses.csail.mit.edu/6.857/2015/) **Computer and Network Security** *MIT* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- Emphasis on applied cryptography and may include: basic notion of systems security, crypotographic hash functions, symmetric crypotography (one-time pad, stream ciphers, block ciphers), cryptanalysis, secret-sharing, authentication codes, public-key cryptography (encryption, digital signatures), public-key attacks, web browser security, biometrics, electronic cash, viruses, electronic voting, Assignments include a group final project. Topics may vary year to year.
 	[Lecture Notes](http://courses.csail.mit.edu/6.857/2015/handouts)
@@ -675,8 +675,9 @@ and anti-analysis techniques.
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS6700/2013sp/lectures/CS6700-Overview_v2.pptx)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
 	- [Readings](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
+
 -------
-###Computer Graphics & Vision
+### Computer Graphics
 - [CAP 5415](http://crcv.ucf.edu/courses/CAP5415/) **Computer Vision** *University of Central Florida* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
 	- An introductory level course covering the basic topics of computer vision, and introducing some fundamental approaches for computer vision research.
 	- [Lectures and Videos](http://crcv.ucf.edu/videos/Lecture_Videos/)
@@ -704,6 +705,7 @@ and anti-analysis techniques.
 	- [Syllabus](https://canvas.instructure.com/courses/904706/assignments/syllabus)
 	- [Lectures](https://canvas.instructure.com/courses/904706)
 	- [Assignments](https://canvas.instructure.com/courses/904706/assignments)
+
 -------
 ### Misc
 - [AM 207](http://am207.org/) **Monte Carlo Methods and Stochastic Optimization** *Harvard University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />

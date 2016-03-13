@@ -685,6 +685,11 @@ and anti-analysis techniques.
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS6700/2013sp/lectures/CS6700-Overview_v2.pptx)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
 	- [Readings](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
+- [CS L333](http://www.cse.iitd.ernet.in/~saroj/AI/ai2013/ai_main_13.htm) **Introduction to Artificial Intelligence** *IIT Delhi* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- Introduction to Artificial Intelligence- Problem Solving, Game Playing, Knowledge Representation, Handling uncertainty using probabilistic models and Fuzzy Logic. Expert systems and Intelligent agents. Machine Learning, Soft computing and NLP.
+	- [Lectures](http://www.cse.iitd.ernet.in/~saroj/AI/ai2013/ai_main_13.htm)
+	- [Assignments](http://www.cse.iitd.ernet.in/~saroj/AI/ai2013/ai_main_13.htm)
+	- [Readings](http://www.cse.iitd.ernet.in/~saroj/AI/ai2013/ai_main_13.htm#book)
 
 -------
 ### Computer Graphics

@@ -265,6 +265,13 @@ Courses
   - It covers concepts such as atomicity, safety, liveness and deadlock.
   - It covers how to measure and understand performance and scalability of parallel programs.
   - It covers tools and methods to find bugs in concurrent programs.
+- [CS 143](https://web.stanford.edu/class/cs143/) **Compiler construction** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+	- CS143 is a Stanford's course in the practical and theoretical aspects of compiler construction.
+	- [Home] (https://web.stanford.edu/class/cs143/)
+	- [Syllabus](https://web.stanford.edu/class/cs143/schedule.html)
+	- [Lectures](https://web.stanford.edu/class/cs143/)
+	- [Assignments](https://web.stanford.edu/class/cs143/)
+	- [CS143 - 2011](http://www.keithschwarz.com/cs143/WWW/sum2011/)
 
 -------
 

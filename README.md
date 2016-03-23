@@ -33,9 +33,6 @@ Courses
 
 ### Systems
 
-- [CIS 198](http://cis198-2016s.github.io/) **Rust Programming** *UPenn* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> 
-	- This course covers what makes Rust so unique and applies it to practical systems programming problems. Topics covered include traits and generics; memory safety (move semantics, borrowing, and lifetimes); Rust’s rich macro system; closures; and concurrency.
-	- [Assignments](https://github.com/cis198-2016s/homework)
 - [CS 61C](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/) **Great Ideas in Computer Architecture (Machine Structures)** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- [Lecture Videos](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
  	- [Lecture Notes](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/#Calendar)
@@ -176,6 +173,9 @@ Courses
 	- Explore the joys of functional programming, using Haskell as a vehicle. The aim of the course will be to allow you to use Haskell to easily and conveniently write practical programs.
 	- [Previous](http://www.seas.upenn.edu/~cis194/spring13/index.html) semester also available, with more exercises
 	- [Assignments & Lectures](http://www.seas.upenn.edu/~cis194/lectures.html)
+- [CIS 198](http://cis198-2016s.github.io/) **Rust Programming** *UPenn* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+	- This course covers what makes Rust so unique and applies it to practical systems programming problems. Topics covered include traits and generics; memory safety (move semantics, borrowing, and lifetimes); Rust’s rich macro system; closures; and concurrency.
+	- [Assignments](https://github.com/cis198-2016s/homework)
 - [Clojure](http://mooc.cs.helsinki.fi/clojure) **Functional Programming with Clojure** *University of Helsinki* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
 	- The course is an introduction to functional programming with a dynamically typed language Clojure. We start with an introduction to Clojure; its syntax and development environment. Clojure has a good selection of data structures and we cover most of them. We also go through the basics of recursion and higher-order functions. The course material is in English.
 	- [Github Page](http://iloveponies.github.io/120-hour-epic-sax-marathon/index.html)
@@ -265,6 +265,13 @@ Courses
   - It covers concepts such as atomicity, safety, liveness and deadlock.
   - It covers how to measure and understand performance and scalability of parallel programs.
   - It covers tools and methods to find bugs in concurrent programs.
+- [CS 143](https://web.stanford.edu/class/cs143/) **Compiler construction** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+	- CS143 is a Stanford's course in the practical and theoretical aspects of compiler construction.
+	- [Home] (https://web.stanford.edu/class/cs143/)
+	- [Syllabus](https://web.stanford.edu/class/cs143/schedule.html)
+	- [Lectures](https://web.stanford.edu/class/cs143/)
+	- [Assignments](https://web.stanford.edu/class/cs143/)
+	- [CS143 - 2011](http://www.keithschwarz.com/cs143/WWW/sum2011/)
 
 -------
 
@@ -798,13 +805,13 @@ and anti-analysis techniques.
 	- CS6452 focuses on datacenter networks and services. The emerging demand for web services and cloud computing have created need for large scale data centers. The hardware and software infrastructure for datacenters critically determines the functionality, performance, cost and failure tolerance of applications running on that datacenter. This course will examine design alternatives for both the hardware (networking) infrastructure, and the software infrastructure for datacenters.
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS6452/2012sp/lectures.php)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS6452/2012sp/lectures.php)
-- [CS 6630](http://courses2.cit.cornell.edu/cs5724/) **Realistic Image Synthesis** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-	- This course will cover advanced topics in evolutionary algorithms and their application to open-ended computational design. The field of evolutionary computation tries to address large-scale optimization and planning problems through stochastic population-based methods. It draws inspiration from evolutionary processes in nature and in engineering, and also serves as abstract models for these phenomena. Evolutionary processes are generally weak methods that require little information about the problem domain and hence can be applied across a wide variety of applications. They are especially useful for open-ended problem domains for which little formal knowledge exists and the number of parameters is undefined, such as for the general engineering design process. This course will provide insight to a variety of evolutionary computation paradigms, such as genetic algorithms, genetic programming, and evolutionary strategies, as well as governing dynamics of co-evolution, arms races and mediocre stable states. New methods involving symbiosis models and pattern recognition will also be presented. The material will be intertwined with discussions of representations and results for design problems in a variety of problem domains including software, electronics, and mechanics.
+- [CS 6630](http://www.cs.cornell.edu/courses/CS6630/2012sp/about.stm) **Realistic Image Synthesis** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- CS6630 is an introduction to physics-based rendering at the graduate level. Starting from the fundamentals of light transport we will look at formulations of the Rendering Equation, and a series of Monte Carlo methods, from sequential sampling to multiple importance sampling to Markov Chains, for solving the equation to make pictures. We'll look at light reflection from surfaces and scattering in volumes, illumination from luminaires and environments, and diffusion models for translucent materials. We will build working implementations of many of the algorithms we study, and learn how to make sure they are actually working correctly. It's fun to watch integrals and probability distributions transform into photographs of a slightly too perfect synthetic world.
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS6630/2012sp/about.stm)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS6630/2012sp/schedule.stm)
 	- [Assignments](http://www.cs.cornell.edu/courses/CS6630/2012sp/schedule.stm)
 	- [Readings](http://www.cs.cornell.edu/courses/CS6630/2012sp/schedule.stm)
-- [CS 6640](http://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#) **Realistic Image Synthesis** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+- [CS 6640](http://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#) **Computational Photography** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- A course on the emerging applications of computation in photography. Likely topics include digital photography, unconventional cameras and optics, light field cameras, image processing for photography, techniques for combining multiple images, advanced image editing algorithms, and projector-camera systems.cornell.edu/courses/CS6630/2012sp/about.stm)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#schedule)
 	- [Assignments](http://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#hw)

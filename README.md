@@ -730,6 +730,12 @@ and anti-analysis techniques.
 
 -------
 ### Misc
+- [10-708](http://www.cs.cmu.edu/~epxing/Class/10708-14/index.html) **Probabilistic Graphical Models** *Carnegie Mellon University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+ - Many of the problems in artificial intelligence, statistics, computer systems, computer vision, natural language processing, and computational biology, among many other fields, can be viewed as the search for a coherent global conclusion from local information. The probabilistic graphical models framework provides an unified view for this wide range of problems, enabling efficient inference, decision-making and learning in problems with a very large number of attributes and huge datasets. This graduate-level course will provide you with a strong foundation for both applying graphical models to complex problems and for addressing core research topics in graphical models.
+ - [Lecture Videos](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
+ - [Assignments](http://www.cs.cmu.edu/~epxing/Class/10708-14/homework.html)
+ - [Lecture notes](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
+ - [Readings](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
 - [AM 207](http://am207.org/) **Monte Carlo Methods and Stochastic Optimization** *Harvard University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
   - This course introduces important principles of Monte Carlo techniques and demonstrates the power of these techniques with simple (but very useful) applications. All of this in Python!
   - [Lecture Videos](http://cm.dce.harvard.edu/2015/02/24104/publicationListing.shtml)

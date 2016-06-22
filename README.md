@@ -192,6 +192,13 @@ Courses
 	- Covers functional programming concepts like closures, tail-call recursion & parallelism using the OCaml programming language
 	- [Lectures](http://www.cs.princeton.edu/~dpw/courses/cos326-12/lectures.php)
 	- [Assignments](http://www.cs.princeton.edu/~dpw/courses/cos326-12/assignments.php)
+-  [CS 21b](http://www.cs.brandeis.edu/~cs21b/) **Structure and Interpretation of Computer Programs** *Brandeis University*  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> This introduction to programming language structure and interpretation is based on the largely functional programming
+language Scheme, a simple variant of Lisp. We will look at what programs in this language mean, the
+underlying algorithms (also expressible in Scheme!) which are used to evaluate programs via interpretation and compilation, and how the language might have been defined differently. Along the way, we will talk about how large
+programs are structured, and related questions of programming pragmatics. An important goal of the course is to
+teach students to read programs as well as write them.
+	- [Syllabus](http://www.cs.brandeis.edu/~mairson/Courses/cs21b/factsheet.pdf)
+	- [Lecture Notes/HWs](http://www.cs.brandeis.edu/~cs21b/)
 - [CS 164](https://sites.google.com/a/bodik.org/cs164/home) **Hack your language!** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- Introduction to programming languages by designing and implementing domain-specific languages.
 	- [Lecture Videos](https://www.youtube.com/playlist?list=PL3A16CFC42CA6EF4F)

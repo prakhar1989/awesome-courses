@@ -9,16 +9,16 @@ There is a lot of ~~hidden~~ treasure lying within university pages scattered ac
 Table of Contents
 -----------------
 
-- [Systems](#systems)
-- [Programming Languages / Compilers](#programming-languages--compilers)
 - [Algorithms](#algorithms)
+- [Artificial Intelligence](#artificial-intelligence)
+- [Computer Graphics](#computer-graphics)
 - [CS Theory](#cs-theory)
 - [Introduction to CS](#introduction-to-cs)
 - [Machine Learning](#machine-learning)
-- [Security](#security)
-- [Artificial Intelligence](#artificial-intelligence)
-- [Computer Graphics](#computer-graphics)
 - [Misc](#misc)
+- [Programming Languages / Compilers](#programming-languages--compilers)
+- [Security](#security)
+- [Systems](#systems)
 
 ### Legend
 

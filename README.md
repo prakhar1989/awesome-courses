@@ -19,6 +19,7 @@ Table of Contents
 - [Programming Languages / Compilers](#programming-languages--compilers)
 - [Security](#security)
 - [Systems](#systems)
+- [Signal Processing](#electricalengineering)
 
 ### Legend
 
@@ -910,3 +911,20 @@ and anti-analysis techniques.
 	- **Parts**: Some Classics, Persistent Storage, Concurrency, Higher-Level Models, Virtual Machines, Cloud Computing, Parallel and Distributed Computing, Potpourri.   
 	- Prerequisites: The historical prerequisite was to pass an entrance exam in class, which covered undergraduate operating systems material (similar to [UCB's CS162](https://cs162.eecs.berkeley.edu/)). There is no longer an exam. However, if you have not already taken a decent undergrad OS class, you should talk with me before taking this class. The exam had the benefit of "paging in" the undergrad material, which may have been its primary value (since the pass rate was high).
 	- [Readings & Lectures](http://www.cs.berkeley.edu/~brewer/cs262/)
+
+### Systems
+
+- [EE 263](http://ee263.stanford.edu/archive/) **Linear Dynamical Systems** *Stanford* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Vide
+os" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments"
+ title="Assignments" />
+	- Introduction to applied linear algebra and linear dynamical systems, with applications to circuits, signal processing, communications, and control systems. Topics include: Least-squares aproximations of over-determined equations and least-norm solutions of underdetermined equations. Symmetric matrices, matrix norm and singular value decomposition. Eigenvalues, left and right eigenvectors, and dynamical interpretation. Matrix exponential, stability, and asymptotic behavior. Multi-input multi-output systems, impulse and step matrices; convolution and transfer matrix descriptions. Control, reachability, state transfer, and least-norm inputs. Observability and least-squares state estimation. EE263 covers some of the same topics, but is complementary to, CME200.
+	- Exposure to linear algebra and matrices (as in Math. 103). You should have seen the following topics: matrices and vectors, (introductory) linear algebra; differential equations, Laplace transform, transfer functions. Exposure to topics such as control systems, circuits, signals and systems, or dynamics is not required, but can increase your appreciation.
+	- [Videos & Assignments](http://ee263.stanford.edu/archive/)
+
+- [EE 261](https://see.stanford.edu/Course/EE261) **The Fourier Transform and its Applications** *Stanford* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" h
+eight="20" alt="Assignments" title="Assignments" />
+	- Topics include: The Fourier transform as a tool for solving physical problems. Fourier series, the Fourier transform of continuous and discrete signals and its properties. The Dirac delta, distributions, and generalized transforms. Convolutions and correlations and applications; probability distributions, sampling theory, filters, and analysis of linear systems. The discrete Fourier transform and the FFT algorithm. Multidimensional Fourier transform and use in imaging. Further applications to optics, crystallography. Emphasis is on relating the theoretical principles to solving practical engineering and science problems.
+	- [Videos & Assignments](https://see.stanford.edu/Course/EE261)
+
+
+

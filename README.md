@@ -231,7 +231,7 @@ Courses
 	- [Assignments](http://www.cs.cornell.edu/courses/CS4120/2013fa/homework.html)
 - [CS 4400](https://pl.barzilay.org/) **Programming Languages** *Northeastern University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- This is a course on the study, design, and implementation of programming languages.
-	- The course works at two simultaneous levels: first, we will use a programming language that can 	demonstrate a wide variety of programming paradigms. Second, using this language, we will learn about the mechanics behind programming languages by implementing our own language(s). The two level approach usually means that we will often see how to use a certain feature, and continue by implementing it.
+	- The course works at two simultaneous levels: first, we will use a programming language that can demonstrate a wide variety of programming paradigms. Second, using this language, we will learn about the mechanics behind programming languages by implementing our own language(s). The two level approach usually means that we will often see how to use a certain feature, and continue by implementing it.
 	- [Syllabus](https://pl.barzilay.org/syllabus.html)
 	- [Lecture Notes/Resources](https://pl.barzilay.org/resources.html)
 	- [Homework](https://pl.barzilay.org/homeworks.html)
@@ -278,11 +278,15 @@ Courses
   - It covers tools and methods to find bugs in concurrent programs.
 - [CS 143](https://web.stanford.edu/class/cs143/) **Compiler construction** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
 	- CS143 is a Stanford's course in the practical and theoretical aspects of compiler construction.
-	- [Home] (https://web.stanford.edu/class/cs143/)
+	- [Home](https://web.stanford.edu/class/cs143/)
 	- [Syllabus](https://web.stanford.edu/class/cs143/schedule.html)
 	- [Lectures](https://web.stanford.edu/class/cs143/)
 	- [Assignments](https://web.stanford.edu/class/cs143/)
 	- [CS143 - 2011](http://www.keithschwarz.com/cs143/WWW/sum2011/)
+- [6.945](https://groups.csail.mit.edu/mac/users/gjs/6.945/index.html) **Adventures in Advanced Symbolic Programming** *MIT* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- Taught by Gerald Sussman of SICP fame, this class deals with concepts and techniques for the design an implementation of large software systems that can be adapted to uses not anticipated by the designer. Applications include compilers, computer-algebra systems, deductive systems, and some artificial intelligence applications.
+	- [Assignments](https://groups.csail.mit.edu/mac/users/gjs/6.945/assignments.html): Extensive programming assignments, using MIT/GNU Scheme. Students should have significant programming experience in Scheme, Common Lisp, Haskell, CAML or other "functional" language.
+	- [Readings](https://groups.csail.mit.edu/mac/users/gjs/6.945/readings/)
 
 -------
 

@@ -767,11 +767,11 @@ and anti-analysis techniques.
 
 -------
 ### Misc
-- [AM 207](http://am207.org/) **Monte Carlo Methods and Stochastic Optimization** *Harvard University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+- [AM 207](http://am207.github.io/2016/index.html) **Monte Carlo Methods and Stochastic Optimization** *Harvard University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
   - This course introduces important principles of Monte Carlo techniques and demonstrates the power of these techniques with simple (but very useful) applications. All of this in Python!
   - [Lecture Videos](http://cm.dce.harvard.edu/2015/02/24104/publicationListing.shtml)
-  - [Assignments](http://am207.github.io/2015/homework.html)
-  - [Lecture Notes](http://am207.github.io/2015/lectures.html)
+  - [Assignments](http://am207.github.io/2016/homework.html)
+  - [Lecture Notes](http://am207.github.io/2016/lectures.html)
 - [CS 75](http://ocw.tufts.edu/Course/75)  **Introduction to Game Development** *Tufts University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- The course taught by [Ming Y. Chow](http://mchow01.github.io) teaches game development initially in PyGame through Python, before moving on to addressing all facets of game development. Topics addressed include game physics, sprites, animation, game development methodology, sound, testing, MMORPGs and online games, and addressing mobile development in Android, HTML5, and iOS. Most to all of the development is focused on PyGame for learning principles
 	- [Text Lectures](http://ocw.tufts.edu/Course/75/Learningunits)

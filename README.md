@@ -941,3 +941,4 @@ and anti-analysis techniques.
 	- **Parts**: Some Classics, Persistent Storage, Concurrency, Higher-Level Models, Virtual Machines, Cloud Computing, Parallel and Distributed Computing, Potpourri.   
 	- Prerequisites: The historical prerequisite was to pass an entrance exam in class, which covered undergraduate operating systems material (similar to [UCB's CS162](https://cs162.eecs.berkeley.edu/)). There is no longer an exam. However, if you have not already taken a decent undergrad OS class, you should talk with me before taking this class. The exam had the benefit of "paging in" the undergrad material, which may have been its primary value (since the pass rate was high).
 	- [Readings & Lectures](http://www.cs.berkeley.edu/~brewer/cs262/)
+        - [Algorithmic Thinking, Peak Finding] (https://youtu.be/HtSuA80QTyo?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)

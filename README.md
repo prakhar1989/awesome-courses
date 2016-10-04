@@ -691,7 +691,7 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS5430/2013sp/01.intro.html)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS5430/2013sp/02.outline.html)
 	- [Assignments](http://www.cs.cornell.edu/courses/CS5430/2013sp/)
-- [CSCI 4976](https://github.com/RPISEC/MBE) **Modern Binary Exploitation** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+- [CSCI 4968](https://github.com/RPISEC/MBE) **Modern Binary Exploitation** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
 	- This repository contains the materials as developed and used by [RPISEC](http://rpis.ec) to
 teach Modern Binary Exploitation at [Rensselaer Polytechnic Institute](http://rpi.edu) in
 Spring 2015. This was a university course developed and run solely by students to teach

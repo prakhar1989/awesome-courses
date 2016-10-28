@@ -568,6 +568,8 @@ Courses
 	- [Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures)
 	- [Textbook](http://mitpress.mit.edu/sicp/full-text/book/book.html) ([epub](https://github.com/sarabander/sicp), [pdf](https://github.com/sarabander/sicp-pdf))
 	- [IDE](http://www.neilvandyke.org/racket-sicp/)
+- [6.00.1x8](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-8) **Introduction to Computer Science and Programming Using Python** *MIT* 
+	- This course is the first of a two-course sequence: Introduction to Computer Science and Programming Using Python, and Introduction to Computational Thinking and Data Science. Together, they are designed to help people with no prior exposure to computer science or programming learn to think computationally and write programs to tackle useful problems. Some of the people taking the two courses will use them as a stepping stone to more advanced computer science courses, but for many it will be their first and last computer science courses. 
 
 -------
 

@@ -682,6 +682,12 @@ Topics covered include probability theory and Bayesian inference; univariate dis
     - [Readings](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
 - [11-785](http://deeplearning.cs.cmu.edu/) **Deep Learning** *Carnegie Mellon University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- The course presents the subject through a series of seminars and labs, which will explore it from its early beginnings, and work themselves to some of the state of the art. The seminars will cover the basics of deep learning and the underlying theory, as well as the breadth of application areas to which it has been applied, as well as the latest issues on learning from very large amounts of data. We will concentrate largely, although not entirely, on the connectionist architectures that are most commonly associated with it. *Lectures* and *Reading Notes* are available on the page.
+- [CS246](http://web.stanford.edu/class/cs246/) **Mining Massive Data Sets** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- The course will discuss data mining and machine learning algorithms for analyzing very large amounts of data. The emphasis will be on Map Reduce as a tool for creating parallel algorithms that can process very large amounts of data.
+	- [Lecture Videos](http://www.mmds.org/#mooc)
+	- [Assignments](http://web.stanford.edu/class/cs246/handouts.html)
+	- [Lecture notes](http://web.stanford.edu/class/cs246/handouts.html)
+	- [Readings](http://www.mmds.org/#book)
 -------
 
 ### Security

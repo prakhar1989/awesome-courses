@@ -688,6 +688,7 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 	- [Assignments](http://web.stanford.edu/class/cs246/handouts.html)
 	- [Lecture notes](http://web.stanford.edu/class/cs246/handouts.html)
 	- [Readings](http://www.mmds.org/#book)
+
 -------
 
 ### Security

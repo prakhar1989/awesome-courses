@@ -581,6 +581,10 @@ Courses
 	- [Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures)
 	- [Textbook](http://mitpress.mit.edu/sicp/full-text/book/book.html) ([epub](https://github.com/sarabander/sicp), [pdf](https://github.com/sarabander/sicp-pdf))
 	- [IDE](http://www.neilvandyke.org/racket-sicp/)
+- [6.005](http://web.mit.edu/6.005/www/fa16/) **Software Construction, Fall 2016** *MIT* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	- This course introduces fundamental principles and techniques of software development. Students learn how to write software that is safe from bugs, easy to understand, and ready for change. Topics include specifications and invariants; testing, test-case generation, and coverage; state machines; abstract data types and representation independence; design patterns for object-oriented programming; concurrent programming, including message passing and shared concurrency, and defending against races and deadlock; and functional programming with immutable data and higher-order functions.
+	- [Lectures Notes/Assignments](http://web.mit.edu/6.005/www/fa16/)
+
 
 -------
 

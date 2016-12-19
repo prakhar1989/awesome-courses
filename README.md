@@ -195,6 +195,9 @@ Courses
 	- Modelled after the influential paper on [incremental approach to compiler design](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf), this course teaches how to build a compiler in OCaml
 	- [Course on Github](https://github.com/compilers-course-materials)
 	- [Notes](https://github.com/compilers-course-materials/cs75-s16-lectures)
+- [CS 91](https://www.cs.swarthmore.edu/~jpolitz/cs91/s15/index.html) **Introduction to Programming Languages** *Swathmore College* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+	- Uses the [Pyret](https://www.pyret.org/) programming language & [PAPL](http://papl.cs.brown.edu/2014/) book to understand the fundamentals of programming languages.
+	- [Labs](https://www.cs.swarthmore.edu/~jpolitz/cs91/s15/s_labs.html)
 - [CIS 194](http://www.seas.upenn.edu/~cis194/) **Introduction to Haskell** *Penn Engineering* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- Explore the joys of functional programming, using Haskell as a vehicle. The aim of the course will be to allow you to use Haskell to easily and conveniently write practical programs.
 	- [Previous](http://www.seas.upenn.edu/~cis194/spring13/index.html) semester also available, with more exercises

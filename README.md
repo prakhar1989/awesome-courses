@@ -310,6 +310,9 @@ Courses
 	- Covers functional programming basis using Clojure.
 	- Topics include testing, functional programming, immutable collections and concurrency.
 	- Also includes assignments covering Clojurescript, [Reagent](Reagent Github) etc.
+- [L28](https://www.cl.cam.ac.uk/teaching/1516/L28/) **Advanced Functional Programming** *University of Cambridge*  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- This module aims to teach students how to use the features of modern typed functional programming languages (e.g. OCaml, Haskell) to design and implement libraries and DSLs. It aims to demonstrate how such techniques can improve both correctness and efficiency. Students wishing to take the module should have some experience of a typed functional programming language and an understanding of type inference.
+	- This particular session was taught by a prominent OCaml programmer, open Source contributor & author of real world OCaml - Dr Anil Madhavapeddy.
 
 -------
 

@@ -708,6 +708,10 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 	- [Assignments](http://web.stanford.edu/class/cs246/handouts.html)
 	- [Lecture notes](http://web.stanford.edu/class/cs246/handouts.html)
 	- [Readings](http://www.mmds.org/#book)
+- [CS276](http://web.stanford.edu/class/cs276/index.html) **Information Retrieval and Web Search** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- Basic and advanced techniques for text-based information systems: efficient text indexing; Boolean and vector space retrieval models; evaluation and interface issues; Web search including crawling, link-based algorithms, and Web metadata; text/Web clustering, classification; text mining.
+	- [Lecture notes](http://web.stanford.edu/class/cs276/index.html#syllabus)
+	- [Readings](http://web.stanford.edu/class/cs276/index.html#books)
 
 -------
 

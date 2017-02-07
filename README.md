@@ -605,6 +605,10 @@ Courses
 
 ### Machine Learning
 
+- [DEEPNLP](https://github.com/oxford-cs-deepnlp-2017/) **Deep Learning for Natural Language Processing** *University of Oxford* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	- This is an applied course focussing on recent advances in analysing and generating speech and text using recurrent neural networks. We introduce the mathematical definitions of the relevant machine learning models and derive their associated optimisation algorithms. The course covers a range of applications of neural networks in NLP including analysing latent dimensions in text, transcribing speech to text, translating between languages, and answering questions. This course is organised by Phil Blunsom and delivered in partnership with the **DeepMind Natural Language Research Group**.
+	- [Lectures](https://github.com/oxford-cs-deepnlp-2017/lectures)
+	- Assignments are available on the organisation page titled as "practicals"
 - [COMS 4771](http://www.cs.columbia.edu/~jebara/4771/index.html) **Machine Learning** *Columbia University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- Course taught by [Tony Jebara](http://www.cs.columbia.edu/~jebara/resume.html) introduces topics in Machine Learning for both generative and discriminative estimation. Material will include least squares methods, Gaussian distributions, linear classification, linear regression, maximum likelihood, exponential family distributions, Bayesian networks, Bayesian inference, mixture models, the EM algorithm, graphical models, hidden Markov models, support vector machines, and kernel methods.
 	- [Lectures and Assignments](http://www.cs.columbia.edu/~jebara/4771/handouts.html)

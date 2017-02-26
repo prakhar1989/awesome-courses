@@ -135,21 +135,12 @@ Courses
 <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
 	- Learn techniques for profiling, rearchitecting, and implementing software systems that can handle industrial-sized inputs, and to design and build critical software infrastructure. Learn performance optimization through parallelization, multithreading, async I/O, vectorization and GPU programming, and distributed computing.
 	- [Lecture slides](https://github.com/patricklam/p4p-2015/tree/master/lectures)
-- [MAE 6740](http://verifiablerobotics.com/courses/mae6740.html) **Hybrid Systems** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-	- This course will discuss the modeling of hybrid systems, the analysis and simulation of their behavior, different control methodologies as well as verification techniques. To complement the theoretical aspect, several state of the art tools will be introduced. New and emerging topics in hybrid systems research will be presented as well. As the field of hybrid systems is a truly interdisciplinary one, drawing researchers from dynamical systems, control theory, computer aided verification, automata theory and other fields, one of the goals of this course is to teach students the language that will allow them to bridge the gap between these traditionally disjoint disciplines.
-	- [Lectures](http://verifiablerobotics.com/courses/mae6740.html)
-	- [Readings](http://verifiablerobotics.com/courses/mae6740.html)
 - [PODC](http://dcg.ethz.ch/lectures/podc_allstars/) **Principles of Distributed Computing** *ETH-Zurich* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- Explore essential algorithmic ideas and lower bound techniques, basically the "pearls" of distributed computing in an easy-to-read set of lecture notes, combined with complete exercises and solutions.
 	- [Book](http://dcg.ethz.ch/lectures/podc_allstars/lecture/podc.pdf)
 	- [Assignments and Solutions](http://dcg.ethz.ch/lectures/podc_allstars/)
 - [SPAC](http://homes.cs.washington.edu/~djg/teachingMaterials/spac/) **Parallelism and Concurrency** *Univ of Washington* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- Technically not a course nevertheless an awesome collection of materials used by Prof Dan Grossman to teach parallelism and concurrency concepts to sophomores at UWash
-- [VU:Distributed Systems](http://www.distributed-systems.net/index.php?id=distributed-systems-principles-and-paradigms) **Distributed Systems: Principles and Paradigms (Fall 2012)** *Vrije Universiteit, Amsterdam* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
-	- Distributed systems often appear to be highly complex and intertwined networked systems. Touching one component often affects many others in surprising ways. In this course, we aim at explaining the basics of distributed systems by systematically taking different perspectives, and subsequently bringing these perspectives together by looking at often-applied organizations of distributed systems. This course closely follows the timeless classic <b>Distributed Systems: Principles and Paradigms</b> by some of the pioneers in the field of Distributes systems-Andrew S. Tanenbaum and Maarten van Steen
-	- [Slides](http://www.distributed-systems.net/courses/ds/ds-slides/)
-	- [Video lectures](http://www.distributed-systems.net/courses/ds/ds-screencasts/)
-	- [Exams](http://www.distributed-systems.net/courses/ds/ds-exams/)
 - [6.824](http://css.csail.mit.edu/6.824/2014/index.html) **Distributed Systems** *MIT* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- MIT's graduate-level DS course with a focus on fault tolerance, replication, and consistency, all taught via awesome lab assignments in Golang!
 	- [Assignments](http://css.csail.mit.edu/6.824/2014/labs/) - Just do `git clone git://g.csail.mit.edu/6.824-golabs-2014 6.824`
@@ -205,7 +196,6 @@ Courses
 - [CIS 194](http://www.seas.upenn.edu/~cis194/) **Introduction to Haskell** *Penn Engineering* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- Explore the joys of functional programming, using Haskell as a vehicle. The aim of the course will be to allow you to use Haskell to easily and conveniently write practical programs.
 	- [Previous](http://www.seas.upenn.edu/~cis194/spring13/index.html) semester also available, with more exercises
-	- [Assignments & Lectures](http://www.seas.upenn.edu/~cis194/lectures.html)
 - [CIS 198](http://cis198-2016s.github.io/) **Rust Programming** *UPenn* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
 	- This course covers what makes Rust so unique and applies it to practical systems programming problems. Topics covered include traits and generics; memory safety (move semantics, borrowing, and lifetimes); Rust’s rich macro system; closures; and concurrency.
 	- [Assignments](https://github.com/cis198-2016s/homework)
@@ -223,7 +213,7 @@ Courses
 - [CS 143](https://web.stanford.edu/class/cs143/) **Compiler construction** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
 	- CS143 is a Stanford's course in the practical and theoretical aspects of compiler construction.
 	- [Home](https://web.stanford.edu/class/cs143/)
-	- [Syllabus](https://web.stanford.edu/class/cs143/schedule.html)
+	- [Syllabus](https://web.stanford.edu/class/cs143/syllabus.html)
 	- [Lectures](https://web.stanford.edu/class/cs143/)
 	- [Assignments](https://web.stanford.edu/class/cs143/)
 	- [CS143 - 2011](http://www.keithschwarz.com/cs143/WWW/sum2011/)
@@ -263,7 +253,6 @@ Courses
 	- The course works at two simultaneous levels: first, we will use a programming language that can demonstrate a wide variety of programming paradigms. Second, using this language, we will learn about the mechanics behind programming languages by implementing our own language(s). The two level approach usually means that we will often see how to use a certain feature, and continue by implementing it.
 	- [Syllabus](https://pl.barzilay.org/syllabus.html)
 	- [Lecture Notes/Resources](https://pl.barzilay.org/resources.html)
-	- [Homework](https://pl.barzilay.org/homeworks.html)
 - [CS 4610](http://www.cs.virginia.edu/~weimer/4610/) **Programming Languages and Compilers** *University of Virginia* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- Course that uses OCaml to teach functional programming and programming language design. Each assignment is a part of an interpreter and compiler for an object-oriented language similar to Java, and you are required to use a different language for each assignment (i.e., choose 4 from Python, JS, OCaml, Haskell, Ruby).
 	- [Lecture Notes](http://www.cs.virginia.edu/~weimer/4610/lectures.html)
@@ -321,7 +310,7 @@ Courses
 
 ### Algorithms
 
-- [CS 61B](http://cs61b.ug/sp16/) **Data Structures** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+- [CS 61B](http://datastructur.es/sp16/) **Data Structures** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- In this course, you will study advanced programming techniques including data structures, encapsulation, abstract data types, interfaces, and algorithms for sorting and searching, and you will get a taste of “software engineering”—the design and implementation of large programs.
 	- [Full Lecture Materials](http://datastructur.es/sp16/) Lecture of Spring 2016. This website contains full matrials including video links, labs, homeworks, projects. Very good for self-learner. Also a good start for Java. And it includes some other usefull resources for Java Documentation, Data Structure Resources, Git/GitHub and Java Development Resources. [Resources](http://datastructur.es/sp16/resources.html)
 	- [Labs](http://www.cs.berkeley.edu/~jrs/61b/lab/index.html) The link to labs and projects is included in the website.
@@ -503,7 +492,7 @@ Courses
 	- In CS 61A, we are interested in teaching you about programming, not about how to use one particular 	programming language. We consider a series of techniques for controlling program complexity, such as functional programming, data abstraction, and object-oriented programming. Mastery of a particular programming language is a very useful side effect of studying these general techniques. However, our hope is that once you have learned the essence of programming, you will find that picking up a new programming language is but a few days' work.
 	- [Lecture Resources by Type](http://cs61a.org/by_type.html)
 	- [Lecture Resources by Topic](http://cs61a.org/by_topic.html)
-	- [Additional Resources](http://cs61a.org/resources.html)
+	- [Additional Resources](http://cs61a.org/articles/resources.html)
 	- [Practice Problems](http://cs61a.org/problems/)
 	- [Extra Lectures](http://cs61a.org/extra.html)
 - [CS 61AS](http://berkeley-cs61as.github.io/) **Structure & Interpretation of Computer Programs [Racket]** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
@@ -965,7 +954,7 @@ and anti-analysis techniques.
 	- [GitHub ](http://ucsb-bren.github.io/esm296-4f/) (includes lecture materials and labs)
 - [ICS 314](http://philipmjohnson.github.io/ics314f13/) **Software Engineering** *University of Hawaii*  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- Taught by [Philip Johnson](http://philipmjohnson.org/)
-	- Introduction to software engineering using the ["Athletic Software Engineering" pedagogy](http://philipmjohnson.org/2013/12/16/athletic-software-engineering-education-initial-results/)
+	- Introduction to software engineering using the ["Athletic Software Engineering" pedagogy](http://philipmjohnson.org/essays/ase-initial-results.html)
 	- [Readings](http://philipmjohnson.github.io/ics314f13/readings/)
 	- [Experiences](http://philipmjohnson.github.io/ics314f13/experiences/)
 	- [Assessments](http://philipmjohnson.github.io/ics314f13/assessments/)

@@ -258,7 +258,7 @@ Courses
 	- [Lecture Notes](http://www.cs.virginia.edu/~weimer/4610/lectures.html)
 	- [Assignments](http://www.cs.virginia.edu/~weimer/4610/pa.html)
 - [CS 5114](http://www.cs.cornell.edu/courses/CS5114/2013sp/index.php) **Network Programming Languages** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-	- An introduction to the specification and implementation of modern compilers. Topics covered include lexical scanning, parsing, type checking, code generation and translation, an introduction to optimization, and compile-time and run-time support for modern programming languages.  As part of the course, students build a working compiler for an object-oriented language.
+	- This course provides an introduction to the languages used to program computer networks. It will examine recent proposals based on logic, functional, and distributed languages, as well as tools for establishing correctness using automatic solvers, model checkers, and proof assistants.
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS5114/2013sp/syllabus.php)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS5114/2013sp/syllabus.php)
 - [CS 5142](http://www.cs.cornell.edu/courses/CS5142/2013fa/) **Scripting Languages** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />

@@ -38,8 +38,7 @@ Courses
  	- [Lecture Notes](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/#Calendar)
 	- [Resources](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/#Resources)
 	- [Old Exams](https://hkn.eecs.berkeley.edu/exams/course/CS/61C)
-- [CS 107](https://courseware.stanford.edu/pg/courses/lectures/371747) **Computer Organization & Systems** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />
-<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+- [CS 107](https://courseware.stanford.edu/pg/courses/lectures/371747) **Computer Organization & Systems** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
 	- CS107 is the third course in Stanford's introductory programming sequence. The course will work from the C programming language down to the microprocessor to de-mystify the machine. With a complete understanding of how computer systems execute programs and manipulate data, you will become a more effective programmer, especially in dealing with issues of debugging, performance, portability, and robustness.
 	- [Lecture Videos](https://www.youtube.com/playlist?list=PL08D9FA018A965057&spfreload=10)
 	- [Assignments](http://web.stanford.edu/class/cs107/assignments.html)
@@ -101,8 +100,7 @@ Courses
 	- A course (that) covers topics including: Analysis process communication and synchronization; resource management; virtual memory management algorithms; file systems; and networking and distributed systems. The primary goal of this course is to improve your ability to build scalable, robust and secure computing systems. It focuses on doing that by understanding what underlies the core abstractions of modern computer systems.
 	- [Syllabus](http://rust-class.org/pages/syllabus.html)
 	- [Lectures](http://rust-class.org/pages/classes.html)
-- [CS 5412](http://www.cs.cornell.edu/Courses/CS5412/2014sp/) **Cloud Computing** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
-<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+- [CS 5412](http://www.cs.cornell.edu/Courses/CS5412/2014sp/) **Cloud Computing** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- Taught by one of the stalwarts of this field, Prof Ken Birman, this course has a fantastic set of slides that one can go through. The Prof's [book](http://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance/dp/1447124154) is also a gem and recommended as a must read in Google's tutorial on [Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 	- [Slides](http://www.cs.cornell.edu/Courses/CS5412/2014sp/Syllabus.htm)
 - [CSCE 3613](http://comp.uark.edu/~wingning/csce3613/csce3613.html) **Operating Systems** *University of Arkansas (Fayetteville)* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />	- An introduction to operating systems including topics in system structures, process management, storage management, files, distributed systems, and case studies.
@@ -117,11 +115,9 @@ Courses
     - [Old Exams](http://www.cs.nyu.edu/~mwalfish/classes/15sp/exams.html) 
 - [CSCI 360](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/csci360_f14.php) **Computer Architecture 3** *CUNY Hunter College* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	-  A course that covers cache design, buses, memory hierarchies, processor-peripheral interfaces, and multiprocessors, including GPUs.
-- [CSCI 493.66](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.66/csci493.66_spr12.php) **UNIX System Programming (formerly UNIX Tools)** *CUNY Hunter College* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
-<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+- [CSCI 493.66](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.66/csci493.66_spr12.php) **UNIX System Programming (formerly UNIX Tools)** *CUNY Hunter College* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- A course that is mostly about writing programs against the UNIX API, covering all of the basic parts of the kernel interface and libraries, including files, processes, terminal control, signals, and threading.
-- [CSCI 493.75](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php) **Parallel Computing** *CUNY Hunter College* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
-<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+- [CSCI 493.75](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php) **Parallel Computing** *CUNY Hunter College* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- The course is an introduction to parallel algorithms and parallel programming in C and C++, using the Message Passing Interface (MPI) and the OpenMP application programming interface. It also includes a brief introduction to parallel architectures and interconnection networks. It is both theoretical and practical, including material on design methodology, performance analysis, and mathematical concepts, as well as details on programming using MPI and OpenMP.
 - [Hack the Kernel](https://www.ops-class.org/) **Introduction to Operating Systems** *SUNY University at Buffalo, NY* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- This course is an introduction to operating system design and implementation. We study operating systems because they are examples of mature and elegant solutions to a difficult design problem: how to safely and efficiently share system resources and provide abstractions useful to applications.
@@ -131,8 +127,7 @@ Courses
 	- [Video lectures](https://www.youtube.com/playlist?list=PLE6LEE8y2Jp-kbEcVR2W3vfx0Pdca0BD3)
 	- [Assignments](https://www.ops-class.org/asst/0/)
 	- [Old Exams](https://www.ops-class.org/exams/)
-- [ECE 459](http://patricklam.ca/p4p/) **Programming for Performance** *University of Waterloo* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
-<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+- [ECE 459](http://patricklam.ca/p4p/) **Programming for Performance** *University of Waterloo* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
 	- Learn techniques for profiling, rearchitecting, and implementing software systems that can handle industrial-sized inputs, and to design and build critical software infrastructure. Learn performance optimization through parallelization, multithreading, async I/O, vectorization and GPU programming, and distributed computing.
 	- [Lecture slides](https://github.com/patricklam/p4p-2015/tree/master/lectures)
 - [PODC](http://dcg.ethz.ch/lectures/podc_allstars/) **Principles of Distributed Computing** *ETH-Zurich* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
@@ -180,9 +175,7 @@ Courses
 	- Very comprehensive material on Computer Architecture - definitely more than just "introduction". Online material is very user-friendly, even the recitation videos available online. This is the Spring'14 version by Prof. [Onur Mutlu ](http://users.ece.cmu.edu/~omutlu/)
 	- [Lectures and Recitation](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule)
 	- [Homeworks](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=homeworks) 7 HWs with answer set as well
-	- [Readings] (http://www.ece.cmu.edu/~ece447/s14/doku.php?id=readings)
-
--------
+	- [Readings](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=readings)
 
 ### Programming Languages / Compilers
 

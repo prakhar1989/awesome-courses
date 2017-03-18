@@ -76,10 +76,10 @@ Courses
 	- [Labs](https://courses.engr.illinois.edu/cs241/sp2016/labs.html)
 	- [Github Page](http://angrave.github.io/sys/#)
 	- [Crowd Sourced Book](https://github.com/angrave/SystemProgramming/wiki)
-- [CS 425](https://courses.engr.illinois.edu/cs425/fa2014/index.html) **Distributed Systems** *Univ of Illinois, Urbana-Champaign* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-	- Brilliant set of lectures and reading material covering fundamental concepts in distributed systems such as Vector clocks, Consensus and Paxos. This is the 2014 version by Prof Indranil Gupta.
-	- [Lectures](https://courses.engr.illinois.edu/cs425/fa2014/lectures.html)
-	- [Assignments](https://courses.engr.illinois.edu/cs425/assignments.html)
+- [CS 425](https://courses.engr.illinois.edu/cs425/fa2016/index.html) **Distributed Systems** *Univ of Illinois, Urbana-Champaign* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- Brilliant set of lectures and reading material covering fundamental concepts in distributed systems such as Vector clocks, Consensus and Paxos. This is the 2016 version by Prof Indranil Gupta.
+	- [Lectures](https://courses.engr.illinois.edu/cs425/fa2016/lectures.html)
+	- [Assignments](https://courses.engr.illinois.edu/cs425/fa2016/assignments.html)
 - [CS 452](http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/) **Real-Time Programming** *University of Waterloo*  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- Write a real-time OS microkernel in C, and application code to operate a model train set in response to real-time sensor information. The communication with the train set runs at 2400 baud so it takes about 61 milliseconds to ask all of the sensors for data about the train's possible location.  This makes it particularly challenging because a train can move about 3 centimeters in that time. One of the most challenging and time-consuming courses at the University of Waterloo.
 	- [Assignments](http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/assignments/index.html)

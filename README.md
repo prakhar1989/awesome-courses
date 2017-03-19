@@ -171,11 +171,34 @@ Courses
 - [15-749](http://www.andrew.cmu.edu/course/15-749/) **Engineering Distributed Systems** *Carnegie-Mellon University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />	
  	- A project focused course on Distributed Systems with an awesome list of readings
 	- [Readings](http://www.andrew.cmu.edu/course/15-749/READINGS/)
-- [18-447](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=start) **Introduction to Computer Architecture** *CMU* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-	- Very comprehensive material on Computer Architecture - definitely more than just "introduction". Online material is very user-friendly, even the recitation videos available online. This is the Spring'14 version by Prof. [Onur Mutlu ](http://users.ece.cmu.edu/~omutlu/)
-	- [Lectures and Recitation](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule)
-	- [Homeworks](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=homeworks) 7 HWs with answer set as well
-	- [Readings](http://www.ece.cmu.edu/~ece447/s14/doku.php?id=readings)
+- [18-447](https://www.ece.cmu.edu/~ece447/s15/doku.php?id=start) **Introduction to Computer Architecture** *CMU* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- Very comprehensive material on Computer Architecture - definitely more than just "introduction". Online material is very user-friendly, even the recitation videos available online. This is the Spring'15 version by Prof. [Onur Mutlu ](http://users.ece.cmu.edu/~omutlu/)
+	- [Lectures and Recitation](https://www.ece.cmu.edu/~ece447/s15/doku.php?id=schedule)
+	- [Homeworks](https://www.ece.cmu.edu/~ece447/s15/doku.php?id=homeworks) 7 HWs with answer set as well
+	- [Readings](https://www.ece.cmu.edu/~ece447/s15/doku.php?id=readings)
+- [VU:Distributed Systems](http://www.distributed-systems.net/index.php?id=distributed-systems-principles-and-paradigms) **Distributed Systems: Principles and Paradigms (Fall 2012)** *Vrije Universiteit, Amsterdam* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	- Distributed systems often appear to be highly complex and intertwined networked systems. Touching one component often affects many others in surprising ways. In this course, we aim at explaining the basics of distributed systems by systematically taking different perspectives, and subsequently bringing these perspectives together by looking at often-applied organizations of distributed systems. This course closely follows the timeless classic <b>Distributed Systems: Principles and Paradigms</b> by some of the pioneers in the field of Distributes systems-Andrew S. Tanenbaum and Maarten van Steen
+	- [Slides](http://www.distributed-systems.net/courses/ds/ds-slides/)
+	- [Video lectures](http://www.distributed-systems.net/courses/ds/ds-screencasts/)
+	- [Exams](http://www.distributed-systems.net/courses/ds/ds-exams/)
+
+- [CSE 421/521 Spring 2016:ops-class.org](https://www.ops-class.org/courses/buffalo/CSE421_Spring2016/) **Introduction to Operating Systems** *SUNY University at Buffalo, NY* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	- This course is an introduction to operating system design and implementation. We study operating systems because they are examples of mature and elegant solutions to a difficult design problem: how to safely and efficiently share system resources and provide abstractions useful to applications.
+	- For the processor, memory, and disks, we discuss how the operating system allocates each resource and explore the design and implementation of related abstractions. We also establish techniques for testing and improving system performance and introduce the idea of hardware virtualization. Programming assignments provide hands-on experience with implementing core operating system components in a realistic development environment. Course by [Dr.Geoffrey Challen](https://blue.cse.buffalo.edu/people/gwa/)
+
+	- [Syllabus](https://www.ops-class.org/courses/buffalo/CSE421_Spring2016/)
+	- [Slides](https://www.ops-class.org/slides/)
+	- [Video lectures](https://www.youtube.com/playlist?list=PLE6LEE8y2Jp-kbEcVR2W3vfx0Pdca0BD3)
+	- [Assignments](https://www.ops-class.org/asst/0/)
+	- [Old Exams](https://www.ops-class.org/exams/)
+
+- [CSCI-UA.0202: Operating Systems (Undergrad)](http://www.cs.nyu.edu/~mwalfish/classes/15sp/index.html) **Operating Systems** *NYU* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> 
+        - NYU's operating system course. It's a fundamental course focusing basic ideas of operating systems, including memory management, process shceduling, file system, ect. It also includes some recomended reading materials. What's more, there are a series of hands-on lab materials, helping you easily understand OS.
+	- [Assignments](http://www.cs.nyu.edu/~mwalfish/classes/15sp/labs.html)
+	- [Lectures](http://www.cs.nyu.edu/~mwalfish/classes/15sp/syllabus.html)
+	- [Old Exams](http://www.cs.nyu.edu/~mwalfish/classes/15sp/exams.html) 
+
+-------
 
 --------
 ### Programming Languages / Compilers

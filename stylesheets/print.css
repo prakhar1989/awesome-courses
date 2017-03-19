@@ -1,0 +1,228 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  padding: 0;
+  margin: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+  border: 0;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 13px;
+  line-height: 1.5;
+  color: #000;
+}
+
+a {
+  font-weight: bold;
+  color: #d5000d;
+}
+
+header {
+  padding-top: 35px;
+  padding-bottom: 10px;
+}
+
+header h1 {
+  font-size: 48px;
+  font-weight: bold;
+  line-height: 1.2;
+  color: #303030;
+  letter-spacing: -1px;
+}
+
+header h2 {
+  font-size: 24px;
+  font-weight: normal;
+  line-height: 1.3;
+  color: #aaa;
+  letter-spacing: -1px;
+}
+#downloads {
+  display: none;
+}
+#main_content {
+  padding-top: 20px;
+}
+
+code, pre {
+  margin-bottom: 30px;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
+  font-size: 12px;
+  color: #222;
+}
+
+code {
+  padding: 0 3px;
+}
+
+pre {
+  padding: 20px;
+  overflow: auto;
+  border: solid 1px #ddd;
+}
+pre code {
+  padding: 0;
+}
+
+ul, ol, dl {
+  margin-bottom: 20px;
+}
+
+
+/* COMMON STYLES */
+
+table {
+  width: 100%;
+  border: 1px solid #ebebeb;
+}
+
+th {
+  font-weight: 500;
+}
+
+td {
+  font-weight: 300;
+  text-align: center;
+  border: 1px solid #ebebeb;
+}
+
+form {
+  padding: 20px;
+  background: #f2f2f2;
+
+}
+
+
+/* GENERAL ELEMENT TYPE STYLES */
+
+h1 {
+  font-size: 2.8em;
+}
+
+h2 {
+  margin-bottom: 8px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #303030;
+}
+
+h3 {
+  margin-bottom: 8px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #d5000d;
+}
+
+h4 {
+  font-size: 16px;
+  font-weight: bold;
+  color: #303030;
+}
+
+h5 {
+  font-size: 1em;
+  color: #303030;
+}
+
+h6 {
+  font-size: .8em;
+  color: #303030;
+}
+
+p {
+  margin-bottom: 20px;
+  font-weight: 300;
+}
+
+a {
+  text-decoration: none;
+}
+
+p a {
+  font-weight: 400;
+}
+
+blockquote {
+  padding: 0 0 0 30px;
+  margin-bottom: 20px;
+  font-size: 1.6em;
+  border-left: 10px solid #e9e9e9;
+}
+
+ul li {
+  padding-left: 20px;
+  list-style-position: inside;
+  list-style: disc;
+}
+
+ol li {
+  padding-left: 3px;
+  list-style-position: inside;
+  list-style: decimal;
+}
+
+dl dd {
+  font-style: italic;
+  font-weight: 100;
+}
+
+footer {
+  padding-top: 20px;
+  padding-bottom: 30px;
+  margin-top: 40px;
+  font-size: 13px;
+  color: #aaa;
+}
+
+footer a {
+  color: #666;
+}
+
+/* MISC */
+.clearfix:after {
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+  content: '.';
+}
+
+.clearfix {display: inline-block;}
+* html .clearfix {height: 1%;}
+.clearfix {display: block;}

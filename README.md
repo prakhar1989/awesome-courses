@@ -944,6 +944,8 @@ and anti-analysis techniques.
 	- [Lectures](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
 	- [Assignments](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
 	- [Readings](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
+- [CSCI 420](http://www-scf.usc.edu/~csci104/20142/lectures/) **Computer Graphics** <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> *University of Southern California (USC)*
+	- [Lectures and assignments](http://www-bcf.usc.edu/~jbarbic/cs420-s15)
 - [CSE 154](http://courses.cs.washington.edu/courses/cse154/14au/) **Web Programming** *University of Washington* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- This course is an introduction to programming for the World Wide Web. Covers use of HTML, CSS, PHP, JavaScript, AJAX, and SQL.
 	- [Lectures](http://courses.cs.washington.edu/courses/cse154/14au/lectures.shtml#today)

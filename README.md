@@ -511,7 +511,7 @@ Courses
 	- Topics: Advanced memory management features of C and C++; the differences between imperative and object-oriented paradigms. The functional paradigm (using LISP) and concurrent programming (using C and C++)
 	- [Lectures](http://see.stanford.edu/see/lecturelist.aspx?coll=2d712634-2bf1-4b55-9a3a-ca9d470755ee)
 	- [Assignments](http://see.stanford.edu/see/materials/icsppcs107/assignments.aspx)
-- [CS 109] (http://otfried.org/courses/cs109/index.html) **Programming Practice Using Scala** *KAIST* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+- [CS 109](http://otfried.org/courses/cs109/index.html) **Programming Practice Using Scala** *KAIST* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- This course introduces basic concepts of programming and computer science, such as dynamic and static typing, dynamic memory allocation, objects and methods, binary representation of numbers, using an editor and compiler from the command line, running programs with arguments from the command line, using libraries, and the use of basic data structures such as arrays, lists, sets, and maps. We will use Scala for this course.
 	- [Lectures] (http://otfried.org/courses/cs109/index.html)
 	- [Assignments] (http://otfried.org/courses/cs109/index.html)

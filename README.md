@@ -169,6 +169,11 @@ Courses
 	- [Assignments](http://15721.courses.cs.cmu.edu/spring2016/syllabus.html)
 	- [Lecture Videos](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbisIGOepfnlbfxeH7TW-8O)
 	- [Readings](http://15721.courses.cs.cmu.edu/spring2016/schedule.html)
+- [15-445/645](http://15445.courses.cs.cmu.edu/fall2017/) **Database Systems** *Carnegie-Mellon University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- This course covers fundamental topics of DBMS, compared to CMU 15-721. 
+	- [Assignments](http://15445.courses.cs.cmu.edu/fall2017/assignments.html)
+	- [Lecture Videos](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x)
+	- [Readings](http://15445.courses.cs.cmu.edu/fall2017/schedule.html)
 - [15-749](http://www.andrew.cmu.edu/course/15-749/) **Engineering Distributed Systems** *Carnegie-Mellon University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />	
  	- A project focused course on Distributed Systems with an awesome list of readings
 	- [Readings](http://www.andrew.cmu.edu/course/15-749/READINGS/)

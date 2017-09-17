@@ -19,7 +19,7 @@ Table of Contents
 - [Programming Languages / Compilers](#programming-languages--compilers)
 - [Security](#security)
 - [Systems](#systems)
-- [Statistics/Regression] (#statistics/#Regression)
+- [Statistics/Regression](#statistics)
 
 ### Legend
 
@@ -985,14 +985,16 @@ and anti-analysis techniques.
 	- The course site contains links to the lecture videos, reading material and assignments.
 	
 	
-------------------------
-### STATISTICS
+-----
+### Statistics
 
--[STAT 340](https://andrewpbray.github.io/reg/index.html) **Applied Regression Methods** *Smith College* 
--[Syllabus](https://andrewpbray.github.io/reg/syllabus.html)
--This course covers the beautiful and useful tool of regression, which is the central technique of statistical modeling. By the end of this course you will be able to
+-[STAT 340](https://andrewpbray.github.io/reg/index.html) **Applied Regression Methods** *Smith College* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+
+- This course covers the beautiful and useful tool of regression, which is the central technique of statistical modeling. By the end of this course you will be able to:
 	- Discern research questions and data that are well-suited to regression analysis.
 	- Conduct thorough exploratory data analysis of data in multiple dimensions.
 	- Understand the mathematical foundations of regression.
 	- Perform regression analysis in a modern computing environment.
 	- Interpret your model and communicate what it implies.
+- [Syllabus](https://andrewpbray.github.io/reg/syllabus.html)
+-[Lecture Notes](https://andrewpbray.github.io/reg/index.html)

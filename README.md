@@ -935,7 +935,7 @@ and anti-analysis techniques.
 	- [Syllabus](http://courses2.cit.cornell.edu/cs5724/)
 	- [Lectures](http://courses2.cit.cornell.edu/cs5724/schedule.htm)
 	- [Assignments](http://courses2.cit.cornell.edu/cs5724/)
-- [CS 6452](http://www.cs.cornell.edu/courses/CS6452/2012sp/index.php) **Evolutionary Computation** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+- [CS 6452](http://www.cs.cornell.edu/courses/CS6452/2012sp/index.php) **Datacenter Networks and Services** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- CS6452 focuses on datacenter networks and services. The emerging demand for web services and cloud computing have created need for large scale data centers. The hardware and software infrastructure for datacenters critically determines the functionality, performance, cost and failure tolerance of applications running on that datacenter. This course will examine design alternatives for both the hardware (networking) infrastructure, and the software infrastructure for datacenters.
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS6452/2012sp/lectures.php)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS6452/2012sp/lectures.php)

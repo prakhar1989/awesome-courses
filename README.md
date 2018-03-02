@@ -495,6 +495,7 @@ Courses
 	- The course can also be taken from [edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x).
 - [CS 61A](http://cs61a.org/) **Structure and Interpretation of Computer Programs [Python]** *UC Berkeley*  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- In CS 61A, we are interested in teaching you about programming, not about how to use one particular 	programming language. We consider a series of techniques for controlling program complexity, such as functional programming, data abstraction, and object-oriented programming. Mastery of a particular programming language is a very useful side effect of studying these general techniques. However, our hope is that once you have learned the essence of programming, you will find that picking up a new programming language is but a few days' work.
+	- [Lecture Videos](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61a-spring2014-berkeley.html)
 	- [Lecture Resources by Type](http://cs61a.org/by_type.html)
 	- [Lecture Resources by Topic](http://cs61a.org/by_topic.html)
 	- [Additional Resources](http://cs61a.org/articles/resources.html)

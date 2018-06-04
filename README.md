@@ -837,14 +837,14 @@ and anti-analysis techniques.
 	- [Syllabus](https://canvas.instructure.com/courses/904706/assignments/syllabus)
 	- [Lectures](https://canvas.instructure.com/courses/904706)
 	- [Assignments](https://canvas.instructure.com/courses/904706/assignments)
-- [CSCI-GA.2270-001](https://mrl.nyu.edu/~perlin/courses/fall2015/) **Graduate Computer Graphics** *New York University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
-	- Step-by-step study computer graphics, with reading and homework at each lecture (Fall2015)
-	- [Lectures](https://mrl.nyu.edu/~perlin/courses/fall2015/)
 - [CSCI 1230](http://cs.brown.edu/courses/csci1230/index.html) **Introduction to Computer Graphics** *Brown University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- This course offers an in-depth exploration of fundamental concepts in 2D and 3D computer graphics. It introduces 2D raster graphics techniques, including scan conversion, simple image processing, interaction techniques and user interface design. The bulk of the course is devoted to 3D modeling, geometric transformations, and 3D viewing and rendering.
 	- [Lectures](http://cs.brown.edu/courses/csci1230/lectures.html)
 	- [Labs](http://cs.brown.edu/courses/csci1230/labs.html)
 	- [Demos](http://cs.brown.edu/courses/csci1230/demos.html)
+- [CSCI-GA.2270-001](https://mrl.nyu.edu/~perlin/courses/fall2015/) **Graduate Computer Graphics** *New York University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
+	- Step-by-step study computer graphics, with reading and homework at each lecture (Fall2015)
+	- [Lectures](https://mrl.nyu.edu/~perlin/courses/fall2015/)
 
 -------
 ### Misc

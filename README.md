@@ -110,7 +110,7 @@ Courses
 	- [Lecture Notes](http://comp.uark.edu/~wingning/csce3613/CourseNote3613.html)
 	- [Readings](http://comp.uark.edu/~wingning/csce3613/Link3613.html)
 - [CSCI-UA.0202: Operating Systems (Undergrad)](http://www.cs.nyu.edu/~mwalfish/classes/15sp/index.html) **Operating Systems** *NYU* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> 
-    - NYU's operating system course. It's a fundamental course focusing basic ideas of operating systems, including memory management, process shceduling, file system, ect. It also includes some recommended reading materials. What's more, there are a series of hands-on lab materials, helping you easily understand OS.
+    - NYU's operating system course. It's a fundamental course focusing basic ideas of operating systems, including memory management, process scheduling, file system, ect. It also includes some recommended reading materials. What's more, there are a series of hands-on lab materials, helping you easily understand OS.
     - [Assignments](http://www.cs.nyu.edu/~mwalfish/classes/15sp/labs.html)
     - [Lectures](http://www.cs.nyu.edu/~mwalfish/classes/15sp/syllabus.html)
     - [Old Exams](http://www.cs.nyu.edu/~mwalfish/classes/15sp/exams.html) 

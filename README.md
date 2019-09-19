@@ -1003,3 +1003,14 @@ and anti-analysis techniques.
 	- This is an introductory course on Networking for graduate students. It follows a top-down approach to teaching Computer Networks, so it starts with the Application layer which most of the students are familiar with and as the course unravels we learn more about transport, network and link layers of the protocol stack.
 	- As far as prerequisites are concerned - basic computer, programming and probability theory background is required.
 	- The course site contains links to the lecture videos, reading material and assignments.
+
+# The Best Youtube Channels for learning Computer Science
+Other than all the courses, if you want to make your fundamentals solid then you can take a look at these youtube channels. The content is valuable and upto date on these youtube channels.
+
+[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/) **Fundamentals of mathematics visualized in a video** 
+<br>
+[The Coding Train](https://www.youtube.com/user/shiffman) **Live Coding Examples** 
+<br>
+[Tutorialspoint India Ltd.](https://www.youtube.com/channel/UCVLbzhxVTiTLiVKeGV7WEBg) **You will videos here on almost every programing language** 
+<br>
+[Edureka](https://www.youtube.com/user/edurekaIN) **Edureka is the go to website for all the fundamentals on the programing languages and gives a general overview on the important topics.** 

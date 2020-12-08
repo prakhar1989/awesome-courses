@@ -9,16 +9,21 @@ There is a lot of ~~hidden~~ treasure lying within university pages scattered ac
 Table of Contents
 -----------------
 
-- [Algorithms](#algorithms)
-- [Artificial Intelligence](#artificial-intelligence)
-- [Computer Graphics](#computer-graphics)
-- [CS Theory](#cs-theory)
-- [Introduction to CS](#introduction-to-cs)
-- [Machine Learning](#machine-learning)
-- [Misc](#misc)
-- [Programming Languages / Compilers](#programming-languages--compilers)
-- [Security](#security)
-- [Systems](#systems)
+- [Awesome CS Courses ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-cs-courses-img-src%22httpsgithubcomsindresorhusawesome%22-alt%22awesome%22)
+	- [Introduction](#introduction)
+	- [Table of Contents](#table-of-contents)
+		- [Legend](#legend)
+	- [Courses](#courses)
+		- [Systems](#systems)
+		- [Programming Languages / Compilers](#programming-languages--compilers)
+		- [Algorithms](#algorithms)
+		- [CS Theory](#cs-theory)
+		- [Introduction to CS](#introduction-to-cs)
+		- [Machine Learning](#machine-learning)
+		- [Security](#security)
+		- [Artificial Intelligence](#artificial-intelligence)
+		- [Computer Graphics](#computer-graphics)
+		- [Misc](#misc)
 
 ### Legend
 
@@ -243,6 +248,11 @@ Courses
 	- Building software systems in Haskell
 	- [Lecture Slides](http://www.scs.stanford.edu/14sp-cs240h/slides/)
 	- 3 Assignments: [Lab1](http://www.scs.stanford.edu/14sp-cs240h/labs/lab1.html), [Lab2](http://www.scs.stanford.edu/14sp-cs240h/labs/lab2.html), [Lab3](http://www.scs.stanford.edu/14sp-cs240h/labs/lab3.html)
+- [COMP 3161](http://www.cse.unsw.edu.au/~cs3161/19t3/) **Concepts of Programming Languages** *University of New Sout Wales*
+	- This course discusses and relates a range of programming language concepts and paradigms, including imperative, object-oriented, functional, concurrent & parallel programming (see [course outline](http://www.cse.unsw.edu.au/~cs3161/19t3/outline.html)).
+	- [Assignemnts 1](http://www.cse.unsw.edu.au/~cs3161/19t3/Assignment%2001/Spec.pdf) & [Assignemnts 2](http://www.cse.unsw.edu.au/~cs3161/19t3/Assignment%2002/Spec.pdf)
+	- [Lecture Slides](http://www.cse.unsw.edu.au/~cs3161/19t3/)
+
 - [CS 421](https://courses.engr.illinois.edu/cs421/fa2014/) **Programming Languages and Compilers** *Univ of Illinois, Urbana-Champaign* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
  Course that uses OCaml to teach functional programming and programming language design.
 	- [Lectures](https://courses.engr.illinois.edu/cs421/fa2014/lectures/index.html)

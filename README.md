@@ -1,5 +1,6 @@
 # Awesome CS Courses [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+<div id="table-of-contents"></div>
 
 Introduction
 ------------
@@ -193,6 +194,8 @@ Courses
 	- [Homeworks](http://www.ece.cmu.edu/~ece447/s15/doku.php?id=homeworks) 7 HWs with answer set as well
 	- [Readings](http://www.ece.cmu.edu/~ece447/s15/doku.php?id=readings)
 
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
+
 --------
 ### Programming Languages / Compilers
 
@@ -316,6 +319,8 @@ Courses
 	- This module aims to teach students how to use the features of modern typed functional programming languages (e.g. OCaml, Haskell) to design and implement libraries and DSLs. It aims to demonstrate how such techniques can improve both correctness and efficiency. Students wishing to take the module should have some experience of a typed functional programming language and an understanding of type inference.
 	- This particular session was taught by a prominent OCaml programmer, open Source contributor & author of real world OCaml - Dr Anil Madhavapeddy.
 
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
+
 -------
 
 ### Algorithms
@@ -416,6 +421,8 @@ Courses
 - [16s-4102](http://www.cs.virginia.edu/~shelat/16s-4102/) **Algorithms** *University of Virginia* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> 
 	- [Lecture Videos & Homeworks](http://www.cs.virginia.edu/~shelat/16s-4102/) ([Youtube](https://www.youtube.com/channel/UCxXYk53cSZof2bR_Ax0uJYQ/videos))
 
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
+
 -------
 
 ### CS Theory
@@ -483,6 +490,8 @@ Courses
 	- [Syllabus](https://stellar.mit.edu/S/course/6/sp15/6.045/courseMaterial/topics/topic1/syllabus/syllabus2015/syllabus2015.pdf)
 	- [Lecture Notes](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html)
 	- [Lecture Videos](http://stellar.mit.edu/S/course/6/sp15/6.045/special/videos/index.html)
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 -------
 
@@ -602,6 +611,7 @@ Courses
 	- This course introduces fundamental principles and techniques of software development. Students learn how to write software that is safe from bugs, easy to understand, and ready for change. Topics include specifications and invariants; testing, test-case generation, and coverage; state machines; abstract data types and representation independence; design patterns for object-oriented programming; concurrent programming, including message passing and shared concurrency, and defending against races and deadlock; and functional programming with immutable data and higher-order functions.
 	- [Lectures Notes/Assignments](http://web.mit.edu/6.005/www/fa16/)
 
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 -------
 
@@ -738,6 +748,8 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 	- [Practicals](http://uvadlc.github.io/#practicals)
 	- [Readings](http://uvadlc.github.io/#other-links)
 
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
+
 -------
 
 ### Security
@@ -794,6 +806,8 @@ and anti-analysis techniques.
 - [18-636](https://courseware.stanford.edu/pg/courses/334553/18636-spring-2013) **Browser Security** *Stanford* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- The Web continues to grow in popularity as platform for retail transactions, financial services, and rapidly evolving forms of communication. It is becoming an increasingly attractive target for attackers who wish to compromise users' systems or steal data from other sites. Browser vendors must stay ahead of these attacks by providing features that support secure web applications. This course will study vulnerabilities in existing web browsers and the applications they render, as well as new technologies that enable web applications that were never before possible. The material will be largely based on current research problems, and students will be expected to criticize and improve existing defenses. Topics of study include (but are not limited to) browser encryption, JavaScript security, plug-in security, sandboxing, web mashups, and authentication.
 
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
+
 -------
 ### Artificial Intelligence
 
@@ -816,6 +830,8 @@ and anti-analysis techniques.
   - [Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/)
   - [Assignments](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/assignments/)
   - [Readings](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/readings/)
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 -------
 ### Computer Graphics
@@ -855,6 +871,8 @@ and anti-analysis techniques.
 - [CSCI-GA.2270-001](https://mrl.nyu.edu/~perlin/courses/fall2015/) **Graduate Computer Graphics** *New York University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
 	- Step-by-step study computer graphics, with reading and homework at each lecture (Fall2015)
 	- [Lectures](https://mrl.nyu.edu/~perlin/courses/fall2015/)
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 -------
 ### Misc
@@ -1008,3 +1026,5 @@ and anti-analysis techniques.
 	- This is an introductory course on Networking for graduate students. It follows a top-down approach to teaching Computer Networks, so it starts with the Application layer which most of the students are familiar with and as the course unravels we learn more about transport, network and link layers of the protocol stack.
 	- As far as prerequisites are concerned - basic computer, programming and probability theory background is required.
 	- The course site contains links to the lecture videos, reading material and assignments.
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>

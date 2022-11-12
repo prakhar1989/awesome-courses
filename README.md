@@ -219,7 +219,6 @@ Courses
 - [Corsopl](https://pradella.faculty.polimi.it/PL.html) **Principles of Programming Languages** *Politecnico di Milano*  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> - Lecture Notes <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> - Readings
 	- This course gives an overview of Scheme, Haskell and Erlang while analyzing the languages' similarities and differences. As a result, many important/prevalent concepts and how they manifest differently in different programming languages are explained. Among these are (purely) functional programming, object orientation, type inference and evaluation order.
 	- Thorough introduction to functional programming with no preknowledge in any functional language required.	
-Courses	
 - [COS 326](http://www.cs.princeton.edu/~dpw/courses/cos326-12/info.php) **Functional Programming** *Princeton University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- Covers functional programming concepts like closures, tail-call recursion & parallelism using the OCaml programming language
 	- [Lectures](http://www.cs.princeton.edu/~dpw/courses/cos326-12/lectures.php)

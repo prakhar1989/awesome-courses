@@ -989,6 +989,10 @@ and anti-analysis techniques.
 	- Taught by [James Frew](http://www.bren.ucsb.edu/people/Faculty/james_frew.htm), [Ben Best](http://mgel.env.duke.edu/people/ben-best/), and [Lisa Wedding](http://www.centerforoceansolutions.org/team/lisa-wedding)
 	- Focuses on specific computational languages (e.g., Python, R, shell) and tools (e.g., GDAL/OGR, InVEST, MGET, ModelBuilder) applied to the spatial analysis of environmental problems
 	- [GitHub ](http://ucsb-bren.github.io/esm296-4f/) (includes lecture materials and labs)
+- [GSD 6338](https://www.gsd.harvard.edu/course/introduction-to-computational-design-fall-2019/) **Introduction to Computational Design** *Harvard University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />
+	- Taught by [Jose Luis García del Castillo](https://www.instagram.com/garciadelcastillo/).
+	- Focuses on computational geometry for architecture, design and art.
+	- [Lecture Videos (YouTube)](https://www.youtube.com/playlist?list=PLvxxYImPCApUXhX3te3IK32ileXHpzKY4)
 - [ICS 314](http://philipmjohnson.github.io/ics314f13/) **Software Engineering** *University of Hawaii*  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- Taught by [Philip Johnson](http://philipmjohnson.org/)
 	- Introduction to software engineering using the ["Athletic Software Engineering" pedagogy](http://philipmjohnson.org/essays/ase-initial-results.html)
